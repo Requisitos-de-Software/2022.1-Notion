@@ -4,7 +4,7 @@
 
 <!-- background image -->
 
-![logo_cover](_media/Moovit_Logo-primary)
+![logo_cover](_media/Moovit_Logo-primary.png)
 
 <!-- background color -->
 

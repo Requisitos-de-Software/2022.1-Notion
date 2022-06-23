@@ -1,4 +1,5 @@
-- [Home](/)
-- [Sobre](/README)
-
-- Projeto e Produto
+- [Home](/README)
+- Planejamento
+    - [Ferramentas](planejamento/ferramentas.md)
+    - [Cronograma das Atividades](planejamento/cronograma.md)
+    - [Heatmap](planejamento/heatmap.md)
