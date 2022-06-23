@@ -2,7 +2,7 @@
 
 | Membro             | Github            |
 | ------------------ | ----------------- |
-| Arthur Lima        | Bernardo Pissutti |
+| Arthur Lima        | Arthurlima544 |
 | Bernardo Pissutti  | berssutti         |
 | Cícero Fernandes   | ciceroff          |
 | Guilherme Brito    | dev-brito      |
