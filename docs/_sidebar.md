@@ -3,3 +3,4 @@
   - [Cronograma das Atividades](planejamento/cronograma.md)
   - [Ferramentas](planejamento/ferramentas.md)
   - [Heatmap](planejamento/heatmap.md)
+- [Pré-rastreabilidade](/pre-rastreabilidade)
