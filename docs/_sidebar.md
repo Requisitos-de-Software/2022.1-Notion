@@ -1,5 +1,5 @@
 - [Home](/README)
-- [Planejamento]()
-  - [Ferramentas](planejamento/ferramentas.md)
+- [Planejamento](planejamento/cronograma.md)
   - [Cronograma das Atividades](planejamento/cronograma.md)
+  - [Ferramentas](planejamento/ferramentas.md)
   - [Heatmap](planejamento/heatmap.md)
