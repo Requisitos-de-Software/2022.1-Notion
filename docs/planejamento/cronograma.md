@@ -28,7 +28,7 @@
 |          24/08       |                  Entrega da apresentação do projeto etapa 6: Pós-Rastreabilidade - Gerência II                                |
 |            25/08          |             Apresentação do projeto etapa 6: Pós-Rastreabilidade - Gerência II                                    |
 |         12/09             |             Entrega da apresentação do projeto final                                    |
-
-| Versão | Data       | Descrição                   | Autor             | Revisor    |
-|--------|------------|-----------------------------|-------------------|------------|
-| 1.0    | 22/06/2022 | Transcrição dos Cronogramas | Bernardo Pissutti |            |
+## Histórico de Versões
+| Versão | Data       | Descrição                   | Autor             |
+|--------|------------|-----------------------------|-------------------|
+| 1.0    | 22/06/2022 | Transcrição dos Cronogramas | Bernardo Pissutti |
