@@ -3,4 +3,5 @@
   - [Cronograma das Atividades](planejamento/cronograma.md)
   - [Ferramentas](planejamento/ferramentas.md)
   - [Heatmap](planejamento/heatmap.md)
+  - [Metodologia](planejamento/metodologia.md)
 - [Pré-rastreabilidade](pre-rastreabilidade/rich_picture.md)

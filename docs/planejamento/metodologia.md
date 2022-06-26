@@ -30,3 +30,6 @@ saberem quais entragas entregáveis devem ser feito, estão sendo feitos e os qu
 - Sommerville,Ian - Engenharia de Software - 9 ed. - São Paulo: Pearson Prentice Hall, 2011.
 
 ## Histórico de Versões
+| Versão | Data       | Descrição                  | Autor             |
+|--------|------------|----------------------------|-------------------|
+| 1.0    | 26/06/2022 | Criação e edição da página | Bernardo Pissutti |
