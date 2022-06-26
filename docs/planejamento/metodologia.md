@@ -14,7 +14,7 @@ As sprints serão organizadas seguindo os pontos de controle já definidos no pl
 de ensino, onde em cada sprint será defino o backlog correspondente à entrega que
 deverá ser realizada no ponto de controle seguinte.
 ## Reuniões Semanais
-Foi decidido com a ajuda do [heatmap](heatmap.md) duas reuniões por semana, 
+Foi decidido com a ajuda do [heatmap](./heatmap.md) duas reuniões por semana, 
 a primeira no inicio da sprint e a segunda no final da sprint. A primeira como o
 objetivo de organizar as tarefas da sprint e a segunda com o objetivo de revisar
 a sprint e gravar a apresentação da entrega do ponto de controle.
