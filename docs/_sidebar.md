@@ -1,5 +1,8 @@
 - [Home](/README)
 - Planejamento
-    - [Ferramentas](planejamento/ferramentas.md)
-    - [Cronograma das Atividades](planejamento/cronograma.md)
-    - [Heatmap](planejamento/heatmap.md)
+  - [Cronograma das Atividades](planejamento/cronograma.md)
+  - [Ferramentas](planejamento/ferramentas.md)
+  - [Heatmap](planejamento/heatmap.md)
+  - [Metodologia](planejamento/metodologia.md)
+- Pré-rastreabilidade
+  - [Rich Picture](pre-rastreabilidade/rich_picture.md)
