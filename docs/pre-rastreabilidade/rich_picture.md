@@ -10,12 +10,32 @@ Optamos por criar duas rich pictures que descrevem visões macro (do que o siste
 Em termos gerais, a primeira está mais propensa a ir além do chamado "limite do sistema" enquanto a segunda se restringe a ele.
 
 ## 2. Rich Pictures
-### 1. Visão micro
+### 2.1 Visão micro
 
-![Rich Picture Version 1](../_media/rich_picture_micro.png "Rich Picture Version 1")
-### 2. Visão macro
+<center>
 
-![Rich Picture Version 1](../_media/rich_picture_macro.jpg "Rich Picture Version 1")
+![Rich Picture Micro Version 1](../_media/rich_picture_micro.png "Rich Picture Micro Version 1")
+
+<figcaption>Imagem 1: Rich Picture Micro versão 1.</figcaption>
+
+</center>
+
+
+### 2.2 Legenda da visão micro
+
+A construção do Rich Picture Macro, do aplicativo Moovit, foi baseada nos 5 elementos principais para a confecção de um bom Rich Picture, os quais, segundo Revadi(2018, p.4), são: os atores, as operações, os armazenamentos de dados, as setas e o limite do sistema.
+
+<center>
+
+![Legenda Rich Picture Micro Version 1](../_media/legenda_rp_macro.png "Rich Picture Micro Version 1")
+
+<figcaption>Imagem 2: Legenda do Rich Picture Micro versão 1.</figcaption>
+
+</center>
+
+### 2.3 Visão macro
+
+![Rich Picture Macro Version 1](../_media/rich_picture_macro.jpg "Rich Picture Macro Version 1")
 
 
 ## 3. Referências
