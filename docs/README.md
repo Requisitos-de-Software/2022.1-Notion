@@ -1,7 +1,9 @@
 ## Início
 
 <center>
+
 ![logo_cover](_media/Moovit_Logo-primary.png)
+
 </center>
 
 # 1. Sobre o projeto
