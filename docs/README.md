@@ -25,12 +25,12 @@ O Moovit é um aplicativo que tem como objetivo tornar a locomoção algo mais s
 | Leonardo Vitoriano       | leonardomilv3 |
 | Nícolas Georgeos Mantzos | ngm1450       |
 
+## Referências Bibliograficas
+
+- MOOVIT: Sobre o Moovit. Disponível em: https://moovit.com/pt/about-us-pt/. Acesso em: 28/06/2022
+
 # Histórico de Versões
 
 | Versão | Data       | Descrição                   | Autor            | Revisor |
 | ------ | ---------- | --------------------------- | ---------------- | ------- |
 | 1.0    | 28/06/2022 | Criação da página de início | Cícero Fernandes |         |
-
-# Bibliografia
-
-MOOVIT:Sobre o Moovit. Disponível em: https://moovit.com/pt/about-us-pt/. Acesso em: 28/06/2022
