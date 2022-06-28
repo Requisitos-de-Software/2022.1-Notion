@@ -23,7 +23,7 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 
 ### 2.2 Legenda da visão micro
 
-A construção do Rich Picture Macro, do aplicativo Moovit, foi baseada nos 5 elementos principais para a confecção de um bom Rich Picture, os quais, segundo Revadi(2018, p.4), são: os atores, as operações, os armazenamentos de dados, as setas e o limite do sistema.
+A construção do Rich Picture Macro, do aplicativo Moovit, foi baseada nos 5 elementos principais para a confecção de um bom Rich Picture, os quais, segundo Revadi(2018, p.4), são: os atores, as operações, os armazenamentos de dados, as setas e o limite do sistema. Os elementos citados podem ser encontrados na *Imagem 2*.
 
 <center>
 
