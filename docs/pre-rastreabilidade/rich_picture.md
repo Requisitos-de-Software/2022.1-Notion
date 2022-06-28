@@ -12,14 +12,24 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 ## 2. Rich Pictures
 ### 2.1 Visão micro
 
-<center>
+<div style="text-align: center;">
 
 ![Rich Picture Micro Version 1](../_media/rich_picture_micro.png "Rich Picture Micro Version 1")
 
 <figcaption>Imagem 1: Rich Picture Micro versão 1.</figcaption>
 
-</center>
+</div>
 
+### 2.3 Visão macro
+
+
+<div style="text-align: center;">
+
+![Rich Picture Macro Version 1](../_media/rich_picture_macro.jpg "Rich Picture Macro Version 1")
+
+<figcaption>Imagem 2: Rich Picture Macro versão 1.</figcaption>
+
+</div>
 
 ### 2.2 Legenda da visão micro
 
@@ -27,16 +37,19 @@ A construção do Rich Picture Macro, do aplicativo Moovit, foi baseada nos 5 el
 
 <center>
 
-![Legenda Rich Picture Micro Version 1](../_media/legenda_rp_macro.png "Rich Picture Micro Version 1")
+![Legenda Rich Picture](../_media/legenda_rp_macro.png "Rich Picture Micro Version 1")
 
-<figcaption>Imagem 2: Legenda do Rich Picture Micro versão 1.</figcaption>
+<figcaption>Imagem 3: Legenda Rich Pictures.</figcaption>
 
 </center>
 
-### 2.3 Visão macro
-
-![Rich Picture Macro Version 1](../_media/rich_picture_macro.jpg "Rich Picture Macro Version 1")
-
+## Histórico de Versões
+| Versão | Data       | Descrição                            | Autor             |
+|--------|------------|--------------------------------------|-------------------|
+| 1.0    | 26/06/2022 | Implementação inicial da página | Leonardo Milomes Vitoriano |
+| 1.0.1    | 26/06/2022 | Adição da Rich Picture - Micro                 | Leonardo Milomes Vitoriano |
+| 1.0.2   | 27/06/2022 | Adição da introdução, das referências e da Rich Picture - Macro           | Nícolas Georgeos Mantzos |
+| 1.0.2   | 27/06/2022 | Correções gerais           | Nícolas Georgeos Mantzos |
 
 ## 3. Referências
 Rich picture. MSP Guide. Disponível em: <https://mspguide.org/2022/03/18/rich-picture/>. Acesso em: 27 de jun. de 2022.
