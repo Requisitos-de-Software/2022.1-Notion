@@ -8,9 +8,10 @@
 | 22/06 | Definição do cronograma                         | Arthur e Cicero                                         |           |
 | 22/06 | Realização da base do git pages                 | Leonardo                                                |           |
 | 22/06 | Definição das ferramentas utilizadas no projeto | Bernardo                                                |           |
-| 25/06 |                   Rich picture                              |                                                         |           |
-| 25/06 |                 Planejamento do projeto (metodologia, heatmap, roadmap)                                |  |           |
-| 26/06 | Gravação do projeto                                            | Todos                                                   |           |
+| 25/06 | Rich picture                              |  Leonardo e nicolas                                            |           |
+| 27/06 | Planejamento do projeto - metodologia, heatmap  | Leonardo  |           |
+| 27/06 | Planejamento do projeto - roadmap e configuração ZenHub  | Arthur  |           |
+| 28/06 | Gravação do projeto (sincrona)    | Todos                                                   |           |
 
 ## Cronograma Geral das Atividades 
 | Data  | Atividade                                       |
@@ -29,6 +30,8 @@
 |            25/08          |             Apresentação do projeto etapa 6: Pós-Rastreabilidade - Gerência II                                    |
 |         12/09             |             Entrega da apresentação do projeto final                                    |
 ## Histórico de Versões
-| Versão | Data       | Descrição                   | Autor             |
-|--------|------------|-----------------------------|-------------------|
+| Versão | Data       | Descrição                   | Autor             | Revisor |
+|--------|------------|-----------------------------|-------------------|-------------------|
+| 1.0    | 22/06/2022 | Criação dos  Cronogramas    | Arthur            | Cicero  |
 | 1.0    | 22/06/2022 | Transcrição dos Cronogramas | Bernardo Pissutti |
+| 1.1    | 28/06/2022 | Atualização do Cronograma    | Arthur           |
