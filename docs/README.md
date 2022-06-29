@@ -26,7 +26,7 @@
     <p style="text-align: justify">&emsp;Somos estudantes de Engenharia de Software da Universidade de Brasília do Campus Gama.</p>
     <p style="text-align: justify">&emsp;Neste trabalho, aplicamos os conhecimentos que foram adquiridos na matéria de Requisitos de Software no semestre de 2021/2.</p>
     <p style="text-align: justify">
-    &emsp;O aplicativo utilizado para a aplicação do conteúdo foi o Moovit: Um aplicativo gratuito de mobilidade urbana com foco em informações de transporte público e de navegação. Esse aplicativo foi escolhido pois está presente em nosso dia-a-dia pois somos usuários de transporte público e utilizamos diariamente o aplicativo para mobilidade.
+    &emsp;O aplicativo utilizado para a aplicação do conteúdo foi o Moovit: Um aplicativo gratuito de mobilidade urbana com foco em informações de transporte público e de navegação. Esse aplicativo foi escolhido pois está presente em nosso dia a dia pois somos usuários de transporte público e utilizamos diariamente o aplicativo para mobilidade.
     </p>
 </section>
 <section>
@@ -51,7 +51,7 @@
           <div style="display:flex;justify-content: center">
             <img class="foto_membro" src="_media/cicero.jpg">
           </div>
-          <p style="text-align:center;margin:0"">Cícero Fernandes</p>
+          <p style="text-align:center;margin:0">Cícero Fernandes</p>
           <p style="text-align:center">Github: ciceroff</p>
         </div>
       </div>
@@ -60,21 +60,21 @@
           <div style="display:flex;justify-content: center">
             <img class="foto_membro" src="_media/guilherme.jpg">
           </div>
-          <p style="text-align:center;margin:0"">Guilherme Brito</p>
+          <p style="text-align:center;margin:0">Guilherme Brito</p>
           <p style="text-align:center">Github: dev-brito</p>
         </div>
     <div class="foto_texto">
           <div style="display:flex;justify-content: center">
             <img class="foto_membro" src="_media/leonardo.jpg">
           </div>
-          <p style="text-align:center;margin:0"">Leonardo Vitoriano</p>
+          <p style="text-align:center;margin:0">Leonardo Vitoriano</p>
         <p style="text-align:center">Github: leonardomilv3</p>
         </div>
         <div class="foto_texto">
           <div style="display:flex;justify-content: center">
             <img class="foto_membro" src="_media/nicolas.jpg">
           </div>
-          <p style="text-align:center;margin:0"">Nicolas Georgeos</p>
+          <p style="text-align:center;margin:0">Nicolas Georgeos</p>
           <p style="text-align:center">Github: ngm1450</p>
         </div>
       </div>
