@@ -34,7 +34,7 @@
     <p style="text-align: justify">&emsp;Somos estudantes de Engenharia de Software da Universidade de Brasília do Campus Gama. Esse repositório é destinado ao projeto da disciplina de Requisitos de Software do curso de Engenharia de Software da Faculdade do Gama(FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Moovit, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
 </p>
     <p style="text-align: justify">
-    &emsp;O aplicativo utilizado para a aplicação do conteúdo foi o Moovit: Um aplicativo gratuito de mobilidade urbana com foco em informações de transporte público e de navegação. Esse aplicativo foi escolhido pois está presente em nosso dia-a-dia pois somos usuários de transporte público e utilizamos diariamente o aplicativo para mobilidade.
+    &emsp;O aplicativo utilizado para a aplicação do conteúdo foi o Moovit: Um aplicativo gratuito de mobilidade urbana com foco em informações de transporte público e de navegação. Esse aplicativo foi escolhido pois está presente em nosso dia a dia pois somos usuários de transporte público e utilizamos diariamente o aplicativo para mobilidade.
       Lançado em 2012, o aplicativo conta com 12 idiomas, já contém mais de 1.3bi de usuários espalhados por 3500 cidades mundo a fora.
     </p>
 </section>
