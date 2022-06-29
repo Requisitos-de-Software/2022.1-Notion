@@ -56,10 +56,3 @@ Rich picture. MSP Guide. Disponível em: <https://mspguide.org/2022/03/18/rich-p
 
 REVADI, Chindy Elsanna. Rich Picture Guidelines. CTEC2402 - Software Development
 Project. Abril, 2018.
-
-## Histórico de Versões
-| Versão | Data       | Descrição                  | Autor             |
-|--------|------------|----------------------------|-------------------|
-| 1.0    | 25/06/2022 | Criação e edição do RichPicture Micro | Leonardo Vitoriano |
-| 1.1    | 26/06/2022 | Adição do do RichPicture Macro, introdução e referências | Nícolas Georgeos |
-| 1.2    | 28/06/2022 | Adiação da Legenda do RichPicture | Leonardo Vitoriano |
