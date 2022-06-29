@@ -1,5 +1,5 @@
 - [Home](/README)
-- [Apresentações](/apresentacoes.md)
+- [Apresentações](docs/apresentacoes.md)
 - Planejamento
   - [Cronograma das Atividades](planejamento/cronograma.md)
   - [Ferramentas](planejamento/ferramentas.md)
