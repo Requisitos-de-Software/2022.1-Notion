@@ -20,7 +20,7 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 
 </div>
 
-### 2.3 Visão macro
+### 2.2 Visão macro
 
 
 <div style="text-align: center;">
@@ -31,9 +31,9 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 
 </div>
 
-### 2.2 Legenda da visão micro
+### 2.3 Legenda 
 
-A construção do Rich Picture Macro, do aplicativo Moovit, foi baseada nos 5 elementos principais para a confecção de um bom Rich Picture, os quais, segundo Revadi(2018, p.4), são: os atores, as operações, os armazenamentos de dados, as setas e o limite do sistema. Os elementos citados podem ser encontrados na *Imagem 2*.
+A construção dos RichPictures, do aplicativo Moovit, foi baseada nos 5 elementos principais para a confecção de um bom Rich Picture, os quais, segundo Revadi(2018, p.4), são: os atores, as operações, os armazenamentos de dados, as setas e o limite do sistema. Os elementos citados podem ser encontrados na *Imagem 3*.
 
 <center>
 
@@ -56,3 +56,10 @@ Rich picture. MSP Guide. Disponível em: <https://mspguide.org/2022/03/18/rich-p
 
 REVADI, Chindy Elsanna. Rich Picture Guidelines. CTEC2402 - Software Development
 Project. Abril, 2018.
+
+## Histórico de Versões
+| Versão | Data       | Descrição                  | Autor             |
+|--------|------------|----------------------------|-------------------|
+| 1.0    | 25/06/2022 | Criação e edição do RichPicture Micro | Leonardo Vitoriano |
+| 1.1    | 26/06/2022 | Adição do do RichPicture Macro, introdução e referências | Nícolas Georgeos |
+| 1.2    | 28/06/2022 | Adiação da Legenda do RichPicture | Leonardo Vitoriano |
