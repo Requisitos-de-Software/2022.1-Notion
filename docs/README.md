@@ -101,4 +101,4 @@ MOOVIT: Sobre o Moovit. Disponível em: https://moovit.com/pt/about-us-pt/. Aces
 |--------|------------|-------------------|-------------------|
 | 1.0    | 25/06/2022 | Criação da página | Bernardo Pissutti |
 | 1.1    | 27/06/2022 | Estilização da Página | Guilherme Brito |
-| 1.2    | 28/06/2022 | Criação da página de início | Cícero Fernandes |
+| 1.2    | 28/06/2022 | Edição de Texto sobre o Aplicativo | Cícero Fernandes |
