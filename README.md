@@ -1,6 +1,6 @@
 <center>
 
-![logo_cover](/docs/_media/Moovit_Logo-primary.png)
+![logo_cover](/docs/_media/notion_logo2.png)
 
 </center>
 

@@ -1,6 +1,6 @@
 <center>
 
-![logo_cover](_media/Moovit_Logo-primary.png)
+
 
 </center>
 
