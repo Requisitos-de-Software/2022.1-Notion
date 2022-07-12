@@ -1,9 +1,14 @@
 - [Home](/README)
 - [Apresentações](apresentacoes.md)
-- Planejamento
+- **Planejamento**
   - [Cronograma das Atividades](planejamento/cronograma.md)
   - [Ferramentas](planejamento/ferramentas.md)
   - [Heatmap](planejamento/heatmap.md)
   - [Metodologia](planejamento/metodologia.md)
-- Pré-rastreabilidade
+- **Pré-rastreabilidade**
   - [Rich Picture](pre-rastreabilidade/rich_picture.md)
+- **Elicitação**
+  - [Personas](elicitacao/personas.md)
+  - [Técnicas](elicitacao/tecnicas.md)
+  - [Priorização](elicitacao/priorizacao.md)
+  - [Resultados](elicitacao/resultado.md)
