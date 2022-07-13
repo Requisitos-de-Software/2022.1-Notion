@@ -23,15 +23,21 @@ Nessa seção serão apresentados os resultados da introspecção, mostrados na 
 
 Nessa seção
 
-| Número | Requisito                                                      |
+| Código | Requisito                                                      |
 | ------ | -------------------------------------------------------------- |
-| 1      | O usuário deve poder criar um documento                        |
-| 2      | O usuário deve poder encontrar um documento criado previamente |
-| 3      | O usuário deve poder editar um documento                       |
-| 4      | O usuário deve poder excluir um documento quando desejado      |
-| 5      | O usuário deve poder ser autenticado no sistema                |
+| RF1    | O usuário deve poder criar um documento                        |
+| RF2    | O usuário deve poder encontrar um documento criado previamente |
+| RF3    | O usuário deve poder editar um documento                       |
+| RF4    | O usuário deve poder excluir um documento quando desejado      |
+| RF5    | O usuário deve poder ser autenticado no sistema                |
 
 _Tabela 1: Requisitos funcionais_
+
+| Código | Requisito                                                      |
+| ------ | -------------------------------------------------------------- |
+| RNF1   | Deve ser possível instalar a aplicação em dispositivos android |
+
+_Tabela 2: Requisitos não funcionais_
 
 ## Referências Bibliográficas
 
