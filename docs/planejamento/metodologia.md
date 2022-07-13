@@ -9,25 +9,25 @@ a utilização de elementos vindo de abordagens ágeis, na verdade segundo somme
 dos projetos de software incluem práticas das abordagens dirigidas a plano e ágil. Dessa forma,
 foi incluso na abordagem desse projeto práticas como sprints, reuniões semanais e quadro kanban.
 
-## Sprints
+## 1. Sprints
 
 As sprints serão organizadas seguindo os pontos de controle já definidos no plano
 de ensino, onde o backlog de cada sprint corresponde à entrega que
 deverá ser realizada no ponto de controle seguinte.
 
-## Reuniões Semanais
+## 2. Reuniões Semanais
 
 Foi decidido com o auxilio do [heatmap](planejamento/heatmap.md) duas reuniões por semana,
 uma no início da sprint e a outra ao final da sprint. A primeira com o
 objetivo de organizar as tarefas da sprint e a segunda com o objetivo de revisar
 a sprint e gravar a apresentação da entrega do ponto de controle.
 
-## Revisão por Pares
+## 3. Revisão por Pares
 
 Para evitar erros na entrega e para que toda a equipe esteja ciente e em concordancia com
 as alterações feitas no trabalho.
 
-## Quadro Kanban
+## 4. Quadro Kanban
 
 O quadro kanban será a base que os integrantes do grupo terão para
 saberem quais entregáveis devem ser feito, estão sendo feitos e os que já estão feitos (to do, doing, done)
