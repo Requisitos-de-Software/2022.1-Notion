@@ -21,8 +21,6 @@ Foram selecionados dois participantes do grupo para fazer a introspecção, elas
 
 Nessa seção serão apresentados os resultados da introspecção, mostrados na tabela 1 e 2.
 
-Nessa seção
-
 | Código | Requisito                                                      |
 | ------ | -------------------------------------------------------------- |
 | RF1    | O usuário deve poder criar um documento                        |
