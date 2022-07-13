@@ -31,15 +31,23 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 
 </div>
 
+<div style="text-align: center;">
+
+![Rich Picture Macro Version 1](../_media/rich_picture_notion_v1.jpg "Rich Picture Macro Version 1")
+
+<figcaption>Imagem 3: Rich Picture Notion - versão 1.</figcaption>
+
+</div>
+
 ### 2.3 Legenda 
 
-A construção dos RichPictures, do aplicativo Moovit, foi baseada nos 5 elementos principais para a confecção de um bom Rich Picture, os quais, segundo Revadi(2018, p.4), são: os atores, as operações, os armazenamentos de dados, as setas e o limite do sistema. Os elementos citados podem ser encontrados na *Imagem 3*.
+A construção das Rich Pictures foi baseada nos cinco elementos principais destacados por Revadi (2018, p.4) para a confecção dos Rich Pictures, os quais, segundo ele, são: atores, operações, armazenamentos de dados, setas e limite do sistema. Esses elementos podem ser encontrados na *Imagem 4*.
 
 <center>
 
 ![Legenda Rich Picture](../_media/legenda_rp_macro.png "Rich Picture Micro Version 1")
 
-<figcaption>Imagem 3: Legenda Rich Pictures.</figcaption>
+<figcaption>Imagem 4: Legenda Rich Pictures.</figcaption>
 
 </center>
 
@@ -50,6 +58,8 @@ A construção dos RichPictures, do aplicativo Moovit, foi baseada nos 5 element
 | 1.0.1    | 26/06/2022 | Adição da Rich Picture - Micro                 | Leonardo Milomes Vitoriano |
 | 1.0.2   | 27/06/2022 | Adição da introdução, das referências e da Rich Picture - Macro           | Nícolas Georgeos Mantzos |
 | 1.0.2   | 27/06/2022 | Correções gerais           | Nícolas Georgeos Mantzos |
+| 1.0.3   | 12/07/2022 | Transição para o Notion           | Nícolas Georgeos Mantzos |
+
 
 ## 3. Referências
 Rich picture. MSP Guide. Disponível em: <https://mspguide.org/2022/03/18/rich-picture/>. Acesso em: 27 de jun. de 2022.
