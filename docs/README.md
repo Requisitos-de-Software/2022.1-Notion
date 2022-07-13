@@ -1,7 +1,5 @@
 <center>
 
-
-
 </center>
 
 <style>
@@ -31,12 +29,13 @@
 
 ## Sobre Nós
 
-  Somos estudantes de Engenharia de Software da Universidade de Brasília do Campus Gama. Esse repositório é destinado ao projeto da disciplina de Requisitos de Software do curso de Engenharia de Software da Faculdade do Gama(FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Moovit, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
+Somos estudantes de Engenharia de Software da Universidade de Brasília do Campus Gama. Esse repositório é destinado ao projeto da disciplina de Requisitos de Software do curso de Engenharia de Software da Faculdade do Gama(FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Moovit, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
 
-  O Moovit é um aplicativo gratuito de mobilidade urbana com foco em informações de transporte público e de navegação. Esse aplicativo foi escolhido pois está presente em nosso dia a dia pois somos usuários de transporte público e utilizamos diariamente o aplicativo para mobilidade.
-  Lançado em 2012, o aplicativo conta com 12 idiomas, já contém mais de 1.3bi de usuários espalhados por 3500 cidades mundo a fora.
+O Moovit é um aplicativo gratuito de mobilidade urbana com foco em informações de transporte público e de navegação. Esse aplicativo foi escolhido pois está presente em nosso dia a dia pois somos usuários de transporte público e utilizamos diariamente o aplicativo para mobilidade.
+Lançado em 2012, o aplicativo conta com 12 idiomas, já contém mais de 1.3bi de usuários espalhados por 3500 cidades mundo a fora.
 
 ## Equipe
+
 <section>
     <h1 style="text-align: center"></h1>
     <div class="equipe">
@@ -89,15 +88,14 @@
     </div>
 </section>
 
-
-## Referências Bibliograficas
+## Referências Bibliográficas
 
 MOOVIT: Sobre o Moovit. Disponível em: https://moovit.com/pt/about-us-pt/. Acesso em: 28/06/2022
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor             |
-|--------|------------|-------------------|-------------------|
-| 1.0    | 25/06/2022 | Criação da página | Bernardo Pissutti |
-| 1.1    | 27/06/2022 | Estilização da Página | Guilherme Brito |
-| 1.2    | 28/06/2022 | Edição de Texto sobre o Aplicativo | Cícero Fernandes |
+| Versão | Data       | Descrição                          | Autor             |
+| ------ | ---------- | ---------------------------------- | ----------------- |
+| 1.0    | 25/06/2022 | Criação da página                  | Bernardo Pissutti |
+| 1.1    | 27/06/2022 | Estilização da Página              | Guilherme Brito   |
+| 1.2    | 28/06/2022 | Edição de Texto sobre o Aplicativo | Cícero Fernandes  |
