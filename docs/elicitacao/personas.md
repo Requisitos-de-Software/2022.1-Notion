@@ -8,9 +8,13 @@ As personas podem ser entendidas como sendo personagens fictícios que represent
 
 ### 2.1. Carlos da Silva:
 
-|![Figura 1](../_media/persona1.png)|
+<div style="text-align:center">
+
+|![Figura 1](../_media/persona1.jpg)|
 |:----:|
 |Imagem 1: Persona Carlos da Silva|
+
+</div>
 
 Carlos da Silva, estudante - "quanto mais prático melhor"
 - Idade: 21.
@@ -33,9 +37,13 @@ Objetivos práticos:
 
 ### 2.2. Marina Costa:
 
-|![Figura 1](../_media/persona2.png)|
+<div style="text-align:center">
+
+|![Figura 2](../_media/persona2.jpg)|
 |:----:|
 |Imagem 2: Persona Marina Costa|
+
+</div>
 
 Marina Costa, engenheira de software - "quem planeja não se atrapalha"
 
@@ -62,9 +70,13 @@ Objetivos práticos:
 
 ### 2.3. Marcelo Araújo:
 
-|![Figura 3](../_media/persona3.png)|
+<div style="text-align:center">
+
+|![Figura 3](../_media/persona3.jpg)|
 |:----:|
 |Imagem 3: Persona Marcelo Araújo|
+
+</div>
 
 Marcelo Araújo, empresário - "tempo é dinheiro"
 
@@ -92,7 +104,8 @@ Objetivos práticos:
 ## 3. Antipersona
 ### 3.1 Julio Almeida:
 
-|![Figura 4](../_media/antipersona.png)|
+
+|![Figura 4](../_media/antipersona.jpg)|
 |:----:|
 |Imagem 4: Antipersona Julio Almeida|
 
@@ -109,11 +122,6 @@ Descrição: Julio Almeida possui 11 anos, estudante da escola Notre Dame, e ado
 
 Objetivos pessoais:
 - se divertir.
-
-
-|![Figura 2](../_media/figura2.png)|
-|:----:|
-|Figura 2: Ciclo de vida para a engenharia de usabilidade de Mayhew|
 
 
 ## Referências Biblioǵraficas
