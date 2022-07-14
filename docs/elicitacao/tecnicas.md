@@ -37,18 +37,18 @@ Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela
 | RF12   | O usuário deve poder compartilhar o link para a página.                                                    |
 | RF13   | O usuário deve poder escolher a aparência do sistema.                                                         |
 | RF14   | O usuário deve poder escolher uma foto de identificação para cada página.                                  |
-| RF15   | O usuário deve poder escolher uma foto de identificação para o workspace                                     |
-| RF16   | O usuário deve poder ter quantos workspaces desejar                                                          |
-| RF17   | O usuário deve poder escolher entre opções de templates para um página criada                             |
-| RF18   | O usuário deve poder ver o histórico de páginas deletadas                                                 |
-| RF19   | O usuário deve poder importar páginas de outras plataformas ou aplicativos                                |
-| RF20   | O usuário deve poder adicionar fotos a página                                                            |
-| RF21   | O usuário deve poder referenciar outras páginas dentro de um página                                    |
-| RF22   | O usuário deve poder adicionar outros perfis para editar uma página                                        |
-| RF23   | O usuário deve poder adicionar umaa legenda às imagens da página                                           |
-| RF24   | O usuário deve poder escrever comentários nas páginas                                                     |
-| RF25   | O usuário deve poder criar blocos de markdown para editar os páginas                                      |
-| RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown                                    |
+| RF15   | O usuário deve poder escolher uma foto de identificação para o workspace.                                     |
+| RF16   | O usuário deve poder ter quantos workspaces desejar.                                                          |
+| RF17   | O usuário deve poder escolher entre opções de templates para um página criada.                             |
+| RF18   | O usuário deve poder ver o histórico de páginas deletadas.                                                 |
+| RF19   | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                               |
+| RF20   | O usuário deve poder adicionar fotos a página.                                                            |
+| RF21   | O usuário deve poder referenciar outras páginas dentro de um página.                                    |
+| RF22   | O usuário deve poder adicionar outros perfis para editar uma página.                                        |
+| RF23   | O usuário deve poder adicionar uma legenda às imagens da página.                                           |
+| RF24   | O usuário deve poder escrever comentários nas páginas.                                                     |
+| RF25   | O usuário deve poder criar blocos de markdown para editar as páginas.                                      |
+| RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                    |
 
 _Tabela 1: Requisitos funcionais_
 
