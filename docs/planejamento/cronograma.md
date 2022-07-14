@@ -72,31 +72,29 @@ _Tabela 3: cronograma da segunda entrega_
 
 O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Aqui, será apresentado o desenvolvimento dos dois com o passar das entregas.
 
-### 3.1 Sprint 1
+### 3.1 Roadmap
 
-O roadmap da sprint 1 referente ao Épico: Planejamento do Projeto, representado na _Figura 1_ e a _Figura 2_ representa o
-backlog da sprint.
+Apresentação do roadmap do zenhub da equipe, mostrando todas as sprints na _Figura 1_.
 
-| ![image](https://user-images.githubusercontent.com/60429513/176329602-4931346f-f744-4f4e-b6aa-0aa1bc54b529.png) |
-| --------------------------------------------------------------------------------------------------------------- |
-| _Figura 1: roadmap da sprint 1_                                                                                 |
+| ![image](../_media/roadMapSprint2.png) |
+| -------------------------------------- |
+| _Figura 1: roadmap da sprint 2_        |
+
+### 3.2 Sprint 1
+
+O backlog da sprint 1 referente ao Épico: Planejamento do Projeto, representado na _Figura 2_.
 
 | ![image](https://user-images.githubusercontent.com/60429513/176330572-3297e021-309c-41f2-892f-86d12508774d.png) |
 | --------------------------------------------------------------------------------------------------------------- |
 | _Figura 2: backlog da sprint 1_                                                                                 |
 
-### 3.2 Sprint 2
+### 3.3 Sprint 2
 
-O roadmap da sprint 2 referente ao Épico: Elicitação de requisitos, representado na _Figura 3_ e a _Figura 4_ representa o
-backlog da sprint.
-
-| ![image](../_media/roadMapSprint2.png) |
-| -------------------------------------- |
-| _Figura 3: roadmap da sprint 2_        |
+O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, representado na _Figura 3_.
 
 | ![image](../_media/backLogSprint2.png) |
 | -------------------------------------- |
-| _Figura 4: backlog da sprint 2_        |
+| _Figura 3: backlog da sprint 2_        |
 
 ## Histórico de Versões
 
