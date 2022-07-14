@@ -1,4 +1,4 @@
-- [Home](/README)
+- [Sobre](/README)
 - [Apresentações](apresentacoes.md)
 - **Planejamento**
   - [Cronograma das Atividades](planejamento/cronograma.md)
