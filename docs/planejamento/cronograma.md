@@ -63,8 +63,8 @@ A tabela 3 referencia as atividades feitas para a segunda entrega.
 | 13/07 | Cronograma da segunda entrega                        | Cícero                                 | Todos                                  |
 | 13/07 | Página de resultados                                 | Guilherme                              | Todos                                  |
 | 13/07 | Gravação do vídeo da entrega 2                       | Todos                                  | Todos                                  |
-| 13/07 | Brainstorm                                           | Arthur, Leonardo, Guilherme e Bernardo | Arthur, Leonardo, Guilherme e Bernardo |
-| 13/07 | Definição da técnica de brainstorm                   | Bernardo                               | Todos                                  |
+| 13/07 | Brainstorming                                        | Arthur, Leonardo, Guilherme e Bernardo | Arthur, Leonardo, Guilherme e Bernardo |
+| 13/07 | Definição da técnica de brainstorming                | Bernardo                               | Todos                                  |
 
 _Tabela 3: cronograma da segunda entrega_
 
