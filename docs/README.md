@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-Este repositório é destinado ao projeto da disciplina de Requisitos de Software da FGA - UnB. Nele, aplicaremos os conhecimentos adquiridos ao longo da disciplina a respeito de gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem, análise etc no estudo e documentação do aplicativo Notion. 
+Este repositório é destinado ao projeto da disciplina de Requisitos de Software da FGA - UnB. Nele, aplicaremos os conhecimentos adquiridos ao longo da disciplina a respeito de gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem, análise etc no estudo e documentação do aplicativo Notion.
 
 ## Sobre o Notion
 
@@ -70,4 +70,4 @@ O que é e como usar o Notion [Guia para iniciantes]. Disponível em: https://te
 | 1.0    | 25/06/2022 | Criação da página                  | Bernardo Pissutti |
 | 1.1    | 27/06/2022 | Estilização da Página              | Guilherme Brito   |
 | 1.2    | 28/06/2022 | Edição de Texto sobre o Aplicativo | Cícero Fernandes  |
-| 1.3    | 13/07/2022 | Transição para o aplicativo Notion | Nicolas Mantzos  |
+| 1.3    | 13/07/2022 | Transição para o aplicativo Notion | Nicolas Mantzos   |

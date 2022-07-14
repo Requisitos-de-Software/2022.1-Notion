@@ -1,6 +1,6 @@
 # Técnicas
 
-Nesse projeto foram utilizadas algumas técnicas para levantamento de requisitos, técnicas essas que serão apresentadas e explicadas nessa seção
+Nesse projeto foram utilizadas algumas técnicas para levantamento de requisitos, técnicas essas que serão apresentadas e explicadas nessa seção.
 
 ## 1. Introspecção
 
@@ -63,7 +63,7 @@ _Tabela 2: Requisitos não funcionais_
 
 ### 2.1 Definição
 
-Questionário é uma técnica que pode ser utilizada para coletar dados, sendo uma técnica barata, rápidas e com pouco esforço.
+Questionário é uma técnica que pode ser utilizada para coletar dados, sendo uma técnica barata, rápida e com pouco esforço.
 
 ### 2.2 Objetivo
 
