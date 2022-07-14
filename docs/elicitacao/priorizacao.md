@@ -58,17 +58,52 @@ A confirmação ou não da prioridade dos requisitos é de cunho do cliente, log
 
 ## Resultados
 
-Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na tabela a seguir.
+Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na tabela a seguir (Tabela 2).
 
 | Requisito | Prioridade |
 |:--------:|:-----|
-|||
+| RF1    | M|
+| RF2    | M|
+| RF3    |M|
+| RF4    |M|
+| RF5    | M|
+| RF6    | C |
+| RF7    | S|
+| RF8    | C|
+| RF9    | C|
+| RF10   | S|
+| RF11   | C |
+| RF12   | M|
+| RF13   | W|
+| RF14   | W|
+| RF15   | C |
+| RF16   | S|
+| RF17   | M|
+| RF18   | S|1
+| RF19   |C|
+| RF20   | S|
+| RF21   |C|
+| RF22   | C|
+| RF23   | C|
+| RF24   | W|
+| RF25   | M |
+| RF26   |M|
+| RF27   |S|
+| RF28   | S |
+| RF29   | S |
+| RF30   | C |
+| RF31   | W |
+| RNF1   | S  |
+| RNF2   |S  |
+| RNF3   | S|
+| RNF4   | M |
+| RNF5   | M |
 
+>Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades
 ## Referências Bibliográficas
 
 ACHIMUGU, P. et al. A Systematic Literature Review of Software Requirements Prioritization
 Research. Information and software technology, Elsevier, v. 56, n. 6, p. 568–585, 2014.
-
 
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
 
@@ -78,4 +113,4 @@ FIGUEIREDO, André; ALMEIDA, Rodrigo; ALENCAR, Vitruvio; Um Conjunto de prática
 | Versão | Data       | Descrição         | Autor    |
 |--------|------------|-------------------|----------|
 | 1.0       | 13/07/2022           |      Criação do Artefato             |   Guilherme Brito       |
-| 1.1       | 13/07/2022           |      Revisão             |   Nicolas Mantzos       |
+| 1.1       | 13/07/2022           |      Realização da priorização dos Requisitos             |   Guilherme Brito e Bernardo Chaves       |
