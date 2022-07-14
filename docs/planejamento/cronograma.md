@@ -90,11 +90,15 @@ O backlog da sprint 1 referente ao Épico: Planejamento do Projeto, representado
 
 ### 3.3 Sprint 2
 
-O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, representado na _Figura 3_.
+O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, representado na _Figura 3_ e na _Figura 4_ o kanban board.
 
 | ![image](../_media/backLogSprint2.png) |
 | -------------------------------------- |
 | _Figura 3: backlog da sprint 2_        |
+
+| ![image](../_media/kanban2.png) |
+|---------------------------------|
+| _Figura 3: backlog da sprint 2_ |
 
 ## Histórico de Versões
 
