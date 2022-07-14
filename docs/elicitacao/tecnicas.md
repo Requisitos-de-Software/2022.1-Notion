@@ -142,14 +142,14 @@ Com o objetivo de analisar o quão o notion auxilia na vida dos usuários.
 Nessa seção serão apresentados os resultados da técnica de questionário, mostrados na tabela 3 e 4.
 
 | Código | Requisito                                                           |
-| ------ | ------------------------------------------------------------------- |
-| RF6    | O usuário deve poder ter uma agenda para visualizar afazeres do dia |
+|--------| ------------------------------------------------------------------- |
+| RF1    | O usuário deve poder ter uma agenda para visualizar afazeres do dia |
 
 _Tabela 3: Requisitos funcionais_
 
 | Código | Requisito                             |
-| ------ | ------------------------------------- |
-| RNF2   | O aplicativo deve ser cross-plataform |
+|--------| ------------------------------------- |
+| RNF1   | O aplicativo deve ser cross-plataform |
 
 _Tabela 4: Requisitos não funcionais_
 
@@ -157,18 +157,54 @@ _Tabela 4: Requisitos não funcionais_
 
 https://forms.gle/jcfPwYnpMMMfXKDRA
 
+## 3. Brainstorming
+
+### 3.1 Introdução
+O brainstorming fornece informações sobre os tipos de conteúdos e características que os usuários querem e desejam em um produto(Courage e Baxter, 2005)
+
+### 3.2 Método
+A sessão de brainstorming foi realizada de 21:20 à 21:30 do dia 11 de julho de 2022. O moderador (Bernardo Pissutti), juntamento com mais 3 membros da equipe
+(Guilherme Brito, Leonardo, Arthur) realizaram o braistorming com o auxilio da ferramenta miro. As conclusões podem ser obsevadas na _Figura 1_ interativa abaixo.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOqie_Mc=/?moveToViewport=-607,-1224,4233,2118&embedId=807759531387" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+_Figura 1: sessão de brainstorming_
+
+### 3.3 Resultados
+
+Nessa seção serão apresentados os resultados da técnica de brainstorming, mostrados na _Tabela 3_ e _Tabela 4_.
+
+| Código | Requisito                                                                         |
+|--------|-----------------------------------------------------------------------------------|
+| RF1    | O usuário deve poder criar Formulas matemáticas                                   |
+| RF2    | O usuário deve poder criar seu próprio quadro kanban personalizado                |
+| RF3    | O usuário pode escrever blocos de código                                          |
+| RF4    | O usuário deve ser informado da situação do clima em sua região                   |
+| RF5    | O usuário poderá usar templates compartilhar disponibilizados pela comunidade     |
+
+_Tabela 5: Requisitos funcionais_
+
+| Código | Requisito                                                          |
+|--------|--------------------------------------------------------------------|
+| RNF1   | As formulas matemáticas devem seguir o formato LaTex               |
+| RNF2   | A sintaxe dos códigos devm seguir uma das linguagens mais recentes |
+
+_Tabela 6: Requisitos não funcionais_
+
 ## Referências Bibliográficas
 
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
-Engenharia de requisitos: software orientado ao negócio de Carlos Eduardo Vazquez, Guilherme Siqueira Simões - capitulo 7
+Engenharia de requisitos: software orientado ao negócio de Carlos Eduardo Vazquez, Guilherme Siqueira Simões - capitulo 7;
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor            |
-| ------ | ---------- | --------------------------------- | ---------------- |
-| 1.0    | 13/07/2022 | Adição da técnica de introspecção | Cícero Fernandes |
-| 1.1    | 13/07/2022 | Adição da técnica de questionário | Arthur José      |
-| 1.2    | 13/07/2022 | Revisão | Nicolas Mantzos      |
+| Versão | Data       | Descrição                          | Autor             |
+|--------|------------|------------------------------------|-------------------|
+| 1.0    | 13/07/2022 | Adição da técnica de introspecção  | Cícero Fernandes  |
+| 1.1    | 13/07/2022 | Adição da técnica de questionário  | Arthur José       |
+| 1.2    | 13/07/2022 | Adição da técnica de brainstorming | Bernardo Pissutti |
+| 1.3    | 13/07/2022 | Revisão | Nicolas Mantzos      |
+
