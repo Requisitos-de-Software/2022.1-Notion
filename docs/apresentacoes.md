@@ -19,4 +19,5 @@
 ## Histórico de Versões
 | Versão | Data  | Descrição                                   | Autor             |
 |--------|-------|---------------------------------------------|-------------------|
-| 2.0    | 11/07 | Criação do histórico de versões do artefato | Bernardo Pissutti |
+| 1.0    | 11/07 | Criação do histórico de versões do artefato | Bernardo Pissutti |
+| 1.1    | 13/07 | Adição do vídeo da entrega 2                | Bernardo Pissutti |
