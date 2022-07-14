@@ -5,7 +5,7 @@ Também será documentado o roadmap de cada sprint e o kanban board.
 
 ## 1. Cronograma Geral das Atividades
 
-Nessa seção, serão encontradas todas as entregas e apresentações a serem ministradas durante o período da disciplina, encontrados na tabela 1
+Nessa seção, serão encontradas todas as entregas e apresentações a serem ministradas durante o período da disciplina, encontradas na tabela 1
 
 | Data  | Atividade                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
