@@ -58,3 +58,16 @@ Com o Notion, ele pode definir quais características o interessam e agregar tod
         </td>
     </tr>
 </table>
+
+## Referências Bibliográficas
+
+O que é e como usar o Notion [Guia para iniciantes]. Disponível em: https://tecnoblog.net/responde/o-que-e-e-como-usar-o-notion-guia-para-iniciantes/. Acesso em: 11/07/2022
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                          | Autor             |
+| ------ | ---------- | ---------------------------------- | ----------------- |
+| 1.0    | 25/06/2022 | Criação da página                  | Bernardo Pissutti |
+| 1.1    | 27/06/2022 | Estilização da Página              | Guilherme Brito   |
+| 1.2    | 28/06/2022 | Edição de Texto sobre o Aplicativo | Cícero Fernandes  |
+| 1.3    | 13/07/2022 | Transição para o aplicativo Notion | Nicolas Mantzos   |
