@@ -67,6 +67,8 @@ _Tabela 3: cronograma da segunda entrega_
 
 ## 3. RoadMap e Kanban Board
 
+O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Aqui, será apresentado o desenvolvimento dos dois com o passar das entregas.
+
 ### 3.1 Sprint 1
 
 O roadmap da sprint 1 referente ao Épico: Planejamento do Projeto, representado na _Figura 1_ e a _Figura 2_ representa o
