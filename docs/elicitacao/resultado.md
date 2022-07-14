@@ -1,6 +1,10 @@
 # Resultados
 
-A partir das técnicas de elicitação brainstorming, introspecção e questionário obtemos os seguintes requisitos funcionais e não funcionais.
+A partir das técnicas de elicitação brainstorming, introspecção e questionário obtemos os seguintes requisitos, que podem ser divididos em duas categorias:
+1.  Os requisitos funcionais (Tabela 1) descrevem o comportamento do sistema, seus requisitos para o funcionamento de cada item, ou seja, os requisitos que descrevem o trabalho que o sistema deve realizar. Eles são os cérebros do projeto porque descrevem as funções que o sistema deve ter.
+2.  Os Requisitos não funcionais (Tabela 2) são aqueles que descrevem não o que o sistema fará, mas como ele fará. Assim, por exemplo, têm-se requisitos de desempenho, requisitos da interface externa do sistema, restrições de projeto e atributos da qualidade. 
+
+Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de elicitação.
 
 | Código | Requisitos Funcionais                                                                                      | Técnica       |
 | ------ | ---------------------------------------------------------------------------------------------------------- | ------------- |
