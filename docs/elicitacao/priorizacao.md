@@ -11,7 +11,7 @@ Existem várias formas de estabelecer a prioridade de requisitos, porém, normal
 Dentre as técnicas de priorização, podemos citar algumas:
 
 
-## First Things First
+## 1. First Things First
 
 Consiste em uma técnica mais elaborada que analisa o benefício relativo de cada recurso, a penalidade que o negócio sofreria caso o recurso não fosse incluído, o custo relativo da implementação da funcionalidade e o grau relativo de risco. Após essa análise, pode-se calcular a prioridade para cada requisito utilizando da seguinte formúla:
 
@@ -21,7 +21,7 @@ sendo valor = beneficio * peso(relativo) + penalidade * peso(relativo)
 
 ---
 
-##  ROI (_Return On Investiment_)
+##  2. ROI (_Return On Investiment_)
 
 O ROI consiste numa técnica onde é feita uma estimativa dos benefícios financeiros de um determinado investimento em uma tarefa. Esse indicador é geralmente calculado através de metodologias que comparam o lucro obtido/previsto contra o capital investindo, demonstrando seu resultado em valores quantificáveis e assim podemos fazer uma lista dos requisitos mais rentáveis para o projeto (FIGUEIREDO, ALMEIDA, ALENCAR).
 
@@ -35,9 +35,9 @@ Existem técnicas para solucionar esse problema, porém aumenta muito a complexi
 ---
 A Técnica escolhida para a priorização dos requisitos identificados foi a técnica denominada MoSCoW. A explicação e o motivo da escolha podem ser observadas logo abaixo.
 
-## MoSCoW
+## 3. MoSCoW
 
-Essa técnica é muito simples. Consiste em atribuir uma das quatro letras M,S,C ou W para cada item do backlog do produto. Os significados de cada letra pode ser encontrado na tabela abaixo.
+Essa técnica é muito simples. Consiste em atribuir uma das quatro letras M,S,C ou W para cada item do backlog do produto. Os significados de cada letra pode ser encontrado na _Tabela 1_ abaixo.
 
 | Letra | Significado    |
 |:--------:|:-----|
@@ -46,7 +46,7 @@ Essa técnica é muito simples. Consiste em atribuir uma das quatro letras M,S,C
 | C    | Could: Consiste nos requisitos desejáveis, mas não necessários (do ponto de vista estratégico) e podem melhorar a satisfação do cliente com algum esforço de desenvolvimento. Dada a disponibidade de tempo e recursos, esses itens são atendidos.|  
 | W    | Would/Want/Won't: São os requisitos menos críticos, com menor retorno sobre o investimento ou não adequados para serem realizados.| 
 
-> Tabela 1: Tabela contendo o significado das letras da técnica MoSCow e em quais requisitos elas devem ser atribuidas. 
+_Tabela 1: Tabela contendo o significado das letras da técnica MoSCow e em quais requisitos elas devem ser atribuidas._ 
 
 Essa técnica foi a escolhida pois apresenta vantagens mais benéficas frente às outras técnicas, sendo elas:
 -   Fácil compreensão;
@@ -56,9 +56,9 @@ Essa técnica foi a escolhida pois apresenta vantagens mais benéficas frente à
 -   Não requer conhecimento prévio da técnica
 A confirmação ou não da prioridade dos requisitos é de cunho do cliente, logo, o contato com ele deve ser frequente.
 
-## Resultados
+## 4. Resultados
 
-Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na tabela a seguir (Tabela 2).
+Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na _Tabela 2_ a seguir.
 
 | Requisito | Prioridade |
 |:--------:|:-----|
@@ -99,7 +99,7 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RNF4   |M|
 | RNF5   |M|
 
->Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades
+_Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades_
 ## Referências Bibliográficas
 
 ACHIMUGU, P. et al. A Systematic Literature Review of Software Requirements Prioritization
