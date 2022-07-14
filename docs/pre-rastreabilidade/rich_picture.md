@@ -31,7 +31,7 @@ Já para o Notion, optamos por implementar apenas uma Rich Picture, visível na 
 
 </div>
 
-## 3 Rich Pictures - Notion
+## 3 Rich Picture - Notion
 
 <div style="text-align: center;">
 
