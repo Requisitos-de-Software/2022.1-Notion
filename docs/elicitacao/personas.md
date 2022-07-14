@@ -1,3 +1,14 @@
+# Perfil de Usuário
+
+Perfil de usuário é uma descrição detalhada das características dos usuários
+cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021).
+A partir dos dados coletados, com a técnica de elicitação de [questionario (técnica 2 utilizada pela equipe)](tecnicas.md), é possível então traçar perfis de usuários que possuem características semelhantes.
+
+Perfil do Usuário: 
+
+O usuário são pessoas que possuem contato ou facilidade com tecnologia, entre a faixa etária de 18 a 40 anos (jovens e adultos), grau de instrução a partir de Ensino Médio completo, e que buscam organizar, planejar e aumentar a produtividade com aplicativo "tudo-em-um".
+
+
 # Personas
 
 ## 1. Introdução
