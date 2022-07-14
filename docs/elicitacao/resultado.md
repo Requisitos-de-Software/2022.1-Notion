@@ -35,8 +35,6 @@ A partir das técnicas de elicitação brainstorming, introspecção e question�
 | RF29   | O usuário deve poder criar seu próprio quadro kanban personalizado.                                        | Brainstorming |
 | RF30   | O usuário pode escrever blocos de código.                                                                  | Brainstorming |
 | RF31   | O usuário deve ser informado da situação do clima em sua região.                                           | Brainstorming |
-| RF32   | O usuário poderá usar templates disponibilizados pela comunidade.                                          | Brainstorming |
-| RF33   | O usuário poderá usar templates compartilhar disponibilizados pela comunidade.                             | Brainstorming |
 
 _Tabela 1: Requisitos funcionais resultado_
 
@@ -54,4 +52,5 @@ _Tabela 2: Requisitos não funcionais resultado_
 
 | Versão | Data       | Descrição                     | Autor  |
 | ------ | ---------- | ----------------------------- | ------ |
-| 1.0    | 13/07/2022 | criação dos resultados gerais | Arthur |
+| 1.0    | 13/07/2022 | Criação dos resultados gerais | Arthur |
+| 1.1    | 13/07/2022 | Removendo Requisitos Duplicados | Guilherme Brito |

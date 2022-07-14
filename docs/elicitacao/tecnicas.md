@@ -164,7 +164,7 @@ O brainstorming fornece informações sobre os tipos de conteúdos e caracterís
 
 ### 3.2 Método
 A sessão de brainstorming foi realizada de 21:20 à 21:30 do dia 11 de julho de 2022. O moderador (Bernardo Pissutti), juntamento com mais 3 membros da equipe
-(Guilherme Brito, Leonardo, Arthur) realizaram o braistorming com o auxilio da ferramenta miro. As conclusões podem ser obsevadas na _Figura 1_ interativa abaixo.
+(Guilherme Brito, Leonardo, Arthur) realizaram o Brainstorming com o auxilio da ferramenta Miro. As conclusões podem ser obsevadas na _Figura 1_ interativa abaixo.
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOqie_Mc=/?moveToViewport=-607,-1224,4233,2118&embedId=807759531387" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
@@ -206,5 +206,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | 1.0    | 13/07/2022 | Adição da técnica de introspecção  | Cícero Fernandes  |
 | 1.1    | 13/07/2022 | Adição da técnica de questionário  | Arthur José       |
 | 1.2    | 13/07/2022 | Adição da técnica de brainstorming | Bernardo Pissutti |
-| 1.3    | 13/07/2022 | Revisão | Nicolas Mantzos      |
 
