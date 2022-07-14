@@ -58,7 +58,7 @@ A confirmação ou não da prioridade dos requisitos é de cunho do cliente, log
 
 ## Resultados
 
-Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na tabela a seguir.
+Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na tabela a seguir (Tabela 2).
 
 | Requisito | Prioridade |
 |:--------:|:-----|
@@ -79,7 +79,7 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RF15   | C |
 | RF16   | S|
 | RF17   | M|
-| RF18   | S|
+| RF18   | S|1
 | RF19   |C|
 | RF20   | S|
 | RF21   |C|
@@ -98,6 +98,8 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RNF3   | S|
 | RNF4   | M |
 | RNF5   | M |
+
+>Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades
 ## Referências Bibliográficas
 
 ACHIMUGU, P. et al. A Systematic Literature Review of Software Requirements Prioritization
