@@ -23,7 +23,7 @@ sendo valor = beneficio * peso(relativo) + penalidade * peso(relativo)
 
 ##  ROI (_Return On Investiment_)
 
-O ROI consiste numa técnica onde é feita uma estimativa dos benefícios financeiro de um determinado investimento em uma tarefa. Esse indicador é geralmente calculado através de metodologias que comparam o lucro obtido/previsto contra o capital investindo, demonstrando seu resultado em valores quantificáveis e assim podemos fazer uma lista dos requisitos mais rentáveis para o projeto (FIGUEIREDO, ALMEIDA, ALENCAR).
+O ROI consiste numa técnica onde é feita uma estimativa dos benefícios financeiros de um determinado investimento em uma tarefa. Esse indicador é geralmente calculado através de metodologias que comparam o lucro obtido/previsto contra o capital investindo, demonstrando seu resultado em valores quantificáveis e assim podemos fazer uma lista dos requisitos mais rentáveis para o projeto (FIGUEIREDO, ALMEIDA, ALENCAR).
 
 Essa técnica, apesar de simples, é perigosa ao ser utilizada nos projetos por conta dos seguintes fatores:
 1.  Tendência ao Custo: Tende a favorecer os requisitos que resultam na diminuição do custo, à custa de requisitos que prometem o crescimento de receita.
