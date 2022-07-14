@@ -52,17 +52,19 @@ _Tabela 2: cronograma da primeira entrega_
 
 A tabela 3 referencia as atividades feitas para a segunda entrega.
 
-| Data  | Atividade                                            | Responsáveis      | Revisores |
-| ----- | ---------------------------------------------------- | ----------------- | --------- |
-| 12/07 | Atualização das páginas do App de Moovit para Notion | Nícolas           | Cícero    |
-| 12/07 | Rich Picture para o Notion                           | Nícolas           | Cícero    |
-| 13/07 | Introdução das técnicas de priorização               | Guilherme Brito   | Bernardo  |
-| 13/07 | Definição da técnica de introspecção                 | Bernardo e Cicero | Leonardo  |
-| 13/07 | Definição da técnica questionário                    | Arthur            | Nícolas   |
-| 13/07 | Definição das personas                               | Leonardo          | Arthur    |
-| 13/07 | Cronograma da segunda entrega                        | Cícero            | Todos     |
-| 13/07 | Página de resultados                                 | Guilherme         | Todos     |
-| 13/07 | Gravação do vídeo da entrega 2                       | Todos             | Todos     |
+| Data  | Atividade                                            | Responsáveis                           | Revisores                              |
+| ----- | ---------------------------------------------------- | -------------------------------------- | -------------------------------------- |
+| 12/07 | Atualização das páginas do App de Moovit para Notion | Nícolas                                | Cícero                                 |
+| 12/07 | Rich Picture para o Notion                           | Nícolas                                | Cícero                                 |
+| 13/07 | Introdução das técnicas de priorização               | Guilherme Brito                        | Bernardo                               |
+| 13/07 | Definição da técnica de introspecção                 | Bernardo e Cicero                      | Leonardo                               |
+| 13/07 | Definição da técnica questionário                    | Arthur                                 | Nícolas                                |
+| 13/07 | Definição das personas                               | Leonardo                               | Arthur                                 |
+| 13/07 | Cronograma da segunda entrega                        | Cícero                                 | Todos                                  |
+| 13/07 | Página de resultados                                 | Guilherme                              | Todos                                  |
+| 13/07 | Gravação do vídeo da entrega 2                       | Todos                                  | Todos                                  |
+| 13/07 | Brainstorm                                           | Arthur, Leonardo, Guilherme e Bernardo | Arthur, Leonardo, Guilherme e Bernardo |
+| 13/07 | Definição da técnica de brainstorm                   | Bernardo                               | Todos                                  |
 
 _Tabela 3: cronograma da segunda entrega_
 
