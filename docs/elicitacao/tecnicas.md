@@ -172,7 +172,7 @@ _Figura 1: sessão de brainstorming_
 
 ### 3.3 Resultados
 
-Nessa seção serão apresentados os resultados da técnica de questionário, mostrados na _Tabela 3_ e _Tabela 4_.
+Nessa seção serão apresentados os resultados da técnica de brainstorming, mostrados na _Tabela 3_ e _Tabela 4_.
 
 | Código | Requisito                                                                         |
 |--------|-----------------------------------------------------------------------------------|
