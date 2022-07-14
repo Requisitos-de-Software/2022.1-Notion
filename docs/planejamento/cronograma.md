@@ -96,9 +96,9 @@ O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, represent
 | -------------------------------------- |
 | _Figura 3: backlog da sprint 2_        |
 
-| ![image](../_media/kanban2.png) |
-|---------------------------------|
-| _Figura 3: backlog da sprint 2_ |
+| ![image](../_media/kanban2.png)       |
+|---------------------------------------|
+| _Figura 4: quadro kanban da sprint 2_ |
 
 ## Histórico de Versões
 
