@@ -5,6 +5,8 @@ Também será documentado o roadmap de cada sprint e o kanban board.
 
 ## 1. Cronograma Geral das Atividades
 
+Nessa seção, serão encontradas todas as entregas e apresentações a serem ministradas durante o período da disciplina, encontrados na tabela 1
+
 | Data  | Atividade                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 29/06 | Entrega da apresentação do projeto etapa 1: Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina, Ferramentas do projeto,cronograma das atividades, Rich Picture |
@@ -21,9 +23,15 @@ Também será documentado o roadmap de cada sprint e o kanban board.
 | 25/08 | Apresentação do projeto etapa 6: Pós-Rastreabilidade - Gerência II                                                                                                                        |
 | 12/09 | Entrega da apresentação do projeto final                                                                                                                                                  |
 
+_Tabela 1: Cronograma geral de atividades._
+
 ## 2. Cronograma Específico das Atividades
 
+Nessa seção, serão encontradas as atividades específicas que foram trabalhadas para cada entrega da disciplina.
+
 ### 2.1 Primeira Entrega
+
+A tabela 2 referencia as atividades feitas para a primeira entrega.
 
 | Data  | Atividade                                               | Responsáveis             | Revisores         |
 | ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
@@ -38,9 +46,11 @@ Também será documentado o roadmap de cada sprint e o kanban board.
 | 28/06 | Criação da página inicial do Projeto                    | Guilherme Brito e Cicero | Arthur e Bernardo |
 | 28/06 | Gravação do projeto (síncrona)                          | Todos                    | Todos             |
 
-_Tabela 1_: cronograma da primeira entrega
+_Tabela 2: cronograma da primeira entrega_
 
 ### 2.2 Segunda Entrega
+
+A tabela 3 referencia as atividades feitas para a segunda entrega.
 
 | Data  | Atividade                                            | Responsáveis      | Revisores |
 | ----- | ---------------------------------------------------- | ----------------- | --------- |
@@ -53,7 +63,7 @@ _Tabela 1_: cronograma da primeira entrega
 | 13/07 | Cronograma da segunda entrega                        | Cícero            | Todos     |
 | 13/07 | Gravação do vídeo da entrega 2                       | Todos             | Todos     |
 
-_Tabela 2_: cronograma da segunda entrega
+_Tabela 3: cronograma da segunda entrega_
 
 ## 3. RoadMap e Kanban Board
 
