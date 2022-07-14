@@ -143,3 +143,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição         | Autor    |
 |--------|------------|-------------------|----------|
 | 1.0    | 12/07/2022 | Criação da Introdução, Personas e Antipersonas | Leonardo Vitoriano |
+| 1.1    | 13/07/2022 | Criação do Perfil do Usuário | Leonardo Vitoriano |
