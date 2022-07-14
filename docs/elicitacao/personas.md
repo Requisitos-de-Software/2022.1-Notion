@@ -53,7 +53,7 @@ Marina Costa, engenheira de software - "quem planeja não se atrapalha"
 - Escolaridade: Ensino Superior Completo.
 - Expectativas: Deseja planejar suas atividades em um único lugar.
 
-Descrição: Marina Costa possui 26 anos, formada em Engenharia de Software, e já é Desenvolvedora Pleno. Ela mora em Águas Claras, apartamento próprio, e divide teto apenas com seus 4 gatos. Devido a facilidade dela com tecnologia em geral, ela organiza tanto a sua vida pessoal quanto profissional em 5 aplicativos. Porém, está insatisfeita com a perda de tempo em abrir e fechar os apps para encontrar aonde está o planejamento que realizou e, no final, não encontrou e agora procura um único app capaz de resolver o problema.
+Descrição: Marina Costa possui 26 anos, formada em Engenharia de Software, e já é Desenvolvedora Pleno. Ela mora em Águas Claras, apartamento próprio e divide teto apenas com seus 4 gatos. Devido a facilidade dela com tecnologia em geral, ela organiza tanto a sua vida pessoal quanto profissional em 5 aplicativos. Porém, está insatisfeita com a perda de tempo em abrir e fechar os apps para encontrar onde está o planejamento que realizou para, no final, não encontrá-lo. Agora, ela procura um único app capaz de resolver o problema.
 
 
 Objetivos pessoais:
@@ -115,9 +115,9 @@ Julio Almeida, estudante - "brincar é melhor que estudar"
 - Sexo: Masculino.
 - Profissão: Estudante.
 - Escolaridade: Ensino Fundamental 2 Incompleto.
-- Expectativas: Deseja brincar e não se preocupar as tarefas de casa.
+- Expectativas: Deseja brincar e não se preocupar com as tarefas de casa.
 
-Descrição: Julio Almeida possui 11 anos, estudante da escola Notre Dame, e adora jogar bola, brincar com os amigos e assistir animes. Ele mora no Lago Sul e compartilha sua morada com seus pais e sua avó materna. Em seu dia a dia, Julio está sempre conectado em seu celular, ora visualizando vídeos no Youtube ora jogando Clash Royale, tanto é que para que se concentre nos estudos, seus pais costumam confiscar seu telefone. Já nos finais de semana, ele gosta de ir ao clube, jogar bola com os amigos e assistir filmes engraçados com sua família. 
+Descrição: Julio Almeida possui 11 anos, é estudante da escola Notre Dame, adora jogar bola, brincar com os amigos e assistir animes. Ele mora no Lago Sul e compartilha sua morada com seus pais e sua avó materna. Em seu dia a dia, Julio está sempre conectado em seu celular, ora visualizando vídeos no Youtube ora jogando Clash Royale; às vezes tanto, que para que se concentre nos estudos, seus pais costumam confiscar seu telefone. Já nos finais de semana, ele gosta de ir ao clube, jogar bola com os amigos e assistir filmes engraçados com sua família. 
 
 
 Objetivos pessoais:
@@ -132,3 +132,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição         | Autor    |
 |--------|------------|-------------------|----------|
 | 1.0    | 12/07/2022 | Criação da Introdução, Personas e Antipersonas | Leonardo Vitoriano |
+| 1.1   | 12/07/2022 | Revisão | Nicolas Mantzos |

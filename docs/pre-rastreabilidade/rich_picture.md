@@ -6,10 +6,11 @@ Na prática, consiste em imagens, textos, símbolos e ícones ajustados de manei
 
 Auxilia na visualização, em um nível maior de abstração, de relacionamentos e conexões que poderiam eventualmente passar despercebidos nas descrições textuais ou nos diagramas entidade-relacionamento tradicionais.
 
-Optamos por criar duas rich pictures que descrevem visões macro (do que o sistema se trata, quais são suas funcionalidades mais gerais etc) e micro (como o usuário interage com as funcionalidades, o que obtém delas etc).
-Em termos gerais, a primeira está mais propensa a ir além do chamado "limite do sistema" enquanto a segunda se restringe a ele.
+Para o aplicativo Moovit, optamos por criar duas rich pictures que descrevem visões macro (do que o sistema se trata, quais são suas funcionalidades mais gerais etc) e micro (como o usuário interage com as funcionalidades, o que obtém delas etc). Ambas podem ser observadas, respectivamente, nas imagens 2 e 1 abaixo.
 
-## 2. Rich Pictures
+Já para o Notion, optamos por implementar apenas uma Rich Picture, visível na imagem 3. 
+
+## 2 Rich Pictures - Moovit
 ### 2.1 Visão micro
 
 <div style="text-align: center;">
@@ -22,7 +23,6 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 
 ### 2.2 Visão macro
 
-
 <div style="text-align: center;">
 
 ![Rich Picture Macro Version 1](../_media/rich_picture_macro.jpg "Rich Picture Macro Version 1")
@@ -30,6 +30,8 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 <figcaption>Imagem 2: Rich Picture Macro versão 1.</figcaption>
 
 </div>
+
+## 3 Rich Picture - Notion
 
 <div style="text-align: center;">
 
@@ -39,7 +41,7 @@ Em termos gerais, a primeira está mais propensa a ir além do chamado "limite d
 
 </div>
 
-### 2.3 Legenda 
+### 3.1 Legenda 
 
 A construção das Rich Pictures foi baseada nos cinco elementos principais destacados por Revadi (2018, p.4) para a confecção dos Rich Pictures, os quais, segundo ele, são: atores, operações, armazenamentos de dados, setas e limite do sistema. Esses elementos podem ser encontrados na *Imagem 4*.
 

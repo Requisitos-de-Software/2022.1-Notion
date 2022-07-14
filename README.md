@@ -1,65 +1,60 @@
-<center>
+<p align="center">
+    <a href="https://www.notion.so/product" target="_blank">
+        <img src="docs/_media/notion_logo2.png" height="170px" alt="Logo da aplicação Notion"/>
+    </a>
+</p>
 
-![logo_cover](/docs/_media/notion_logo2.png)
+## Sobre o Projeto
 
-</center>
+Este repositório é destinado ao projeto da disciplina de Requisitos de Software da FGA - UnB. Nele, aplicaremos os conhecimentos adquiridos ao longo da disciplina a respeito de gerência (pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem, análise etc no estudo e documentação do aplicativo Notion.
 
-## Sobre o projeto
+## Sobre o Notion
 
-Esse repositório é destinado ao projeto da disciplina de Requisitos de Software do curso de Engenharia de Software da Faculdade do Gama(FGA). Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido foi o Moovit, o qual será estudado e analisado conforme as métricas indicadas pela matéria.
+Trata-se de uma ferramenta no-code para gerenciamento de projetos, tomada de notas e acompanhamento de atividades lançada em 2016, que unifica as informações relacionadas a cada uma dessas tarefas em um só local, facilitando assim a visualização de seu andamento, bem como sua edição e eventual realocação, seja de forma individual ou colaborativa.
 
-## Sobre o Moovit
+Pense, por exemplo, no caso de um usuário que esteja agregando informações sobre as vagas de emprego para as quais aplica em uma pasta. Recorrentemente, ele deseja saber para quantas e para quais vagas aplicou, seu status (respondido, vídeo-apresentação pendente etc) e quando mandou o currículo. É evidente que se ele mantiver as informações armazenadas da forma como estão, terá dificuldades para consultar o que deseja.
 
-O Moovit é um aplicativo que tem como objetivo tornar a locomoção algo mais simples e fácil no cotidiano das pessoas, dando múltiplas opções de transporte, utilizando informações em tempo real de suas formas de mobilidade. Lançado em 2012, o aplicativo conta com 12 idiomas, já contém mais de 1.3bi de usuários espalhados por 3500 cidades mundo a fora.
+Com o Notion, ele pode definir quais características o interessam e agregar todas as informações sobre as vagas e aplicações em um só lugar, podendo filtrá-las por quaisquer critérios que desejar.
 
-<section>
-    <h1 style="text-align: center">Equipe</h1>
-    <div class="equipe">
-      <div class="foto_membro_3">
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/arthur.jpg">
-          </div>
-          <p style="text-align:center; margin:0">Arthur Lima</p>
-          <p style="text-align:center">Github: Arthurlima544</p>
-        </div>
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/bernardo.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Bernardo Pissutti</p>
-          <p style="text-align:center">Github: berssutti</p>
-        </div>
-    <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/cicero.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Cícero Fernandes</p>
-          <p style="text-align:center">Github: ciceroff</p>
-        </div>
-      </div>
-      <div class="foto_membro_3">
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/guilherme.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Guilherme Brito</p>
-          <p style="text-align:center">Github: dev-brito</p>
-        </div>
-    <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/leonardo.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Leonardo Vitoriano</p>
-        <p style="text-align:center">Github: leonardomilv3</p>
-        </div>
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/nicolas.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Nicolas Georgeos</p>
-          <p style="text-align:center">Github: ngm1450</p>
-        </div>
-      </div>
-    </div>
-</section>
+## Equipe
+
+<table>
+    <tr style="text-align: center">
+        <td>
+            <a href="https://github.com/Arthurlima544">
+                <img style="border-radius: 50%;" src="docs/_media/arthur.jpg" width="100px;"/><br/>
+                Arthur Lima
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/berssutti">
+                <img style="border-radius: 50%;" src="docs/_media/bernardo.jpg" width="100px;"/><br />         
+                Bernardo Pissutti
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ciceroff">
+                <img style="border-radius: 50%;" src="docs/_media/cicero.jpg" width="100px;"/><br />
+                Cícero Fernandes
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/dev-brito">
+                <img style="border-radius: 50%;" src="docs/_media/guilherme.jpg" width="100px;"/><br />                 
+                Guilherme Brito
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/leonardomilv3">
+                <img style="border-radius: 50%;" src="docs/_media/leonardo.jpg" width="100px;"/><br />         
+                Leonardo Vitoriano
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ngm1450">
+                <img style="border-radius: 50%;" src="docs/_media/nicolas.jpg" width="100px;"/><br />         
+                Nícolas Georgeos
+            </a>
+        </td>
+    </tr>
+</table>
