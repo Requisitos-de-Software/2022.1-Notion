@@ -53,6 +53,12 @@ A construção das Rich Pictures foi baseada nos cinco elementos principais dest
 
 </center>
 
+## 3. Referências
+Rich picture. MSP Guide. Disponível em: <https://mspguide.org/2022/03/18/rich-picture/>. Acesso em: 27 de jun. de 2022.
+
+REVADI, Chindy Elsanna. Rich Picture Guidelines. CTEC2402 - Software Development
+Project. Abril, 2018.
+
 ## Histórico de Versões
 | Versão | Data       | Descrição                            | Autor             |
 |--------|------------|--------------------------------------|-------------------|
@@ -63,8 +69,4 @@ A construção das Rich Pictures foi baseada nos cinco elementos principais dest
 | 1.0.3   | 12/07/2022 | Transição para o Notion           | Nícolas Georgeos Mantzos |
 
 
-## 3. Referências
-Rich picture. MSP Guide. Disponível em: <https://mspguide.org/2022/03/18/rich-picture/>. Acesso em: 27 de jun. de 2022.
 
-REVADI, Chindy Elsanna. Rich Picture Guidelines. CTEC2402 - Software Development
-Project. Abril, 2018.
