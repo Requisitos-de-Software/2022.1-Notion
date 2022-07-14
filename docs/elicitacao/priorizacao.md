@@ -15,9 +15,9 @@ Dentre as técnicas de priorização, podemos citar algumas:
 
 Consiste em uma técnica mais elaborada que analisa o benefício relativo de cada recurso,  apenalidade que o negócio sofreria caso o recurso não fosse incluído, o custo relativo da implementação da funcionalidade e o grau relativo de risco. Após essa análise, pode-se calcular a prioridade para cada requisito utilizando da seguinte formúla:
 
-$$prioridade=\dfrac{valor(\%)}{custo(\%)*peso_{custo} + riscos (\%)*peso_{risco}}$$ 
-sendo 
-$$valor(\%)=beneficio*peso_{relativo} + penalidade*peso_{relativo}$$
+prioridade = valor (%) / custo (%) * peso(custo) + riscos (%) * peso(risco),
+
+sendo valor = beneficio * peso(relativo) + penalidade * peso(relativo)
 
 ---
 
