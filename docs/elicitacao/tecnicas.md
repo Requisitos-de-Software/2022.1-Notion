@@ -39,11 +39,11 @@ Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela
 | RF14   | O usuário deve poder escolher uma foto de identificação para cada página.                                  |
 | RF15   | O usuário deve poder escolher uma foto de identificação para o workspace.                                     |
 | RF16   | O usuário deve poder ter quantos workspaces desejar.                                                          |
-| RF17   | O usuário deve poder escolher entre opções de templates para um página criada.                             |
+| RF17   | O usuário deve poder escolher entre opções de templates para uma página criada.                             |
 | RF18   | O usuário deve poder ver o histórico de páginas deletadas.                                                 |
 | RF19   | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                               |
 | RF20   | O usuário deve poder adicionar fotos a página.                                                            |
-| RF21   | O usuário deve poder referenciar outras páginas dentro de um página.                                    |
+| RF21   | O usuário deve poder referenciar outras páginas dentro de uma página.                                    |
 | RF22   | O usuário deve poder adicionar outros perfis para editar uma página.                                        |
 | RF23   | O usuário deve poder adicionar uma legenda às imagens da página.                                           |
 | RF24   | O usuário deve poder escrever comentários nas páginas.                                                     |
