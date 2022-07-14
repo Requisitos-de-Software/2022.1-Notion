@@ -79,25 +79,25 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RF15   | C |
 | RF16   | S|
 | RF17   | M|
-| RF18   | S|1
+| RF18   |S|
 | RF19   |C|
-| RF20   | S|
+| RF20   |S|
 | RF21   |C|
-| RF22   | C|
-| RF23   | C|
-| RF24   | W|
-| RF25   | M |
+| RF22   |C|
+| RF23   |C|
+| RF24   |W|
+| RF25   |M|
 | RF26   |M|
 | RF27   |S|
-| RF28   | S |
-| RF29   | S |
-| RF30   | C |
-| RF31   | W |
-| RNF1   | S  |
-| RNF2   |S  |
-| RNF3   | S|
-| RNF4   | M |
-| RNF5   | M |
+| RF28   |S|
+| RF29   |S|
+| RF30   |C|
+| RF31   |W|
+| RNF1   |S|
+| RNF2   |S|
+| RNF3   |S|
+| RNF4   |M|
+| RNF5   |M|
 
 >Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades
 ## Referências Bibliográficas
