@@ -58,7 +58,7 @@ A confirmação ou não da prioridade dos requisitos é de cunho do cliente, log
 
 ## Resultados
 
-Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as seguintes prioridade que podem ser vistas na tabela a seguir.
+Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na tabela a seguir.
 
 | Requisito | Prioridade |
 |:--------:|:-----|
