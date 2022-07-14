@@ -61,6 +61,7 @@ A tabela 3 referencia as atividades feitas para a segunda entrega.
 | 13/07 | Definição da técnica questionário                    | Arthur            | Nícolas   |
 | 13/07 | Definição das personas                               | Leonardo          | Arthur    |
 | 13/07 | Cronograma da segunda entrega                        | Cícero            | Todos     |
+| 13/07 | Página de resultados                                 | Guilherme         | Todos     |
 | 13/07 | Gravação do vídeo da entrega 2                       | Todos             | Todos     |
 
 _Tabela 3: cronograma da segunda entrega_
