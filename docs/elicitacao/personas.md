@@ -13,7 +13,9 @@ O usuário são pessoas que possuem contato ou facilidade com tecnologia, entre 
 
 ## 1. Introdução
 
-As personas podem ser entendidas como sendo personagens fictícios que representam um grupo de usuários reais. Segundo Simone (2021, p.176), as personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.
+As personas podem ser entendidas como sendo personagens fictícios que representam um grupo de usuários reais. Segundo Simone (2021, p.176), as personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. 
+
+Ainda existem as antipersonas para tornar claro que não estamos projetando para elas.
 
 ## 2. Personas
 
