@@ -8,7 +8,6 @@
 - **Pré-rastreabilidade**
   - [Rich Picture](pre-rastreabilidade/rich_picture.md)
 - **Elicitação**
-  - [Perfil do Usuário](elicitacao/)
   - [Personas](elicitacao/personas.md)
   - [Técnicas](elicitacao/tecnicas.md)
   - [Priorização](elicitacao/priorizacao.md)

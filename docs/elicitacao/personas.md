@@ -2,7 +2,7 @@
 
 Perfil de usuário é uma descrição detalhada das características dos usuários
 cujos objetivos devem ser apoiados pelo sistema sendo projetado (Barbosa, 2021).
-A partir dos dados coletados, com a técnica de elicitação de [questionario (técnica 2 utilizada pela equipe)](tecnicas.md), é possível então traçar perfis de usuários que possuem características semelhantes.
+A partir dos dados coletados, com a técnica de elicitação de questionario (técnica 2 utilizada pela equipe), é possível então traçar perfis de usuários que possuem características semelhantes.
 
 Perfil do Usuário: 
 
