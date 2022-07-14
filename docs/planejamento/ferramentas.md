@@ -1,5 +1,5 @@
 # Ferramentas
-Lista de ferramentas que serão utilizadas pela equipe para a elaboração das atividades do projeto.
+A lista de ferramentas que serão utilizadas para a elaboração das atividades do projeto está listada na _Tabela 1_ abaixo.
 
 |Ícone | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
@@ -10,6 +10,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
 ![drawing](../_media/teams_icon.png)  | [Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software)                                   | Gravação das apresentações                       |
 ![drawing](../_media/whatsapp_icon.png) | [WhatsApp](https://www.whatsapp.com/?lang=pt_br)                                                             | Comunicação diária entre os integrantes da equipe       |
 ![drawing](../_media/figma_icon.png)    | [Figma](https://www.figma.com)                                                                               | Elaboração das Rich Pictures e dos Diagramas Entidade-Relacionamento                       |
+*Tabela 1: Tabela de Ferramentas utilizadas*
 
 ## Histórico de Versões
 | Versão | Data       | Descrição                            | Autor             |
@@ -17,3 +18,4 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
 | 1.0    | 22/06/2022 | Transcrição da tabela de ferramentas | Bernardo Pissutti |
 | 1.1    | 25/06/2022 | Formatação da página                 | Bernardo Pissutti |
 | 1.2    | 27/06/2022 | Adição dos ícones e alteração nos textos           | Nícolas Georgeos Mantzos |
+| 1.3   | 12/07/2022 | Revisão           | Nícolas Georgeos Mantzos |
