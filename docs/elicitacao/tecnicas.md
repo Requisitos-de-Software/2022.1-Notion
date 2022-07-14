@@ -21,44 +21,43 @@ Foram selecionados dois participantes do grupo para fazer a introspecção, elas
 
 Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela 1_, e não funcionais, mostrados na _Tabela 2_, elicitados como resultado do método de introspecção.
 
-| Código | Requisito                                                      |
-|--------| -------------------------------------------------------------- |
-| RF1    | O usuário deve poder criar um documento                        |
-| RF2    | O usuário deve poder encontrar um documento criado previamente |
-| RF3    | O usuário deve poder editar um documento                       |
-| RF4    | O usuário deve poder excluir um documento quando desejado      |
-| RF5    | O usuário deve poder ser autenticado no sistema                |
-| RF6    |     O usuário deve poder pesquisar os documentos já criados pelo nome deles                                                           |
-| RF7    |     O usuário deve poder escolher em qual fonte editar seus documentos                                                           |
-| RF8    |      O usuário deve poder escolher entre o tamanho de fonte grande e pequena                                                          |
-| RF9    |    O usuário deve poder escolher se o texto ocupa toda a largura do documento ou fica centralizado no documento                                                           |
-| RF10   |   O usuário deve poder ver o hitórico de alterações do documento                                                             |
-| RF11   |   O usuário deve poder favoritar o documento                                                             |
-| RF12   |   O usuário deve poder compartilhar o link para o documento                                                             |
-| RF13   |   O usuário deve poder escolher a aparência do sistema                                                             |
-| RF14   |   O usuário deve poder escolher uma foto de identificação para cada documento                                                            |
-| RF15   |   O usuário deve poder escolher uma foto de identificação para o workspace                                                             |
-| RF16   |   O usuário deve poder ter quantos workspaces desejar                                                             |
-| RF17   |   O usuário deve poder escolher entre opções de templates para um documento criado                                                            |
-| RF18   |   O usuário deve poder ver o histórico de documentos deletados                                                             |
-| RF19   |   O usuário deve poder importar documentos de outras plataformas ou aplicativos                                                            |
-| RF20   |   O usuário deve poder adicionar fotos ao documento                                                             |
-| RF21   |   O usuário deve poder referênciar outros documentos dentro de um documento                                                             |
-| RF22   |   O usuário deve poder adicionar outros perfis para editar um documento                                                             |
-| RF23   |   O usuário deve poder adicionar uma legenda às imagens do documento                                                             |
-| RF24   |  O usuário deve poder escrever comentários nos documentos                                                             |
-| RF25   |   O usuário deve poder criar blocos de markdown para editar os documentos                                                             |
-| RF26   |  O usuário deve poder escolher entre opções de edição do bloco de markdown                                                              |
+| Código | Requisito                                                                                                    |
+| ------ | ------------------------------------------------------------------------------------------------------------ |
+| RF1    | O usuário deve poder criar um documento                                                                      |
+| RF2    | O usuário deve poder encontrar um documento criado previamente                                               |
+| RF3    | O usuário deve poder editar um documento                                                                     |
+| RF4    | O usuário deve poder excluir um documento quando desejado                                                    |
+| RF5    | O usuário deve poder ser autenticado no sistema                                                              |
+| RF6    | O usuário deve poder pesquisar os documentos já criados pelo nome deles                                      |
+| RF7    | O usuário deve poder escolher em qual fonte editar seus documentos                                           |
+| RF8    | O usuário deve poder escolher entre o tamanho de fonte grande e pequena                                      |
+| RF9    | O usuário deve poder escolher se o texto ocupa toda a largura do documento ou fica centralizado no documento |
+| RF10   | O usuário deve poder ver o histórico de alterações do documento                                              |
+| RF11   | O usuário deve poder favoritar o documento                                                                   |
+| RF12   | O usuário deve poder compartilhar o link para o documento                                                    |
+| RF13   | O usuário deve poder escolher a aparência do sistema                                                         |
+| RF14   | O usuário deve poder escolher uma foto de identificação para cada documento                                  |
+| RF15   | O usuário deve poder escolher uma foto de identificação para o workspace                                     |
+| RF16   | O usuário deve poder ter quantos workspaces desejar                                                          |
+| RF17   | O usuário deve poder escolher entre opções de templates para um documento criado                             |
+| RF18   | O usuário deve poder ver o histórico de documentos deletados                                                 |
+| RF19   | O usuário deve poder importar documentos de outras plataformas ou aplicativos                                |
+| RF20   | O usuário deve poder adicionar fotos ao documento                                                            |
+| RF21   | O usuário deve poder referenciar outros documentos dentro de um documento                                    |
+| RF22   | O usuário deve poder adicionar outros perfis para editar um documento                                        |
+| RF23   | O usuário deve poder adicionar uma legenda às imagens do documento                                           |
+| RF24   | O usuário deve poder escrever comentários nos documentos                                                     |
+| RF25   | O usuário deve poder criar blocos de markdown para editar os documentos                                      |
+| RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown                                    |
 
 _Tabela 1: Requisitos funcionais_
 
 | Código | Requisito                                                      |
-|--------| -------------------------------------------------------------- |
+| ------ | -------------------------------------------------------------- |
 | RNF1   | Deve ser possível instalar a aplicação em dispositivos android |
-| RNF2   |     A interface do sistema deve ser responsiva                                                           |
+| RNF2   | A interface do sistema deve ser responsiva                     |
 
 _Tabela 2: Requisitos não funcionais_
-
 
 ## 2. Questionário
 
@@ -72,15 +71,15 @@ Levantar informações acerca dos usuários que utilizam o aplicativo notion, de
 
 ### 2.3 Metodologia
 
-Buscamos validar se o usuário utiliza o notion para coletar dados somente destes que a utilizam. Utilizamos o formato de questionário típico descrito por Sharp e coautoras (2007) que busca perguntas demográficas seguidas de perguntas sobre a experiência do usuário. e também o formato de perguntas fechadas, buscando uma maior agilidade na aaliação dos resultados. Utilizamos a escala Likert para obter a satisfação do usuário quanto a funcionalidade, em algumas das perguntas.
+Buscamos validar se o usuário utiliza o notion para coletar dados somente destes que a utilizam. Utilizamos o formato de questionário típico descrito por Sharp e coautoras (2007) que busca perguntas demográficas seguidas de perguntas sobre a experiência do usuário. e também o formato de perguntas fechadas, buscando uma maior agilidade na avaliação dos resultados. Utilizamos a escala Likert para obter a satisfação do usuário quanto a funcionalidade, em algumas das perguntas.
 
-Após definir o escopo do Questionario fizemos 9 questões no Google Forms, Sendo 7 de multipla escolha e somente 2 permitindo selecionar mais de uma opção, afim de evitar o cansaço na realização do formulário.
+Após definir o escopo do Questionário fizemos 9 questões no Google Forms, Sendo 7 de múltipla escolha e somente 2 permitindo selecionar mais de uma opção, afim de evitar o cansaço na realização do formulário.
 
 ### 2.4 Questões
 
 #### 1. Já utilizou o aplicativo Notion?
-![image](https://user-images.githubusercontent.com/60429513/178844427-3c55a468-e2e0-4618-b207-2de9e03097e1.png)
 
+![image](https://user-images.githubusercontent.com/60429513/178844427-3c55a468-e2e0-4618-b207-2de9e03097e1.png)
 
 Com o objetivo de analisar quantas pessoas já utilizaram ou não o aplicativo, refinando a pesquisa e direcionando o usuário alvo.
 
@@ -88,13 +87,11 @@ Com o objetivo de analisar quantas pessoas já utilizaram ou não o aplicativo, 
 
 ![image](https://user-images.githubusercontent.com/60429513/178844474-9c82c79e-ed35-43cd-8b97-d209bb525616.png)
 
-
 Com objetivo de conhecer mais sobre a idade dos usuários que utilizam o aplicativo.
 
 #### 3. Em quais dispositivo costuma utilizar o Notion?
 
 ![image](https://user-images.githubusercontent.com/60429513/178844508-a33b5056-4025-408e-a50a-d925ac4071a5.png)
-
 
 Com o objetivo de conhecer como os usuários fazem uso do aplicativo.
 
@@ -102,20 +99,17 @@ Com o objetivo de conhecer como os usuários fazem uso do aplicativo.
 
 ![image](https://user-images.githubusercontent.com/60429513/178844536-19ffa890-f06e-4885-8b7a-822f434ab013.png)
 
-
 Pergunta diferente das anteriores, agora temos o foco de entender mais sobre o aplicativo e oque faz os usuários quererem utilizar o notion.
 
 #### 5. Utiliza com frequência aplicativos do tipo "lista de tarefas" para organizar o dia a dia?
 
 ![image](https://user-images.githubusercontent.com/60429513/178844570-54fe96ed-d25e-495f-aeec-1edc45045c45.png)
 
-
 Com o objetivo de conhecer se os usuários recorrem a Softwares de gerenciamento de tarefas para se organizar.
 
-#### 6. A liberdade de utilizar novos templates facilita na organização da pessoal  e/ou equipe?
+#### 6. A liberdade de utilizar novos templates facilita na organização da pessoal e/ou equipe?
 
 ![image](https://user-images.githubusercontent.com/60429513/178844608-41c01fae-0da5-4f5b-8256-376efcfa50e0.png)
-
 
 Com o objetivo de induzir novos usuários a tentarem criar seus proprios templates, e analisar o impacto que uma funcionalidade especifica tem sobre os usuários.
 
@@ -129,13 +123,11 @@ Com o objetivo de analisar o impacto do notion na organização de time e de pes
 
 ![image](https://user-images.githubusercontent.com/60429513/178844673-383af217-3d20-467f-ae19-8df4f39b4098.png)
 
-
 Com o objetivo de analisar a presença do aplicativo notion no dia-a-dia dos usuários
 
 #### 9. Qual versão do Notion você utiliza?
 
 ![image](https://user-images.githubusercontent.com/60429513/178844706-ec635a0d-9283-4d8c-8be4-6438f1a2a1d1.png)
-
 
 Com o objetivo de analisar o perfil dos usuários que buscam mais funcionalidades no app e os que se contentam com o gratuito.
 
@@ -143,36 +135,34 @@ Com o objetivo de analisar o perfil dos usuários que buscam mais funcionalidade
 
 ![image](https://user-images.githubusercontent.com/60429513/178844741-fc9e1869-85c1-4bb3-9a25-898c94e5e2dc.png)
 
-
 Com o objetivo de analisar o quão o notion auxilia na vida dos usuários.
 
 ### 2.5 Resultados
 
-Nessa seção serão apresentados os resultados da técnica de questionario, mostrados na tabela 3 e 4.
+Nessa seção serão apresentados os resultados da técnica de questionário, mostrados na tabela 3 e 4.
 
-| Código | Requisito                                                      |
-| ------ | -------------------------------------------------------------- |
+| Código | Requisito                                                           |
+| ------ | ------------------------------------------------------------------- |
 | RF6    | O usuário deve poder ter uma agenda para visualizar afazeres do dia |
-
 
 _Tabela 3: Requisitos funcionais_
 
-| Código | Requisito                                                      |
-| ------ | -------------------------------------------------------------- |
-| RNF2   | O aplicativo deve ser cross-plataform   |
+| Código | Requisito                             |
+| ------ | ------------------------------------- |
+| RNF2   | O aplicativo deve ser cross-plataform |
 
 _Tabela 4: Requisitos não funcionais_
 
-
 ### 2.6 Link para o formulário
-  
-https://forms.gle/jcfPwYnpMMMfXKDRA
 
+https://forms.gle/jcfPwYnpMMMfXKDRA
 
 ## Referências Bibliográficas
 
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
+
 Engenharia de requisitos: software orientado ao negócio de Carlos Eduardo Vazquez, Guilherme Siqueira Simões - capitulo 7
+
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Histórico de Versões
