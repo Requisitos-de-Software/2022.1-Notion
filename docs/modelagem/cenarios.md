@@ -374,6 +374,527 @@ por Leite [9] e fundamentada nos seguintes elementos:
     </tbody>
 </table>
 
+### C04 Cadastro de página em branco
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de página em branco</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Cadastrar uma nova página em branco/td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Local: Tela inicial de um workspace</li>
+                    <li>Tempo: 30 s</li>
+                    <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página em branco</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário acessa um workspace</li>
+                    <li>O usuário clica nos botões <i>Add a page</i> ou <i>New page</i></li>
+                    <li>O usuário coloca um nome para a página no campo dedicado e clica em <i>Empty</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C05 Cadastro de página em branco com ícone
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de página em branco com ícone</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Cadastrar uma nova página em branco com ícone/td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Local: Tela inicial de um workspace</li>
+                    <li>Tempo: 25s</li>
+                    <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página em branco com ícone</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário acessa um workspace</li>
+                    <li>O usuário clica nos botões <i>Add a page</i> ou <i>New page</i></li>
+                    <li>O usuário coloca um nome para a página no campo dedicado e clica em <i>Empty with icon</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C06 Cadastro de página a partir de template
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de página a partir de template</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Cadastrar uma nova página a partir de templates do Notion</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                  <li>Local: Tela inicial de um workspace</li>
+                  <li>Tempo: 30 s</li>
+                  <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                    <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem criar um novo workspace</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário acessa um workspace</li>
+                    <li>O usuário clica nos botões <i>Add a page</i> ou <i>New page</i></li>
+                    <li>O usuário digita um nome no campo dedicado e clica em <i>Templates</i></li>
+                    <li>O usuário clica no template que desejar</li>
+                    <li>O usuário clica no botão <i>Use this template</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C07 Cadastro de página a partir de arquivo
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de página a partir de arquivo</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Cadastrar uma nova página a partir de arquivos</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                  <li>Local: Tela inicial de um workspace</li>
+                  <li>Tempo: 2 min</li>
+                  <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                    <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página a partir de arquivos</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário acessa um workspace</li>
+                    <li>O usuário clica nos botões <i>Add a page</i> ou <i>New page</i></li>
+                    <li>O usuário digita um nome no campo dedicado e clica em <i>Import</i></li>
+                    <li>O usuário clica no tipo de arquivo que deseja importar</li>
+                    <li>O usuário seleciona o arquivo a partir do explorador</li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C08 Cadastro de página a partir de base de dados
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de página a partir das bases de dados do Notion</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Cadastrar uma nova página a partir das bases de dados do Notion</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                  <li>Local: Tela inicial de um workspace</li>
+                  <li>Tempo: 30 s</li>
+                  <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                    <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página a partir das bases de dados do Notion</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário acessa um workspace</li>
+                    <li>O usuário clica nos botões <i>Add a page</i> ou <i>New page</i></li>
+                    <li>O usuário digita um nome no campo dedicado</li>
+                    <li>O usuário clica em algum base de dados na seção <i>Database</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C09 Adicionar link entre páginas
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Adicionar link entre páginas</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Cadastrar um link para uma página dentro de outra página</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                  <li>Local: Página</li>
+                  <li>Tempo: 30 s</li>
+                  <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace e uma página cadastrados</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                    <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
+                    <li>Não possuir nenhuma página cadastrada</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem criar links entre páginas</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário acessa uma página</li>
+                    <li>O usuário identifica a linha na qual deseja adicionar um link</li>
+                    <li>O usuário clica nos quatro pontos à esquerda dessa linha</li>
+                    <li>O usuário clica na opção <i>Page</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C010 Sair da aplicação (<i>logout)
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Sair da aplicação (<i>logout</i>)</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Usuário deseja realizar <i>logout</i> da aplicação</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Local: Qualquer tela da aplicação</li>
+                    <li>Tempo: 10 segundos</li>
+                    <li>Pré-condição: Estar logado na aplicação e possuir acesso a internet</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que desejem deslogar da aplicação</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                   <li>Usuário clica na imagem do workspace no canto superior esquerdo</li>
+                    <li>Usuário clica em <i>Log out all</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                  | Autor             |
