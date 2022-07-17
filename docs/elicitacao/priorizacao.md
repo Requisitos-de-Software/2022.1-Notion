@@ -110,6 +110,7 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
 FIGUEIREDO, André; ALMEIDA, Rodrigo; ALENCAR, Vitruvio; Um Conjunto de práticas para auxiliar o cálculo de ROI em processos de software. p.2
 
 ## Histórico de Versões
+
 | Versão | Data       | Descrição         | Autor    |
 |--------|------------|-------------------|----------|
 | 1.0       | 13/07/2022           |      Criação do Artefato             |   Guilherme Brito       |

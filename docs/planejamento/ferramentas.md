@@ -16,6 +16,7 @@ _Tabela 1: Tabela de Ferramentas utilizadas_
 
 
 ## Histórico de Versões
+
 | Versão | Data       | Descrição                            | Autor             |
 |--------|------------|--------------------------------------|-------------------|
 | 1.0    | 22/06/2022 | Transcrição da tabela de ferramentas | Bernardo Pissutti |
