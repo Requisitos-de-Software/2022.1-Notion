@@ -55,7 +55,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
     </tbody>
 </table>
 
-### 1.1 C01 - Cadastrar usuário através do Gmail
+### C01 - Cadastrar usuário através do Gmail
 
 <table>
     <thead>
@@ -127,7 +127,12 @@ por Leite [9] e fundamentada nos seguintes elementos:
                     <li>O usuário clica em <i>Take Me to Notion</i></li>
                 </ol>
             </td>
-            <td>-</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões <i>Try Notion for Free</i> ou <i>Log in</i></li>
+                    <li>Erro de autenticação por parte do Notion</li>
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
