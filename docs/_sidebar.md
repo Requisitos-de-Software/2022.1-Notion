@@ -1,4 +1,4 @@
-- [Home](/README)
+- [Sobre](/README)
 - [Apresentações](apresentacoes.md)
 - **Planejamento**
   - [Cronograma das Atividades](planejamento/cronograma.md)
@@ -8,7 +8,7 @@
 - **Pré-rastreabilidade**
   - [Rich Picture](pre-rastreabilidade/rich_picture.md)
 - **Elicitação**
-  - [Personas](elicitacao/personas.md)
+  - [Perfil e Personas](elicitacao/personas.md)
   - [Técnicas](elicitacao/tecnicas.md)
   - [Priorização](elicitacao/priorizacao.md)
   - [Resultados](elicitacao/resultado.md)
