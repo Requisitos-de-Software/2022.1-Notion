@@ -61,7 +61,8 @@ _Tabela 2: Requisitos não funcionais_
 
 ## Referências Bibliográficas
 
-SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina
+de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de Versões
 
