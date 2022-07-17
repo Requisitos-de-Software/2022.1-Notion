@@ -55,7 +55,94 @@ por Leite [9] e fundamentada nos seguintes elementos:
     </tbody>
 </table>
 
-### C01 - Cadastrar usuário através do Gmail
+### C01 - Cadastrar usuário utilizando o email
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de usuário no site do Notion através do email</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Criar um usuário no Notion utilizando um email de qualquer provedor</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Local: Tela de login ou cadastro</li>
+                    <li>Tempo: 2 minutos</li>
+                    <li>Pré-condição: Possuir um email ao qual tenha acesso</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não possuir nenhum email</li>
+                    <li>Ter perdido acesso ao email ao qual tem acesso</li>
+                    <li>Não dispor do tempo necessário</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que desejem se cadastrar</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário aceso a página inicial do Notion</li>
+                    <li>O usuário clica nos botões <i>Try Notion for Free</i> ou <i>Log in</i></li>
+                    <li>O usuário insere seu email no campo dedicado</li>
+                    <li>O usuário clica no botão <i>Continue with email</i></li>
+                    <li>O usuário consulta o email inserido para  obter o código temporário de login</li>
+                    <li>O usuário insere o código que recebeu no campo dedicado</li>
+                    <li>O usuário clica no botão <i>Continue with login code</i></li>
+                    <li>O usuário informa seu nome</li>
+                    <li>O usuário cria uma senha </li>
+                    <li>O usuário informa qual tipo de trabalho faz</li>
+                    <li>O usuário informa qual é sua profissão</li>
+                    <li>O usuário informa o que deseja fazer no Notion</li>
+                    <li>O usuário clica em <i>Continue</i></li>
+                    <li>O usuário informa com quem pretende utilizar o Notion</li>
+                    <li>O usuário clica em <i>Take Me to Notion</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões <i>Try Notion for Free</i> ou <i>Log in</i></li>
+                    <li>Erro de autenticação por parte do Notion</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C01 - Cadastrar usuário utilizando o Gmail
 
 <table>
     <thead>
