@@ -2,14 +2,14 @@
 
 A engenharia de requisitos utiliza, dentra suas várias estratégias para elicitação de requisitos, a de cenários. O foco dela 
 está em prover uma descrição concreta e evolutiva de uma situação na qual o usuário engaja, provendo assim contexto para a tarefa de 
-elicitação e, segundo o SWEBOK, um framework para as questões levantadas junto aos stakeholders sobre as tarefas do sistema,  
-permitido assim que questionamentos na ordem de <i>e se</i> e <i>como isso é feito</i> sejam levantados.
+elicitação e, segundo o SWEBOK, um framework para as questões levantadas junto aos stakeholders sobre as tarefas do sistema, permitido 
+assim que questionamentos na ordem de <i>e se</i> e <i>como isso é feito</i> sejam levantados.
 
-# Cenários
+# 1.0 Cenários
 
 Cenários, são, grosso modo, modelos conceituais utilizados para descrever e melhor entender um software. Dentre as diversas 
 estratégias de modelagem documentadas (diagramas de caso de uso, por exemplo), optou-se por utilizar a notação baseada em uma linguagem natural semi-estrututurada proposta
-por Leita [9] e fundamentada nos seguintes elementos:
+por Leite [9] e fundamentada nos seguintes elementos:
 
 <table>
     <thead>
@@ -51,6 +51,83 @@ por Leita [9] e fundamentada nos seguintes elementos:
             <td>
                 Representar imposições que restrinjam um episódio, recurso ou contexto do cenário.
             </td>
+        </tr>
+    </tbody>
+</table>
+
+### 1.1 C01 - Cadastrar usuário através do Gmail
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de usuário no site do Notion através do Gmail</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Criar um usuário no Notion utilizando um email do Gmail</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Local: Tela de login ou cadastro</li>
+                    <li>Tempo: 2 minutos</li>
+                    <li>Pré-condição: Possuir um email do gmail ao qual tenha acesso</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não possuir email cadastrado no gmail</li>
+                    <li>Ter perdido acesso ao email</li>
+                    <li>Não dispor do tempo necessário</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que desejem se cadastrar</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário aceso a página inicial do Notion</li>
+                    <li>O usuário seleciona as opções <i>Try Notion for Free</i> ou <i>Log in</i></li>
+                    <li>O Usuário seleciona a opção <i>Continue With Google</i></li>
+                    <li>O Usuário seleciona seu email ou o insere manualmente</li>
+                    <li>Caso tenha selecionado o email, aguarda o cadastro. Senão, insere a senha.</li>
+                    <li>O usuário informa qual tipo de trabalho faz</li>
+                    <li>O usuário informa qual é sua profissão</li>
+                    <li>O usuário informa o que deseja fazer no Notion</li>
+                    <li>O usuário informa com quem pretende utilizar o Notion</li>
+                    <li>O usuário clica em <i>Take Me to Notion</i></li>
+                </ol>
+            </td>
+            <td>-</td>
         </tr>
     </tbody>
 </table>
