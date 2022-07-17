@@ -12,3 +12,9 @@
   - [Técnicas](elicitacao/tecnicas.md)
   - [Priorização](elicitacao/priorizacao.md)
   - [Resultados](elicitacao/resultado.md)
+- **Modelagem**
+  - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
+  - [Cenários](modelagem/cenarios.md)
+  - [Léxicos](modelagem/lexicos.md)
+  - [Casos de Uso](modelagem/casos_de_uso.md)
+  

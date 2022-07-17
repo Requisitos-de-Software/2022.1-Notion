@@ -142,6 +142,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Histórico de Versões
+
 | Versão | Data       | Descrição         | Autor    |
 |--------|------------|-------------------|----------|
 | 1.0    | 12/07/2022 | Criação da Introdução, Personas e Antipersonas | Leonardo Vitoriano |
