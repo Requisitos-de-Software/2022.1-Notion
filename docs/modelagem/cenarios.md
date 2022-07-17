@@ -55,7 +55,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
     </tbody>
 </table>
 
-### C01 - Cadastro de usuário utilizando um email de qualquer provedor
+### C01 Cadastro de usuário utilizando um email de qualquer provedor
 
 <table>
     <thead>
@@ -142,7 +142,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
     </tbody>
 </table>
 
-### C02 - Cadastro de usuário utilizando o Gmail
+### C02 Cadastro de usuário utilizando o Gmail
 
 <table>
     <thead>
@@ -224,7 +224,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
     </tbody>
 </table>
 
-### C03 Cadastro de workspace com nome personalizado
+### C03 Cadastro de workspace
 
 <table>
     <thead>
@@ -288,6 +288,79 @@ por Leite [9] e fundamentada nos seguintes elementos:
                     <li>O Usuário localiza e clica em três pontos que estão no pop-up que abriu</li>
                     <li>O usuário clica no botão <i>Join or create workspace</i></li>
                     <li>O usuário informa se deseja utilizar o workspace de forma individual ou coletiva</li>
+                    <li>O usuário localiza e clica no botão <i>Take Me to Notion</i></li>
+                </ol>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não consegue encontrar os botões</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### C04 Alteração de nome de workspace
+
+<table>
+    <thead>
+        <tr>
+            <td>Elemento</td>
+            <td>Descrição</td>
+            <td>Restrições</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Título</td>
+            <td>Cadastro de workspace com nome personalizado</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Cadastrar um novo workspace e modificar seu nome</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Contexto</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Local: Tela inicial de um workspace</li>
+                    <li>Tempo: 1 minuto</li>
+                    <li>Pré-condição: Estar logado na aplicação</li>
+                </ul>
+            </td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Não estar logado na aplicação</li>
+                    <li>Não dispor do tempo necessário</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
+            <td>
+                <ul style="list-style: none">
+                    <li>Usuário não possui acesso a internet</li>
+                    <li>Usuário não possui computador ou smartphone</li>
+                    <li>Usuário não possui navegador instalado em seus dispositivos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem criar um novo workspace</td>
+            <td>
+              -
+            </td>
+        </tr>
+        <tr>
+            <td>Episódio</td>
+            <td>
+                <ol>
+                    <li>O usuário acessa um workspace</li>
+                    <li>O usuário clica no botão <i>Settings & Members</i></li>
                     <li>O usuário localiza e clica na subseção <i>settings</i> da seção <i>workspace</i></li>
                     <li>O usuário insere o nome que desejar no campo dedicado e clica em <i>Update</i></li>
                 </ol>
