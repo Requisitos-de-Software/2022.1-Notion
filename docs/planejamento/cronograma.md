@@ -126,6 +126,14 @@ O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, represent
 
 O backlog da sprint 3 referente ao Épico: Modelagem de Requisitos, representado na _Figura 5_, e na _Figura 6_ o kanban board.
 
+| ![image](../_media/product_backlog3.png) |
+|------------------------------------------|
+| _Figura 5: backlog da sprint 3_          |
+
+| ![image](../_media/kanban_sprint3.png) |
+|----------------------------------------|
+| _Figura 6: quadro kanban da sprint 3_  |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                               | Autor             |
