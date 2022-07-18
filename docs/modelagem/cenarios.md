@@ -1,15 +1,15 @@
-# Introdução
+# 1.0 Introdução
 
-A engenharia de requisitos utiliza, dentra suas várias estratégias para elicitação de requisitos, a de cenários. O foco dela 
-está em prover uma descrição concreta e evolutiva de uma situação na qual o usuário engaja, provendo assim contexto para a tarefa de 
-elicitação e, segundo o SWEBOK, um framework para as questões levantadas junto aos stakeholders sobre as tarefas do sistema, permitido 
+A engenharia de requisitos utiliza, dentra suas várias estratégias para elicitação de requisitos, a de cenários; cujo foco
+está em prover uma descrição concreta e evolutiva [1] de uma situação na qual o usuário engaja, provendo assim contexto para a tarefa de
+elicitação e, segundo o SWEBOK [2], um framework para as questões levantadas junto aos stakeholders sobre as tarefas do sistema, permitido
 assim que questionamentos na ordem de <i>e se</i> e <i>como isso é feito</i> sejam levantados.
 
-# 1.0 Cenários
+# 2.0 Cenários
 
 Cenários, são, grosso modo, modelos conceituais utilizados para descrever e melhor entender um software. Dentre as diversas 
 estratégias de modelagem documentadas (diagramas de caso de uso, por exemplo), optou-se por utilizar a notação baseada em uma linguagem natural semi-estrututurada proposta
-por Leite [9] e fundamentada nos seguintes elementos:
+por Leite [1] e fundamentada nos seguintes elementos:
 
 <table>
     <thead>
@@ -53,6 +53,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             </td>
         </tr>
     </tbody>
+    <caption>Tabela 1: Elementos da abordagem textual</caption>
 </table>
 
 ### C01 Cadastro de usuário utilizando um email de qualquer provedor
@@ -895,8 +896,18 @@ por Leite [9] e fundamentada nos seguintes elementos:
     </tbody>
 </table>
 
-## Histórico de Versões
+## Referências Bibliográficas
+
+[1] Leite, J., C., et al., Enhancing a Requirements Baseline with Scenarios, in
+Proc. of the Third IEEE International Symposium on Requirements
+Engineering (RE’97) – Annapolis, USA – IEEE Computer Society Press, p
+44-53, 1997.
+
+[2] Bourque, P., C., et al., Guide to the Software Engineering Body of Knowledge – IEEE Computer Society Press, p
+37, 2004.
+
+# Histórico de Versões
 
 | Versão | Data       | Descrição                  | Autor             |
 | ------ | ---------- | -------------------------- | ----------------- |
-|   1.0     |  16/07/2022  | Criação do documento e início da escrita | Nícolas Georgeos Mantzos |
+|   1.0     |  16/07/2022  | Criação do documento e primeira escrita | Nícolas Georgeos Mantzos |
