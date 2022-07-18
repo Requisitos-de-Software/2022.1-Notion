@@ -136,9 +136,10 @@ O backlog da sprint 3 referente ao Épico: Modelagem de Requisitos, representado
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                               | Autor             |
-| ------ | ---------- | --------------------------------------- | ----------------- |
-| 1.0    | 22/06/2022 | Criação dos Cronogramas                 | Arthur            |
-| 1.1    | 28/06/2022 | Atualização do Cronograma               | Arthur            |
-| 1.2    | 13/07/2022 | Formatação da página                    | Bernardo Pissutti |
-| 1.3    | 13/07/2022 | Adição do cronograma da segunda entrega | Cícero            |
+| Versão | Data       | Descrição                                                | Autor             |
+|--------|------------|----------------------------------------------------------|-------------------|
+| 1.0    | 22/06/2022 | Criação dos Cronogramas                                  | Arthur            |
+| 1.1    | 28/06/2022 | Atualização do Cronograma                                | Arthur            |
+| 1.2    | 13/07/2022 | Formatação da página                                     | Bernardo Pissutti |
+| 1.3    | 13/07/2022 | Adição do cronograma da segunda entrega                  | Cícero            |
+| 1.4    | 18/07/2022 | Adição do cronograma, backlog e kanban board da sprint 3 | Bernardo Pissutti |
