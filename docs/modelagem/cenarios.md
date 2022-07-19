@@ -53,7 +53,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
             </td>
         </tr>
     </tbody>
-    <caption style="caption-side: bottom">Tabela 1: Elementos da abordagem textual</caption>
+    <caption style="caption-side: bottom">Tabela 1: Elementos da abordagem textual semi-estruturada</caption>
 </table>
 
 ### C01 Cadastro de usuário utilizando um email de qualquer provedor
@@ -69,12 +69,12 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     <tbody>
         <tr>
             <td>Título</td>
-            <td>Cadastro de usuário no site do Notion através do email</td>
+            <td>Cadastro de usuário no site do Notion através de email</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Objetivo</td>
-            <td>Criar um usuário no Notion utilizando um email de qualquer provedor</td>
+            <td>Criar um usuário no Notion utilizando um email</td>
             <td>-</td>
         </tr>
         <tr>
@@ -236,12 +236,12 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     <tbody>
         <tr>
             <td>Título</td>
-            <td>Cadastro de workspace com nome personalizado</td>
+            <td>Cadastro de workspace</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Objetivo</td>
-            <td>Cadastrar um novo workspace e modificar seu nome</td>
+            <td>Cadastrar um novo workspace</td>
             <td>-</td>
         </tr>
         <tr>
@@ -312,12 +312,12 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     <tbody>
         <tr>
             <td>Título</td>
-            <td>Cadastro de workspace com nome personalizado</td>
+            <td>Alteração de nome de workspace</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Objetivo</td>
-            <td>Cadastrar um novo workspace e modificar seu nome</td>
+            <td>Alterar o nome do workspace</td>
             <td>-</td>
         </tr>
         <tr>
@@ -349,10 +349,8 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
         </tr>
         <tr>
             <td>Atores</td>
-            <td>Usuário ou organização que já estejam cadastrados e desejem criar um novo workspace</td>
-            <td>
-              -
-            </td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem alterar o nome de algum workspace criado</td>
+            <td> - </td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -407,6 +405,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
                 <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
+                    <li>Não ter nenhum workspace cadastrado</li>
                 </ul>
             </td>
         </tr>
@@ -424,9 +423,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página em branco</td>
-            <td>
-              -
-            </td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -480,6 +477,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
                 <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
+                    <li>Não ter nenhum workspace cadastrado</li>
                 </ul>
             </td>
         </tr>
@@ -497,9 +495,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página em branco com ícone</td>
-            <td>
-              -
-            </td>
+            <td> - </td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -782,6 +778,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
                     <li>Não dispor do tempo necessário</li>
                     <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
                     <li>Não possuir nenhuma página cadastrada</li>
+                    <li>Possuir somente uma página cadastrada</li>
                 </ul>
             </td>
         </tr>
@@ -799,9 +796,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que já estejam cadastrados e desejem criar links entre páginas</td>
-            <td>
-              -
-            </td>
+            <td> - </td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -894,7 +889,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-## Referências Bibliográficas
+# Referências Bibliográficas
 
 [1] Leite, J., C., et al., Enhancing a Requirements Baseline with Scenarios, in
 Proc. of the Third IEEE International Symposium on Requirements
