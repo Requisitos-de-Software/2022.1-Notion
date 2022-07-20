@@ -5,7 +5,7 @@ Também será documentado o roadmap de cada sprint e o kanban board.
 
 ## 1. Cronograma Geral das Atividades
 
-Nessa seção, serão encontradas todas as entregas e apresentações a serem ministradas durante o período da disciplina, encontradas na tabela 1
+Nessa seção, serão encontradas todas as entregas e apresentações a serem ministradas durante o período da disciplina, encontradas na _Tabela 1_
 
 | Data  | Atividade                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ Nessa seção, serão encontradas as atividades específicas que foram trabalhad
 
 ### 2.1 Primeira Entrega
 
-A tabela 2 referencia as atividades feitas para a primeira entrega.
+A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 
 | Data  | Atividade                                               | Responsáveis             | Revisores         |
 | ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
@@ -50,7 +50,7 @@ _Tabela 2: cronograma da primeira entrega_
 
 ### 2.2 Segunda Entrega
 
-A tabela 3 referencia as atividades feitas para a segunda entrega.
+A tabela 3 aborda as atividades feitas para a segunda entrega.
 
 | Data  | Atividade                                            | Responsáveis                           | Revisores                              |
 | ----- | ---------------------------------------------------- | -------------------------------------- | -------------------------------------- |
@@ -68,19 +68,40 @@ A tabela 3 referencia as atividades feitas para a segunda entrega.
 
 _Tabela 3: cronograma da segunda entrega_
 
-## 3. RoadMap e Kanban Board
+### 2.3 Terceira Entrega
 
-O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Aqui, será apresentado o desenvolvimento dos dois com o passar das entregas.
+A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
+
+| Data  | Atividade                                              | Responsáveis        | Revisores |
+|-------|--------------------------------------------------------|---------------------|-----------|
+| 14/07 | Definição das atividades e atribuição dos responsáveis | Todos               | Todos     |
+| 20/07 | Cronograma da terceira entrega                         | todos               | Todos     |
+| 18/07 | Adição do backlog                                      | Bernardo            | Todos     |
+| 18/07 | Adição do quadro kanban                                | Bernardo            | Todos     |
+| 16/07 | Especificação Suplementar                              | Bernardo            | Guilherme |
+| 19/07 | Use Case                                               | Guilherme, Bernardo | Arthur    |
+| 19/07 | Léxico                                                 | Cícero              | Nícolas   |
+| 13/07 | Cenários                                               | Nícolas             | Leonardo  |
+| 20/07 | Gravação do vídeo da entrega 3                         | Todos               | Todos     |
+
+
+_Tabela 4: cronograma da terceira entrega_
+
+## 3. Roadmap e Sprints 
+
+O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.
 
 ### 3.1 Roadmap
 
 Apresentação do roadmap do zenhub da equipe, mostrando todas as sprints na _Figura 1_.
 
 | ![image](../_media/roadMapSprint2.png) |
-| -------------------------------------- |
-| _Figura 1: roadmap da sprint 2_        |
+|----------------------------------------|
+| _Figura 1: roadmap das sprints_        |
 
-### 3.2 Sprint 1
+### 3.2 Sprints
+
+#### 3.2.1 Sprint 1
 
 O backlog da sprint 1 referente ao Épico: Planejamento do Projeto, representado na _Figura 2_.
 
@@ -88,7 +109,7 @@ O backlog da sprint 1 referente ao Épico: Planejamento do Projeto, representado
 | --------------------------------------------------------------------------------------------------------------- |
 | _Figura 2: backlog da sprint 1_                                                                                 |
 
-### 3.3 Sprint 2
+#### 3.2.2 Sprint 2
 
 O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, representado na _Figura 3_ e na _Figura 4_ o kanban board.
 
@@ -100,11 +121,24 @@ O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, represent
 |---------------------------------------|
 | _Figura 4: quadro kanban da sprint 2_ |
 
+#### 3.2.3 Sprint 3
+
+O backlog da sprint 3 referente ao Épico: Modelagem de Requisitos, representado na _Figura 5_, e na _Figura 6_ o kanban board.
+
+| ![image](../_media/product_backlog3.png) |
+|------------------------------------------|
+| _Figura 5: backlog da sprint 3_          |
+
+| ![image](../_media/kanban_sprint3.png) |
+|----------------------------------------|
+| _Figura 6: quadro kanban da sprint 3_  |
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                               | Autor             |
-| ------ | ---------- | --------------------------------------- | ----------------- |
-| 1.0    | 22/06/2022 | Criação dos Cronogramas                 | Arthur            |
-| 1.1    | 28/06/2022 | Atualização do Cronograma               | Arthur            |
-| 1.2    | 13/07/2022 | Formatação da página                    | Bernardo Pissutti |
-| 1.3    | 13/07/2022 | Adição do cronograma da segunda entrega | Cícero            |
+| Versão | Data       | Descrição                                                | Autor             |
+|--------|------------|----------------------------------------------------------|-------------------|
+| 1.0    | 22/06/2022 | Criação dos Cronogramas                                  | Arthur            |
+| 1.1    | 28/06/2022 | Atualização do Cronograma                                | Arthur            |
+| 1.2    | 13/07/2022 | Formatação da página                                     | Bernardo Pissutti |
+| 1.3    | 13/07/2022 | Adição do cronograma da segunda entrega                  | Cícero            |
+| 1.4    | 18/07/2022 | Adição do cronograma, backlog e kanban board da sprint 3 | Bernardo Pissutti |

@@ -187,7 +187,7 @@ _Tabela 5: Requisitos funcionais_
 | Código | Requisito                                                          |
 |--------|--------------------------------------------------------------------|
 | RNF1   | As formulas matemáticas devem seguir o formato LaTex               |
-| RNF2   | A sintaxe dos códigos devm seguir uma das linguagens mais recentes |
+| RNF2   | A sintaxe dos códigos deve seguir uma das linguagens mais recentes |
 
 _Tabela 6: Requisitos não funcionais_
 
