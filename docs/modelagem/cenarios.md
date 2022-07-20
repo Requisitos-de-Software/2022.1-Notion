@@ -817,7 +817,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C010 Sair da aplicação (<i>logout)
+### C010 Sair da aplicação (<i>logout</i>)
 
 <table>
     <thead>
@@ -868,9 +868,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que desejem deslogar da aplicação</td>
-            <td>
-              -
-            </td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Episódio</td>
