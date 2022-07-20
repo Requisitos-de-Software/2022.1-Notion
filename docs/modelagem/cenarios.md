@@ -7,7 +7,7 @@ assim que questionamentos na ordem de <i>e se</i> e <i>como isso é feito</i> se
 
 # 2.0 Cenários
 
-Cenários são, grosso modo, modelos conceituais utilizados para descrever e melhor entender um software. Dentre as diversas 
+Cenários são, de grosso modo, modelos conceituais utilizados para descrever e melhor entender um software. Dentre as diversas 
 estratégias de modelagem documentadas (diagramas de caso de uso, por exemplo), optou-se por utilizar a notação baseada em uma linguagem natural semi-estrututurada proposta
 por Leite [1] e fundamentada nos elementos da Tabela 1.
 
