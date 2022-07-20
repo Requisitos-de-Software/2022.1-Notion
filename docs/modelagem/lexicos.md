@@ -144,12 +144,6 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 | ------ | ----------------------------------- | ----------------------------------------------------------------------- | ------------------- |
 | Estado | O arquivo foi alterado pelo usuário | Toda alteração do arquivo é registrada na página de todas as alterações | Editado, atualizado |
 
-#### Alterado
-
-| Tipo   | Noção                               | Impacto                                                                 | Sinônimos           |
-| ------ | ----------------------------------- | ----------------------------------------------------------------------- | ------------------- |
-| Estado | O arquivo foi alterado pelo usuário | Toda alteração do arquivo é registrada na página de todas as alterações | Editado, atualizado |
-
 ## Referências Bibliográficas
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
