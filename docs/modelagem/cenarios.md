@@ -1,15 +1,15 @@
-# Cenários
+# 1.0 Introdução
 
-A engenharia de requisitos utiliza, dentra suas várias estratégias para elicitação de requisitos, a de cenários. O foco dela 
-está em prover uma descrição concreta e evolutiva de uma situação na qual o usuário engaja, provendo assim contexto para a tarefa de 
-elicitação e, segundo o SWEBOK, um framework para as questões levantadas junto aos stakeholders sobre as tarefas do sistema, permitido 
+A engenharia de requisitos utiliza, dentra suas várias estratégias para elicitação de requisitos, a de cenários; cujo foco
+está em prover uma descrição concreta e evolutiva [1] de uma situação na qual o usuário engaja, provendo assim contexto para a tarefa de
+elicitação e, segundo o SWEBOK [2], um framework para as questões levantadas junto aos stakeholders sobre as tarefas do sistema, permitido
 assim que questionamentos na ordem de <i>e se</i> e <i>como isso é feito</i> sejam levantados.
 
-# 1. Introdução
+# 2.0 Cenários
 
 Cenários, são, grosso modo, modelos conceituais utilizados para descrever e melhor entender um software. Dentre as diversas 
 estratégias de modelagem documentadas (diagramas de caso de uso, por exemplo), optou-se por utilizar a notação baseada em uma linguagem natural semi-estrututurada proposta
-por Leite [9] e fundamentada nos seguintes elementos:
+por Leite [1] e fundamentada nos elementos da Tabela 1.
 
 <table>
     <thead>
@@ -53,6 +53,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             </td>
         </tr>
     </tbody>
+    <caption style="caption-side: bottom">Tabela 1: Elementos da abordagem textual semi-estruturada</caption>
 </table>
 
 ### C01 Cadastro de usuário utilizando um email de qualquer provedor
@@ -68,25 +69,25 @@ por Leite [9] e fundamentada nos seguintes elementos:
     <tbody>
         <tr>
             <td>Título</td>
-            <td>Cadastro de usuário no site do Notion através do email</td>
+            <td>Cadastro de usuário no site do Notion através de email</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Objetivo</td>
-            <td>Criar um usuário no Notion utilizando um email de qualquer provedor</td>
+            <td>Criar um usuário no Notion utilizando um email</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Local: Tela de login ou cadastro</li>
                     <li>Tempo: 2 minutos</li>
                     <li>Pré-condição: Possuir um email ao qual tenha acesso</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não possuir nenhum email</li>
                     <li>Ter perdido acesso ao email ao qual tem acesso</li>
                     <li>Não dispor do tempo necessário</li>
@@ -97,7 +98,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -107,9 +108,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que desejem se cadastrar</td>
-            <td>
-              -
-            </td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -133,7 +132,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões <i>Try Notion for Free</i> ou <i>Log in</i></li>
                     <li>Erro de autenticação por parte do Notion</li>
                 </ul>
@@ -166,14 +165,14 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Local: Tela de login ou cadastro</li>
                     <li>Tempo: 2 minutos</li>
                     <li>Pré-condição: Possuir um email do gmail ao qual tenha acesso</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não possuir email cadastrado no gmail</li>
                     <li>Ter perdido acesso ao email</li>
                     <li>Não dispor do tempo necessário</li>
@@ -184,7 +183,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -215,7 +214,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões <i>Try Notion for Free</i> ou <i>Log in</i></li>
                     <li>Erro de autenticação por parte do Notion</li>
                 </ul>
@@ -237,25 +236,25 @@ por Leite [9] e fundamentada nos seguintes elementos:
     <tbody>
         <tr>
             <td>Título</td>
-            <td>Cadastro de workspace com nome personalizado</td>
+            <td>Cadastro de workspace</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Objetivo</td>
-            <td>Cadastrar um novo workspace e modificar seu nome</td>
+            <td>Cadastrar um novo workspace</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Local: Tela inicial de um workspace</li>
                     <li>Tempo: 1 minuto</li>
                     <li>Pré-condição: Estar logado na aplicação</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
                 </ul>
@@ -265,7 +264,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -292,7 +291,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -313,25 +312,25 @@ por Leite [9] e fundamentada nos seguintes elementos:
     <tbody>
         <tr>
             <td>Título</td>
-            <td>Cadastro de workspace com nome personalizado</td>
+            <td>Alteração de nome de workspace</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Objetivo</td>
-            <td>Cadastrar um novo workspace e modificar seu nome</td>
+            <td>Alterar o nome do workspace</td>
             <td>-</td>
         </tr>
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Local: Tela inicial de um workspace</li>
                     <li>Tempo: 1 minuto</li>
                     <li>Pré-condição: Estar logado na aplicação</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
                 </ul>
@@ -341,7 +340,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -350,10 +349,8 @@ por Leite [9] e fundamentada nos seguintes elementos:
         </tr>
         <tr>
             <td>Atores</td>
-            <td>Usuário ou organização que já estejam cadastrados e desejem criar um novo workspace</td>
-            <td>
-              -
-            </td>
+            <td>Usuário ou organização que já estejam cadastrados e desejem alterar o nome de algum workspace criado</td>
+            <td> - </td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -366,7 +363,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -398,16 +395,17 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Local: Tela inicial de um workspace</li>
                     <li>Tempo: 30 s</li>
                     <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
+                    <li>Não ter nenhum workspace cadastrado</li>
                 </ul>
             </td>
         </tr>
@@ -415,7 +413,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -425,9 +423,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página em branco</td>
-            <td>
-              -
-            </td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -439,7 +435,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -471,16 +467,17 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Local: Tela inicial de um workspace</li>
                     <li>Tempo: 25s</li>
                     <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
+                    <li>Não ter nenhum workspace cadastrado</li>
                 </ul>
             </td>
         </tr>
@@ -488,7 +485,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -498,9 +495,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que já estejam cadastrados e desejem criar uma nova página em branco com ícone</td>
-            <td>
-              -
-            </td>
+            <td> - </td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -512,7 +507,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -544,14 +539,14 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                   <li>Local: Tela inicial de um workspace</li>
                   <li>Tempo: 30 s</li>
                   <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
                     <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
@@ -562,7 +557,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -588,7 +583,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -620,14 +615,14 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                   <li>Local: Tela inicial de um workspace</li>
                   <li>Tempo: 2 min</li>
                   <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
                     <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
@@ -638,7 +633,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -664,7 +659,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -696,14 +691,14 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                   <li>Local: Tela inicial de um workspace</li>
                   <li>Tempo: 30 s</li>
                   <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace cadastrado</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
                     <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
@@ -714,7 +709,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -739,7 +734,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -771,18 +766,19 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                   <li>Local: Página</li>
                   <li>Tempo: 30 s</li>
                   <li>Pré-condição: Estar logado na aplicação e ter ao menos um workspace e uma página cadastrados</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
                     <li>Não possuir nenhum <i>workspace</i> cadastrado</li>
                     <li>Não possuir nenhuma página cadastrada</li>
+                    <li>Possuir somente uma página cadastrada</li>
                 </ul>
             </td>
         </tr>
@@ -790,7 +786,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -800,9 +796,7 @@ por Leite [9] e fundamentada nos seguintes elementos:
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que já estejam cadastrados e desejem criar links entre páginas</td>
-            <td>
-              -
-            </td>
+            <td> - </td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -815,15 +809,13 @@ por Leite [9] e fundamentada nos seguintes elementos:
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
         </tr>
     </tbody>
 </table>
-
-OI TUDO BEM COMO VAI
 
 ### C010 Sair da aplicação (<i>logout</i>)
 
@@ -849,14 +841,14 @@ OI TUDO BEM COMO VAI
         <tr>
             <td>Contexto</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Local: Qualquer tela da aplicação</li>
                     <li>Tempo: 10 segundos</li>
                     <li>Pré-condição: Estar logado na aplicação e possuir acesso a internet</li>
                 </ul>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Não estar logado na aplicação</li>
                     <li>Não dispor do tempo necessário</li>
                 </ul>
@@ -866,7 +858,7 @@ OI TUDO BEM COMO VAI
             <td>Recursos</td>
             <td>Computador ou smartphone com acesso a internet e com um navegador web instalado</td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não possui acesso a internet</li>
                     <li>Usuário não possui computador ou smartphone</li>
                     <li>Usuário não possui navegador instalado em seus dispositivos</li>
@@ -876,9 +868,7 @@ OI TUDO BEM COMO VAI
         <tr>
             <td>Atores</td>
             <td>Usuário ou organização que desejem deslogar da aplicação</td>
-            <td>
-              -
-            </td>
+            <td>-</td>
         </tr>
         <tr>
             <td>Episódio</td>
@@ -889,7 +879,7 @@ OI TUDO BEM COMO VAI
                 </ol>
             </td>
             <td>
-                <ul style="list-style: none">
+                <ul style="list-style: none; padding-left: 0">
                     <li>Usuário não consegue encontrar os botões</li>
                 </ul>
             </td>
@@ -897,8 +887,18 @@ OI TUDO BEM COMO VAI
     </tbody>
 </table>
 
-## Histórico de Versões
+# Referências Bibliográficas
 
-| Versão | Data        | Descrição                                | Autor                    |
-|--------|-------------|------------------------------------------|--------------------------|
-| 1.0    |  16/07/2022 | Criação do documento e início da escrita | Nícolas Georgeos Mantzos |
+[1] Leite, J., C., et al., Enhancing a Requirements Baseline with Scenarios, in
+Proc. of the Third IEEE International Symposium on Requirements
+Engineering (RE’97) – Annapolis, USA – IEEE Computer Society Press, p
+44-53, 1997.
+
+[2] Bourque, P., C., et al., Guide to the Software Engineering Body of Knowledge – IEEE Computer Society Press, p
+37, 2004.
+
+# Histórico de Versões
+
+| Versão | Data       | Descrição                  | Autor             |
+| ------ | ---------- | -------------------------- | ----------------- |
+|   1.0     |  16/07/2022  | Criação do documento e primeira escrita | Nícolas Georgeos Mantzos |

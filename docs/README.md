@@ -12,7 +12,7 @@ Este repositório é destinado ao projeto da disciplina de Requisitos de Softwar
 
 Trata-se de uma ferramenta no-code para gerenciamento de projetos, tomada de notas e acompanhamento de atividades lançada em 2016, que unifica as informações relacionadas a cada uma dessas tarefas em um só local, facilitando assim a visualização de seu andamento, bem como sua edição e eventual realocação, seja de forma individual ou colaborativa.
 
-Pense, por exemplo, no caso de um usuário que esteja agregando informações sobre as vagas de emprego para as quais aplica em uma pasta. Recorrentemente, ele deseja saber para quantas e para quais vagas aplicou, seu status (respondido, vídeo-apresentação pendente etc) e quando mandou o currículo. É evidente que se ele mantiver as informações armazenadas da forma como estão, terá dificuldades para consultar o que deseja.
+Pense, por exemplo, no caso de um usuário que esteja agregando informações sobre as vagas de emprego para as quais aplica em uma pasta. Recorrentemente, ele deseja saber para quantas e para quais vagas aplicou, seu status (respondido, vídeo-apresentação pendente etc) e quando mandou o currículo. É evidente que se ele mantiver as informações armazenadas da forma como estão, terá dificuldades para realizar uma consulta, sobretudo se ela envolver múltiplos filtros.
 
 Com o Notion, ele pode definir quais características o interessam e agregar todas as informações sobre as vagas e aplicações em um só lugar, podendo filtrá-las por quaisquer critérios que desejar.
 
