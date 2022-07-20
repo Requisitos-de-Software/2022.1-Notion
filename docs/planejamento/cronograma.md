@@ -68,23 +68,22 @@ A tabela 3 aborda as atividades feitas para a segunda entrega.
 
 _Tabela 3: cronograma da segunda entrega_
 
-### 2.3 Segunda Entrega
+### 2.3 Terceira Entrega
 
-A _Tabela 4_ aborda as atividades feitas para a segunda entrega.
+A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
 
-| Data  | Atividade                                            | Responsáveis                           | Revisores                              |
-| ----- | ---------------------------------------------------- | -------------------------------------- | -------------------------------------- |
-| 12/07 | Atualização das páginas do App de Moovit para Notion | Nícolas                                | Cícero                                 |
-| 12/07 | Rich Picture para o Notion                           | Nícolas                                | Cícero                                 |
-| 13/07 | Introdução das técnicas de priorização               | Guilherme Brito                        | Bernardo                               |
-| 13/07 | Definição da técnica de introspecção                 | Bernardo e Cicero                      | Leonardo                               |
-| 13/07 | Definição da técnica questionário                    | Arthur                                 | Nícolas                                |
-| 13/07 | Definição das personas                               | Leonardo                               | Arthur                                 |
-| 13/07 | Cronograma da segunda entrega                        | Cícero                                 | Todos                                  |
-| 13/07 | Página de resultados                                 | Guilherme                              | Todos                                  |
-| 13/07 | Gravação do vídeo da entrega 2                       | Todos                                  | Todos                                  |
-| 13/07 | Brainstorming                                        | Arthur, Leonardo, Guilherme e Bernardo | Arthur, Leonardo, Guilherme e Bernardo |
-| 13/07 | Definição da técnica de brainstorming                | Bernardo                               | Todos                                  |
+| Data  | Atividade                                              | Responsáveis        | Revisores |
+|-------|--------------------------------------------------------|---------------------|-----------|
+| 14/07 | Definição das atividades e atribuição dos responsáveis | Todos               | Todos     |
+| 20/07 | Cronograma da terceira entrega                         | todos               | Todos     |
+| 18/07 | Adição do backlog                                      | Bernardo            | Todos     |
+| 18/07 | Adição do quadro kanban                                | Bernardo            | Todos     |
+| 16/07 | Especificação Suplementar                              | Bernardo            | Guilherme |
+| 19/07 | Use Case                                               | Guilherme, Bernardo | Arthur    |
+| 19/07 | Léxico                                                 | Cícero              | Nícolas   |
+| 13/07 | Cenários                                               | Nícolas             | Leonardo  |
+| 20/07 | Gravação do vídeo da entrega 3                         | Todos               | Todos     |
+
 
 _Tabela 4: cronograma da terceira entrega_
 
