@@ -20,18 +20,6 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 
 ### 3.1 Verbos
 
-#### Login
-
-| Tipo  | Noção                                               | Impacto                                                                             | Sinônimos |
-| ----- | --------------------------------------------------- | ----------------------------------------------------------------------------------- | --------- |
-| Verbo | O usuário realiza login com sua conta já cadastrada | O usuário terá acesso a sua conta e poderá tomar as devidas ações dentro do sistema | Acessar   |
-
-#### Logout
-
-| Tipo  | Noção                                        | Impacto                                                                     | Sinônimos |
-| ----- | -------------------------------------------- | --------------------------------------------------------------------------- | --------- |
-| Verbo | O usuário realiza logout após uso do sistema | O usuário não terá mais acesso à sessão que ele estava logado anteriormente | Sair      |
-
 #### Cadastro
 
 | Tipo  | Noção                               | Impacto                                                                                                      | Sinônimos            |
@@ -44,35 +32,11 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 | ----- | ----------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------ |
 | Verbo | O usuário cria uma página na plataforma quando ele precisar | A página do usuário será salva na base de dados relacionada ao cadastro do mesmo | Produzir, fabricar |
 
-#### Editar
-
-| Tipo  | Noção                                                        | Impacto                                                                                                         | Sinônimos          |
-| ----- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Verbo | O usuário edita uma página na plataforma quando ele precisar | A edição feita pelo usuário será salva na base de dados e ele passará a ver o arquivo com o resultado da edição | Atualizar, alterar |
-
-#### Deletar
-
-| Tipo  | Noção                                                         | Impacto                                                                                                                                 | Sinônimos         |
-| ----- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Verbo | O usuário deleta uma página na plataforma quando ele precisar | A página é deletada da sua lista principal de páginas criadas, porém, ainda é possível visualizá-la na página de deletados recentemente | Excluir, Eliminar |
-
-#### Pesquisar
-
-| Tipo  | Noção                                               | Impacto                                                                                                                                                                   | Sinônimos         |
-| ----- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Verbo | O usuário pode pesquisar algo quando for necessário | O retorno serão especificamente os títulos de documentos criados previamente pelo usuário, sendo que esses títulos podem ser de caráter primário, secundário ou terciário | Explorar, Filtrar |
-
 #### Compartilhar
 
 | Tipo  | Noção                                                                | Impacto                                                                                              | Sinônimos |
 | ----- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------- |
 | Verbo | O usuário pode compartilhar algo quando quiser exportar suas páginas | Outras pessoas teriam acesso a página que um certo usuário criou, porém fora do sistema da aplicação | Partilhar |
-
-#### Convidar
-
-| Tipo  | Noção                                           | Impacto                                                                                                                                                                   | Sinônimos |
-| ----- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Verbo | O usuário convida outro usuário para uma página | A pessoa que foi convidada teria acesso a página e também poderia ter a possibilidade de editar o documento, dependendo da permissão que o usuário que o convidou lhe deu | Partilhar |
 
 #### Comentar
 
@@ -80,19 +44,49 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 | ----- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | Verbo | O usuário pode comentar a página de outra pessoa quando achar necessário | O criador do arquivo conseguirá visualizar os comentários feitos na página dele a partir da lista de notificações do sistema, e então editar de acordo com o comentário caso queira | Partilhar |
 
+#### Convidar
+
+| Tipo  | Noção                                           | Impacto                                                                                                                                                                   | Sinônimos |
+| ----- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Verbo | O usuário convida outro usuário para uma página | A pessoa que foi convidada teria acesso a página e também poderia ter a possibilidade de editar o documento, dependendo da permissão que o usuário que o convidou lhe deu | Partilhar |
+
+#### Deletar
+
+| Tipo  | Noção                                                         | Impacto                                                                                                                                 | Sinônimos         |
+| ----- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Verbo | O usuário deleta uma página na plataforma quando ele precisar | A página é deletada da sua lista principal de páginas criadas, porém, ainda é possível visualizá-la na página de deletados recentemente | Excluir, Eliminar |
+
+#### Editar
+
+| Tipo  | Noção                                                        | Impacto                                                                                                         | Sinônimos          |
+| ----- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Verbo | O usuário edita uma página na plataforma quando ele precisar | A edição feita pelo usuário será salva na base de dados e ele passará a ver o arquivo com o resultado da edição | Atualizar, alterar |
+
+#### Login
+
+| Tipo  | Noção                                               | Impacto                                                                             | Sinônimos |
+| ----- | --------------------------------------------------- | ----------------------------------------------------------------------------------- | --------- |
+| Verbo | O usuário realiza login com sua conta já cadastrada | O usuário terá acesso a sua conta e poderá tomar as devidas ações dentro do sistema | Acessar   |
+
+#### Logout
+
+| Tipo  | Noção                                        | Impacto                                                                     | Sinônimos |
+| ----- | -------------------------------------------- | --------------------------------------------------------------------------- | --------- |
+| Verbo | O usuário realiza logout após uso do sistema | O usuário não terá mais acesso à sessão que ele estava logado anteriormente | Sair      |
+
+#### Pesquisar
+
+| Tipo  | Noção                                               | Impacto                                                                                                                                                                   | Sinônimos         |
+| ----- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Verbo | O usuário pode pesquisar algo quando for necessário | O retorno serão especificamente os títulos de documentos criados previamente pelo usuário, sendo que esses títulos podem ser de caráter primário, secundário ou terciário | Explorar, Filtrar |
+
 ### 3.2 Objetos
 
-#### Todas as atualizações
+#### Arquivados
 
-| Tipo   | Noção                                          | Impacto                                                                                                   | Sinônimos |
-| ------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- |
-| Objeto | Página com as informações das ações do usuário | A página notifica o usuário das ações que ele tomou dentro do sistema, como deleção e criação de arquivos |           |
-
-#### Seguindo
-
-| Tipo   | Noção                                                                     | Impacto                                                                              | Sinônimos |
-| ------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------- |
-| Objeto | Página que mostra as atualizações feitas nas páginas que o usuário seguiu | A página apresenta ao usuário as alterações que o arquivo que o usuário segue sofreu |           |
+| Tipo   | Noção                                                   | Impacto                                                                                                               | Sinônimos |
+| ------ | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------- |
+| Objeto | Página que mostra as atualizações arquivadas do usuário | A página de arquivado irá apresentar para o usuário qualquer modificação que alguma caixa de entrada arquivada sofrer |           |
 
 #### Caixa de entrada
 
@@ -100,11 +94,11 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 | ------ | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | Objeto | Página da caixa de entrada do usuário | A caixa de entrada notifica o usuário sempre que ele for mencionado, quando alguém responder algum comentário dele ou quando ele for convidado para alguma página |           |
 
-#### Arquivado
+#### Configurações
 
-| Tipo   | Noção                                                   | Impacto                                                                                                               | Sinônimos |
-| ------ | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------- |
-| Objeto | Página que mostra as atualizações arquivadas do usuário | A página de arquivado irá apresentar para o usuário qualquer modificação que alguma caixa de entrada arquivada sofrer |           |
+| Tipo   | Noção                                                                     | Impacto                                                                                                                          | Sinônimos |
+| ------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Objeto | A página de configurações contém as configurações da aplicação do usuário | As configurações podem ser modificadas pelo usuário como ele bem entender, tendo como base as configurações cedidas pelo sistema |           |
 
 #### Deletados recentemente
 
@@ -118,19 +112,25 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 | ------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------- |
 | Objeto | Uma página é um artefato criado pelo usuário que contém as informações que ele deseja | A página pode ser editada, deletada, criada, compartilhada pelo usuário quando achar necessário |           |
 
-#### Configurações
+#### Seguindo
 
-| Tipo   | Noção                                                                     | Impacto                                                                                                                          | Sinônimos |
-| ------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Objeto | A página de configurações contém as configurações da aplicação do usuário | As configurações podem ser modificadas pelo usuário como ele bem entender, tendo como base as configurações cedidas pelo sistema |           |
+| Tipo   | Noção                                                                     | Impacto                                                                              | Sinônimos |
+| ------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------- |
+| Objeto | Página que mostra as atualizações feitas nas páginas que o usuário seguiu | A página apresenta ao usuário as alterações que o arquivo que o usuário segue sofreu |           |
+
+#### Todas as atualizações
+
+| Tipo   | Noção                                          | Impacto                                                                                                   | Sinônimos |
+| ------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------- |
+| Objeto | Página com as informações das ações do usuário | A página notifica o usuário das ações que ele tomou dentro do sistema, como deleção e criação de arquivos |           |
 
 ### 3.3 Estados
 
-#### Deletado
+#### Alterado
 
-| Tipo   | Noção                                          | Impacto                                                                                                                                                             | Sinônimos |
-| ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Estado | O arquivo foi deletado pelo usuário do sistema | Quando o usuário restaura o arquivo ele volta para a lista de arquivos principais, mas já quando o usuário deleta permanentemente o arquivo é deletado por completo | Excluído  |
+| Tipo   | Noção                               | Impacto                                                                 | Sinônimos           |
+| ------ | ----------------------------------- | ----------------------------------------------------------------------- | ------------------- |
+| Estado | O arquivo foi alterado pelo usuário | Toda alteração do arquivo é registrada na página de todas as alterações | Editado, atualizado |
 
 #### Arquivado
 
@@ -138,11 +138,11 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 | ------ | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | Estado | A caixa de entrada foi arquivada pelo usuário | A caixa de entrada arquivada é apresentada em uma tela diferente das outras caixas, ela pode ser restaurada para a caixa de entrada normal do sistema |           |
 
-#### Alterado
+#### Deletado
 
-| Tipo   | Noção                               | Impacto                                                                 | Sinônimos           |
-| ------ | ----------------------------------- | ----------------------------------------------------------------------- | ------------------- |
-| Estado | O arquivo foi alterado pelo usuário | Toda alteração do arquivo é registrada na página de todas as alterações | Editado, atualizado |
+| Tipo   | Noção                                          | Impacto                                                                                                                                                             | Sinônimos |
+| ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Estado | O arquivo foi deletado pelo usuário do sistema | Quando o usuário restaura o arquivo ele volta para a lista de arquivos principais, mas já quando o usuário deleta permanentemente o arquivo é deletado por completo | Excluído  |
 
 ## Referências Bibliográficas
 
