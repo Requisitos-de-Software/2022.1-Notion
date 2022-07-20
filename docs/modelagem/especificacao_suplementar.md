@@ -8,7 +8,7 @@ completa.
 O modelo utilizado para a classificação dos atributos do requisitos de software é o FURPS, que é um acrônimo para:
 - **F**uncionality(funcionalidade)  - especifica as funcionalidades que não se relacionam com os casos de uso, nomeadamente: auditoria,
 reporte, interoperabilidade e segurança.
-- **U**sability(usabilidade)  - avalia a interface com a utilizador. Possui diversas subcategorias, entre elas: prevenção de erros, estética
+- **U**sability(usabilidade)  - avalia a interface com o utilizador. Possui diversas subcategorias, entre elas: prevenção de erros, estética
 e design, ajudas, documentação, consistência e padrões.
 - **R**eliability(confiabilidade) - Refere-se à integridade, conformidade e interoperabilidade do software. Os requisitos a serem considerados são:
 frequência e gravidade de falhas, possibilidade de recuperação, extenção e duração de falha (valorização/sobrevivência) e previsibilidade
@@ -41,3 +41,4 @@ https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/checklists/supplemen
 | Versão | Data       | Descrição         | Autor             |
 |--------|------------|-------------------|-------------------|
 | 1.0    | 17/07/2002 | Criação da página | Bernardo Pissutti |
+| 1.1    | 20/07/2002 | Correção de Erros Ortográficos | Guilherme Brito |
