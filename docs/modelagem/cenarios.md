@@ -1,13 +1,13 @@
 # 1.0 Introdução
 
-A engenharia de requisitos utiliza, dentra suas várias estratégias para elicitação de requisitos, a de cenários; cujo foco
+A engenharia de requisitos utiliza, dentre suas várias estratégias para elicitação de requisitos, a de cenários; cujo foco
 está em prover uma descrição concreta e evolutiva [1] de uma situação na qual o usuário engaja, provendo assim contexto para a tarefa de
 elicitação e, segundo o SWEBOK [2], um framework para as questões levantadas junto aos stakeholders sobre as tarefas do sistema, permitido
 assim que questionamentos na ordem de <i>e se</i> e <i>como isso é feito</i> sejam levantados.
 
 # 2.0 Cenários
 
-Cenários, são, grosso modo, modelos conceituais utilizados para descrever e melhor entender um software. Dentre as diversas 
+Cenários são, grosso modo, modelos conceituais utilizados para descrever e melhor entender um software. Dentre as diversas 
 estratégias de modelagem documentadas (diagramas de caso de uso, por exemplo), optou-se por utilizar a notação baseada em uma linguagem natural semi-estrututurada proposta
 por Leite [1] e fundamentada nos elementos da Tabela 1.
 
