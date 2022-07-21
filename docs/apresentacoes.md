@@ -27,3 +27,4 @@
 |--------|-------|---------------------------------------------|-------------------|
 | 1.0    | 11/07 | Criação do histórico de versões do artefato | Bernardo Pissutti |
 | 1.1    | 13/07 | Adição do vídeo da entrega 2                | Bernardo Pissutti |
+| 1.2    | 20/07 | Adição do vídeo da entrega 3                | Bernardo Pissutti |
