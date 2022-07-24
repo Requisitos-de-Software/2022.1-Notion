@@ -6,7 +6,9 @@ Nesse projeto foram utilizadas algumas técnicas para levantamento de requisitos
 
 ### 1.1 Definição
 
-A introspecção é uma técnica que consiste na pessoa que está fazendo o levantamento de requisitos imaginar o que ela gostaria que o sistema tivesse para realizar determinada tarefa. O engenheiro de requisitos utiliza sua imaginação como ferramenta prioritária, se desenhando como usuário do sistema.
+A técnica de introspecção se baseia em imaginar que tipo de sistema o usuário iria querer se estivesse executando um determinada tarefa, utilizando determinado
+equipamento, entre outros. Ou seja, imaginar que propriedades um sistema deveria possuim de forma a obter sucesso. Assim, o engenheiro de requisitos utiliza sua imaginação
+como ferramenta prioritária, se desenhando como usuário do sistema.
 
 ### 1.2 Metodologia
 
@@ -17,38 +19,47 @@ Foram selecionados dois participantes do grupo para fazer a introspecção, elas
 - Cícero Fernandes
 - Bernardo Pissuti
 
-### 1.4 Resultados
+### 1.4 Passos
+
+- Fazendo login no app
+- Procurando por um página
+- Escrevendo na página
+- Tentando voltar a uma versão antiga da página
+- Organizando as páginas nos workspaces
+
+
+### 1.5 Resultados
 
 Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela 1_, e não funcionais, mostrados na _Tabela 2_, elicitados como resultado do método de introspecção.
 
-| Código | Requisito                                                                                                    |
-| ------ | ------------------------------------------------------------------------------------------------------------ |
-| RF1    | O usuário deve poder criar uma página.                                                                    |
-| RF2    | O usuário deve poder encontrar uma página criada previamente.                                             |
-| RF3    | O usuário deve poder editar uma página.                                                                     |
-| RF4    | O usuário deve poder excluir uma página quando desejado.                                                    |
-| RF5    | O usuário deve poder ser autenticado no sistema.                                                              |
-| RF6    | O usuário deve poder pesquisar as páginas já criadas pelo nome delas.                                     |
+| Código | Requisito                                                                                                  |
+| ------ |------------------------------------------------------------------------------------------------------------|
+| RF1    | O usuário deve poder criar uma página.                                                                     |
+| RF2    | O usuário deve poder encontrar uma página criada previamente.                                              |
+| RF3    | O usuário deve poder editar uma página.                                                                    |
+| RF4    | O usuário deve poder excluir uma página quando desejado.                                                   |
+| RF5    | O usuário deve poder ser autenticado no sistema.                                                           |
+| RF6    | O usuário deve poder pesquisar as páginas já criadas pelo nome delas.                                      |
 | RF7    | O usuário deve poder escolher em qual fonte editar suas páginas.                                           |
-| RF8    | O usuário deve poder escolher entre o tamanho de fonte grande e pequena.                                      |
+| RF8    | O usuário deve poder escolher entre o tamanho de fonte grande e pequena.                                   |
 | RF9    | O usuário deve poder escolher se o texto ocupa toda a largura da página ou se fica centralizado na página. |
 | RF10   | O usuário deve poder ver o histórico de alterações da página.                                              |
 | RF11   | O usuário deve poder favoritar a página.                                                                   |
 | RF12   | O usuário deve poder compartilhar o link para a página.                                                    |
-| RF13   | O usuário deve poder escolher a aparência do sistema.                                                         |
+| RF13   | O usuário deve poder escolher a aparência do sistema.                                                      |
 | RF14   | O usuário deve poder escolher uma foto de identificação para cada página.                                  |
-| RF15   | O usuário deve poder escolher uma foto de identificação para o workspace.                                     |
-| RF16   | O usuário deve poder ter quantos workspaces desejar.                                                          |
-| RF17   | O usuário deve poder escolher entre opções de templates para uma página criada.                             |
+| RF15   | O usuário deve poder escolher uma foto de identificação para o workspace.                                  |
+| RF16   | O usuário deve poder ter quantos workspaces desejar.                                                       |
+| RF17   | O usuário deve poder escolher entre opções de templates para uma página criada.                            |
 | RF18   | O usuário deve poder ver o histórico de páginas deletadas.                                                 |
-| RF19   | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                               |
-| RF20   | O usuário deve poder adicionar fotos a página.                                                            |
-| RF21   | O usuário deve poder referenciar outras páginas dentro de uma página.                                    |
-| RF22   | O usuário deve poder adicionar outros perfis para editar uma página.                                        |
+| RF19   | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                                |
+| RF20   | O usuário deve poder adicionar fotos a página.                                                             |
+| RF21   | O usuário deve poder referenciar outras páginas dentro de uma página.                                      |
+| RF22   | O usuário deve poder adicionar outros perfis para editar uma página.                                       |
 | RF23   | O usuário deve poder adicionar uma legenda às imagens da página.                                           |
 | RF24   | O usuário deve poder escrever comentários nas páginas.                                                     |
 | RF25   | O usuário deve poder criar blocos de markdown para editar as páginas.                                      |
-| RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                    |
+| RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                 |
 
 _Tabela 1: Requisitos funcionais_
 
@@ -202,9 +213,10 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                          | Autor             |
-|--------|------------|------------------------------------|-------------------|
-| 1.0    | 13/07/2022 | Adição da técnica de introspecção  | Cícero Fernandes  |
-| 1.1    | 13/07/2022 | Adição da técnica de questionário  | Arthur José       |
-| 1.2    | 13/07/2022 | Adição da técnica de brainstorming | Bernardo Pissutti |
+| Versão | Data       | Descrição                                 | Autor             |
+|--------|------------|-------------------------------------------|-------------------|
+| 1.0    | 13/07/2022 | Adição da técnica de introspecção         | Cícero Fernandes  |
+| 1.1    | 13/07/2022 | Adição da técnica de questionário         | Arthur José       |
+| 1.2    | 13/07/2022 | Adição da técnica de brainstorming        | Bernardo Pissutti |
+| 1.3    | 24/07/2022 | Melhorando a documentação da introspecção | Bernardo Pissutti |
 
