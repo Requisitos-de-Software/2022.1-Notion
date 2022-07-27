@@ -889,7 +889,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-# Referências Bibliográficas
+## Referências Bibliográficas
 
 [1] Leite, J., C., et al., Enhancing a Requirements Baseline with Scenarios, in
 Proc. of the Third IEEE International Symposium on Requirements
@@ -899,7 +899,7 @@ Engineering (RE’97) – Annapolis, USA – IEEE Computer Society Press, p
 [2] Bourque, P., C., et al., Guide to the Software Engineering Body of Knowledge – IEEE Computer Society Press, p
 37, 2004.
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data       | Descrição                  | Autor             |
 | ------ | ---------- | -------------------------- | ----------------- |
