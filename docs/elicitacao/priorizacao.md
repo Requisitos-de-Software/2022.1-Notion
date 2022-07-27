@@ -106,6 +106,8 @@ _Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades_
 O método dos 100 dolares é ótimo para priorizar requisitos com multiplos stakeholders. Ele se baseia em
 cada stakeholder destribuir 100 pontos, atribuindo maior pontuação aos requisitos considerados mais importantes.(Gomes, Aline. 2011)
 
+Para proseguir com a priorização foi realizada um entrevista que está desponível a seguir:
+
 ### 4.1 Resultados
 
 ## Referências Bibliográficas
@@ -121,7 +123,8 @@ Gomes, Aline; Policani, André; Priorização de requisitos e avaliação da qua
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor    |
-|--------|------------|-------------------|----------|
-| 1.0       | 13/07/2022           |      Criação do Artefato             |   Guilherme Brito       |
-| 1.1       | 13/07/2022           |      Realização da priorização dos Requisitos             |   Guilherme Brito e Bernardo Chaves       |
+| Versão | Data       | Descrição                                | Autor                             |
+|--------|------------|------------------------------------------|-----------------------------------|
+| 1.0    | 13/07/2022 | Criação do Artefato                      | Guilherme Brito                   |
+| 1.1    | 13/07/2022 | Realização da priorização dos Requisitos | Guilherme Brito e Bernardo Chaves |
+| 1.2    | 26/07/2022 | Documentação do método dos 100 pontos    | Bernardo Pissutti                 |
