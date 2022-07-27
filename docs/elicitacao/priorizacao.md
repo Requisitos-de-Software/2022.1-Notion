@@ -56,7 +56,7 @@ Essa técnica foi a escolhida pois apresenta vantagens mais benéficas frente à
 -   Não requer conhecimento prévio da técnica
 A confirmação ou não da prioridade dos requisitos é de cunho do cliente, logo, o contato com ele deve ser frequente.
 
-## 4. Resultados
+### 3.1 Resultados
 
 Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na _Tabela 2_ a seguir.
 
@@ -100,6 +100,14 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RNF5   |M|
 
 _Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades_
+
+## 4. 100 pontos
+
+O método dos 100 dolares é ótimo para priorizar requisitos com multiplos stakeholders. Ele se baseia em
+cada stakeholder destribuir 100 pontos, atribuindo maior pontuação aos requisitos considerados mais importantes.(Gomes, Aline. 2011)
+
+### 4.1 Resultados
+
 ## Referências Bibliográficas
 
 ACHIMUGU, P. et al. A Systematic Literature Review of Software Requirements Prioritization
@@ -108,6 +116,8 @@ Research. Information and software technology, Elsevier, v. 56, n. 6, p. 568–5
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
 
 FIGUEIREDO, André; ALMEIDA, Rodrigo; ALENCAR, Vitruvio; Um Conjunto de práticas para auxiliar o cálculo de ROI em processos de software. p.2
+
+Gomes, Aline; Policani, André; Priorização de requisitos e avaliação da qualidade de software segundo a percepção dos usuários; Rj, 2011.
 
 ## Histórico de Versões
 
