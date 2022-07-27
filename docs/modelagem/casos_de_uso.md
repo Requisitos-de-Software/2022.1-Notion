@@ -1,9 +1,3 @@
-<style>
-    .img_table{
-        height: 150px;
-        width: 165px;
-    }
-</style>
 
 # Caso de Uso
 
@@ -85,3 +79,9 @@ UML DIAGRAMS - Use Case Diagrams -  https://www.uml-diagrams.org/use-case-diagra
 | Versão | Data             | Descrição                                                   | Autor               |
 | ------ |------------------|-------------------------------------------------------------|---------------------|
 |  1.0   | 19/07/2022       |      Criação da Página e Incorporação de Texto Introdutório |     Guilherme Brito |
+<style>
+    .img_table{
+        height: 150px;
+        width: 165px;
+    }
+</style>

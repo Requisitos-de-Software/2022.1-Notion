@@ -17,4 +17,7 @@
   - [Léxicos](modelagem/lexicos.md)
   - [Casos de Uso](modelagem/casos_de_uso.md)
   - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
+  - [Histórias de Usuário](modelagem/user_stories.md)
+  - [Backlog](modelagem/backlog.md)
+  - [NFR Framework](modelagem/nfr_framework.md)
   
