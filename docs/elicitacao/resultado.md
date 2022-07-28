@@ -7,7 +7,7 @@ A partir das técnicas de elicitação brainstorming, introspecção e question�
 Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de elicitação.
 
 | Código | Requisitos Funcionais                                                                                      | Técnica       |
-| ------ | ---------------------------------------------------------------------------------------------------------- | ------------- |
+| ------ |------------------------------------------------------------------------------------------------------------| ------------- |
 | RF1    | O usuário deve poder criar uma página.                                                                     | Introspecção  |
 | RF2    | O usuário deve poder encontrar uma página criada previamente.                                              | Introspecção  |
 | RF3    | O usuário deve poder editar uma página.                                                                    | Introspecção  |
@@ -34,7 +34,7 @@ Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de
 | RF24   | O usuário deve poder escrever comentários nas páginas.                                                     | Introspecção  |
 | RF25   | O usuário deve poder criar blocos de markdown para editar as páginas.                                      | Introspecção  |
 | RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                 | Introspecção  |
-| RF27   | O usuário deve poder ter uma agenda para visualizar afazeres do dia                                        | Questionário  |
+| RF27   | O usuário deve poder ter uma agenda para visualizar afazeres do dia.                                       | Questionário  |
 | RF28   | O usuário deve poder criar Formulas matemáticas.                                                           | Brainstorming |
 | RF29   | O usuário deve poder criar seu próprio quadro kanban personalizado.                                        | Brainstorming |
 | RF30   | O usuário pode escrever blocos de código.                                                                  | Brainstorming |

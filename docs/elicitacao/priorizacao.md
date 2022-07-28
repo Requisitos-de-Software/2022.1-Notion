@@ -60,44 +60,44 @@ A confirmação ou não da prioridade dos requisitos é de cunho do cliente, log
 
 Ao analisar todos os requisitos identificados com o uso das técnicas de elicitação, foram definidas as prioridades que podem ser vistas na _Tabela 2_ a seguir.
 
-| Requisito | Prioridade |
-|:--------:|:-----|
-| RF1    | M|
-| RF2    | M|
-| RF3    |M|
-| RF4    |M|
-| RF5    | M|
-| RF6    | C |
-| RF7    | S|
-| RF8    | C|
-| RF9    | C|
-| RF10   | S|
-| RF11   | C |
-| RF12   | M|
-| RF13   | W|
-| RF14   | W|
-| RF15   | C |
-| RF16   | S|
-| RF17   | M|
-| RF18   |S|
-| RF19   |C|
-| RF20   |S|
-| RF21   |C|
-| RF22   |C|
-| RF23   |C|
-| RF24   |W|
-| RF25   |M|
-| RF26   |M|
-| RF27   |S|
-| RF28   |S|
-| RF29   |S|
-| RF30   |C|
-| RF31   |W|
-| RNF1   |S|
-| RNF2   |S|
-| RNF3   |S|
-| RNF4   |M|
-| RNF5   |M|
+|  ID  | Requisito                                                                                                  | Prioridade |
+|:----:|------------------------------------------------------------------------------------------------------------|:-----------|
+| RF1  | O usuário deve poder criar uma página.                                                                     | M          |
+| RF2  | O usuário deve poder encontrar uma página criada previamente.                                              | M          |
+| RF3  | O usuário deve poder editar uma página.                                                                    | M          |
+| RF4  | O usuário deve poder excluir uma página quando desejado.                                                   | M          |
+| RF5  | O usuário deve poder ser autenticado no sistema.                                                           | M          |
+| RF6  | O usuário deve poder pesquisar as páginas já criadas pelo nome delas.                                      | C          |
+| RF7  | O usuário deve poder escolher em qual fonte editar suas páginas.                                           | S          |
+| RF8  | O usuário deve poder escolher entre o tamanho de fonte grande e pequena.                                   | C          |
+| RF9  | O usuário deve poder escolher se o texto ocupa toda a largura da página ou se fica centralizado na página. | C          |
+| RF10 | O usuário deve poder ver o histórico de alterações da página.                                              | S          |
+| RF11 | O usuário deve poder favoritar a página.                                                                   | C          |
+| RF12 | O usuário deve poder compartilhar o link para a página.                                                    | M          |
+| RF13 | O usuário deve poder escolher a aparência do sistema.                                                      | W          |
+| RF14 | O usuário deve poder escolher uma foto de identificação para cada página.                                  | W          |
+| RF15 | O usuário deve poder escolher uma foto de identificação para o workspace.                                  | C          |
+| RF16 | O usuário deve poder ter quantos workspaces desejar.                                                       | S          |
+| RF17 | O usuário deve poder escolher entre opções de templates para uma página criada.                            | M          |
+| RF18 | O usuário deve poder ver o histórico de páginas deletadas.                                                 | S          |
+| RF19 | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                                | C          |
+| RF20 | O usuário deve poder adicionar fotos a página.                                                             | S          |
+| RF21 | O usuário deve poder referenciar outras páginas dentro de uma página.                                      | C          |
+| RF22 | O usuário deve poder adicionar outros perfis para editar uma página.                                       | C          |
+| RF23 | O usuário deve poder adicionar uma legenda às imagens da página.                                           | C          |
+| RF24 | O usuário deve poder escrever comentários nas páginas.                                                     | W          |
+| RF25 | O usuário deve poder criar blocos de markdown para editar as páginas.                                      | M          |
+| RF26 | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                 | M          |
+| RF27 | O usuário deve poder ter uma agenda para visualizar afazeres do dia.                                       | S          |
+| RF28 | O usuário deve poder criar Formulas matemáticas.                                                           | S          |
+| RF29 | O usuário deve poder criar seu próprio quadro kanban personalizado.                                        | S          |
+| RF30 | O usuário pode escrever blocos de código.                                                                  | C          |
+| RF31 | O usuário deve ser informado da situação do clima em sua região.                                           | W          |
+| RNF1 | Deve ser possível instalar a aplicação em dispositivos android                                             | S          |
+| RNF2 | A interface do sistema deve ser responsiva                                                                 | S          |
+| RNF3 | O aplicativo deve ser cross-plataform                                                                      | S          |
+| RNF4 | As Formulas Matemáticas devem seguir o formato LaTeX.                                                      | M          |
+| RNF5 | A sintaxe dos códigos devem seguir uma das linguagens mais recentes.                                       | M          |
 
 _Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades_
 
@@ -123,8 +123,9 @@ Gomes, Aline; Policani, André; Priorização de requisitos e avaliação da qua
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                | Autor                             |
-|--------|------------|------------------------------------------|-----------------------------------|
-| 1.0    | 13/07/2022 | Criação do Artefato                      | Guilherme Brito                   |
-| 1.1    | 13/07/2022 | Realização da priorização dos Requisitos | Guilherme Brito e Bernardo Chaves |
-| 1.2    | 26/07/2022 | Documentação do método dos 100 pontos    | Bernardo Pissutti                 |
+| Versão | Data       | Descrição                                  | Autor                             |
+|--------|------------|--------------------------------------------|-----------------------------------|
+| 1.0    | 13/07/2022 | Criação do Artefato                        | Guilherme Brito                   |
+| 1.1    | 13/07/2022 | Realização da priorização dos Requisitos   | Guilherme Brito e Bernardo Chaves |
+| 1.2    | 26/07/2022 | Documentação do método dos 100 pontos      | Bernardo Pissutti                 |
+| 1.3    | 28/07/2022 | Adição da coluna de requisitos na Tabela 2 | Bernardo Pissutti                 |
