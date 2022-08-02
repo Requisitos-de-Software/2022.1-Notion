@@ -81,5 +81,6 @@ de Usuário com Cenário de Aceitação; RS, 2016.
 | Versão | Data       | Descrição                                              | Autor              |
 | ------ | ---------- | ------------------------------------------------------ | ------------------ |
 | 1.0    | 26/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti  |
-| 1.1    | 28/07/2022 | Adição das historias de usuário US1 - US15             | Bernardo Pissutti  |
+| 1.1    | 28/07/2022 | Adição das histórias de usuário US1 - US15             | Bernardo Pissutti  |
 | 1.2    | 01/08/2022 | Reformulação da tabela de Histórias de Usuários        | Leonardo Vitoriano |
+| 1.3    | 02/08/2022 | Adição das histórias de usuário US16 - US31            | Cícero Fernandes   |
