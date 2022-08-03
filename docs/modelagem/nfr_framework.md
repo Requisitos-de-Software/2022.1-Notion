@@ -85,15 +85,15 @@ Optamos por destacar três categorias de requisitos importados do modelo FURPS -
 
 ### 3.1 Usabilidade - com propagação
 
-| Figura 7: Rótulos utilizados pelos softgoals|
-|----------------------------------------|
 | ![image](../_media/usabilidade_com_propagacao.jpg) |
+|----------------------------------------|
+| Figura 7: Análise com propagação do aspecto de usabilidade|
 
 ### 3.1 Usabilidade - sem propagação
 
-| Figura 7: Rótulos utilizados pelos softgoals|
-|----------------------------------------|
 | ![image](../_media/usabilidade_sem_propagacao.jpg) |
+|----------------------------------------|
+| Figura 8: Análise sem propagação do aspecto de usabilidade|
 
 
 ## Referências Bibliográficas
