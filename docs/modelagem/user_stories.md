@@ -1,6 +1,6 @@
-# Histórias de Usuário
+# Backlog
 
-## 1. Introdução
+## 1. Histórias de Usuários
 
 Histórias de usuário descrevem funcionalidades com o objetivo de agregar valor ao cliente e à equipe de desenvolvimento.
 São basicamente compostas de três aspectos:
@@ -35,15 +35,30 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 - Incentivam o adiantamento dos detalhes;
 - Estimulam o projeto participativo.
 
-## 2. Resultados
+## 2. Backlog
+
+### 2.1 Introdução
+
+## Épicos
+
+
+### Épico 01: Gerenciamento de Perfil
 
 | História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de...                                                               | Para poder...                                                                                                   | Prioridade |
 | ------------------- | --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
 | US1                 | RF1             | Criar uma página                                                                               | Escrever minhas anotações                                                                                       | M          |
+| US5                 | RF5             | Me autenticar no sistema                              | Ter acesso às funcionalidades do app                                                                            | M          |
+| US32                | RF32            | Criar uma conta                                             | Acessar as funcionalidades do sistema | M          |
+| US33                | RF33            | Realizar logout                                            | Sair da conta dentro do sistema                                               | M          |
+
+
+### Épico 02: Gerenciamento de Página
+
+| História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de...                                                               | Para poder...                                                                                                   | Prioridade |
+| ------------------- | --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
 | US2                 | RF2             | Encontrar uma página criada previamente                                                        | Ver as informações escritas nela                                                                                | M          |
 | US3                 | RF3             | Editar uma página                                                                              | Para ter controle total sobre ela caso falhe em algum item e precise editá-lo                                   | M          |
 | US4                 | RF4             | Excluir uma página                                                                             | Remover ela das páginas existentes                                                                              | M          |
-| US5                 | RF5             | Me autenticar no sistema para ter acesso às funcionalidades do app                             | Ter acesso às funcionalidades do app                                                                            | M          |
 | US6                 | RF6             | Pesquisar por uma página                                                                       | Encontrar ela mais rapidamente                                                                                  | C          |
 | US7                 | RF7             | Escolher em qual fonte editar minha página                                                     | Escrever texto com a fonte desejada                                                                             | S          |
 | US8                 | RF8             | Escolher entre tamanho de fonte grande ou pequena                                              | Escrever texto com tamanho de fonte desejada                                                                    | C          |
@@ -70,8 +85,6 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 | US29                | RF29            | Criar seu próprio quadro kanban personalizado                                                  | para gerenciar suas tarefas com facilidade                                                                      | S          |
 | US30                | RF30            | Escrever blocos de código                                                                      | Entender a sintaxe do código sem se perder na linguagem padrão ou não estilizada                                | C          |
 | US31                | RF31            | Ser informado da situação do clima na minha região                                             | Saber como está o tempo sem precisar minimizar minha aplicação                                                  | W          |
-| US32                | RF32            | Criar uma conta                                             | Acessar as funcionalidades do sistema | M          |
-| US33                | RF33            | Realizar logout                                            | Sair da conta dentro do sistema                                               | M          |
 
 
 ## Critérios de Aceitação das Histórias de Usuário
