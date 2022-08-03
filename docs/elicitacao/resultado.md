@@ -40,6 +40,10 @@ Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de
 | RF30   | O usuário pode escrever blocos de código.                                                                  | Brainstorming |
 | RF31   | O usuário deve ser informado da situação do clima em sua região.                                           | Brainstorming |
 
+| RF32   | O usuário deve conseguir criar uma conta                                         | Brainstorming |
+
+| RF33   | O usuário deve conseguir realizar logout                                          | Brainstorming |
+
 _Tabela 1: Requisitos funcionais resultado_
 
 | Código | Requisitos Não Funcionais                                            | Técnica       |
