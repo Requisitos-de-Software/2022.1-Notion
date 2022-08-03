@@ -95,7 +95,7 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 &emsp;&emsp;Eu, como usuário, gostaria de editar uma página criada para alterar as informações escritas nela
 
 #### Criterios de aceitação
-- As páginas editada deve ser salva com as alterações realizadas.
+- As páginas editadas devem ser salvas com as alterações realizadas.
 
 
 ### US04 - Excluir uma página
@@ -133,7 +133,7 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 &emsp;&emsp;Eu, como usuário, gostaria de escolher se o texto da página ocupa toda a largura da página ou se fica centralizado na página
 
 #### Criterios de aceitação
-- Essa opção deve apareccer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
+- Essa opção deve aparecer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
 
 ### US10 - Visualizar histórico 
 &emsp;&emsp;Eu, como usuário, gostaria de ver o histórico de alterações da página.
@@ -157,14 +157,14 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 &emsp;&emsp;Eu, como usuário, gostaria de escolher a aparência do sistema para mudar a tematica de cores do design do sistema
 
 #### Criterios de aceitação
-- A opção de mudar a aparência do sistema deve aparecer na parte de "notification and settings" das condigurações do sistema, que pode ser acessada na barra lateral da interface.
+- A opção de mudar a aparência do sistema deve aparecer na parte de "notification and settings" das configurações do sistema, que pode ser acessada na barra lateral da interface.
 
 ### US14 -  Escolher foto identificação da página
 &emsp;&emsp;Eu, como usuário, gostaria de escolher uma foto de identificação para cada página para aparecer do lado do titulo da página
 
 #### Criterios de aceitação
 - A opção de escolher foto para a página deve aparecer no topo da interface da página, logo acima do titulo.
-- A foto deve aparece tanto no topo da interface da página como ao lado do titulo na barra lateral onde se encontram as páginas criadas.
+- A foto deve aparecer tanto no topo da interface da página como ao lado do titulo na barra lateral onde se encontram as páginas criadas.
 
 ### US15 -  Escolher foto identificação do workspace
 &emsp;&emsp;Eu, como usuário, gostaria de escolher uma foto de identificação do workspace para aparecer do lado do titulo do workspace
@@ -210,7 +210,7 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 &emsp;&emsp;Eu, como usuário, gostaria de adicionar fotos a página para visualizar de maneira melhor um item que ele estava digitando mas precisaria de uma imagem para entender melhor
 
 #### Criterios de aceitação
-- No momento de edição da página, ter um icone para adicionar imagem 
+- No momento de edição da página, ter um ícone para adicionar imagem 
 - A imagem a ser adicionada pode ser as salvas no computador
 - A imagem a ser adicionada pode ser da Internet
 
@@ -218,8 +218,8 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 &emsp;&emsp;Eu, como usuário, gostaria de referenciar outras páginas dentro de uma página para ter acesso a outras páginas que complementem o tópico abordado
 
 #### Criterios de aceitação
-- No momeno de edição da página, deve ser possível referenciar uma página já criada
-- Clicar na referencia da página, levaria para a página referenciada
+- No momento de edição da página, deve ser possível referenciar uma página já criada
+- Clicar na referência da página, levaria para a página referenciada
 
 ### US22 -  Adicionar perfil
 &emsp;&emsp;Eu, como usuário, gostaria de adicionar outros perfis para editar uma página para ter a opinião/visão de um outro alguém no tópico abordado
@@ -266,8 +266,8 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 &emsp;&emsp;Eu, como usuário, gostaria de criar fórmulas matemáticas para ter facilidade caso necessite anotar alguma fórmula.      
 
 #### Criterios de aceitação
-- Conseguir visualizar quais formulas eu posso utilizar
-- Conseguir copiar formulas de outros lugares
+- Conseguir visualizar quais fórmulas eu posso utilizar
+- Conseguir copiar fórmulas de outros lugares
 
 ### US29 -  Criar quadro kanban
 &emsp;&emsp;Eu, como usuário, gostaria de criar seu próprio quadro kanban personalizado para gerenciar suas tarefas com facilidade.
