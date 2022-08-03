@@ -20,7 +20,7 @@ Representam os Requisitos Não-Funcionais.
 
 | Figura 1: Softgoal NFR       |
 |----------------------------------------|
-| ![image](../_media/softgoal_nfr.jpg) |
+| ![image](../_media/softgoal_nfr.png) |
 | Fonte: (CHUNG et al., 2000) |
 
 #### 2.1.2 Operacionalização
@@ -29,7 +29,7 @@ Representam operações, processos e estruturações utilizados para satisfazer 
 
 | Figura 2: Softgoal de Operacionalização |
 |----------------------------------------|
-| ![image](../_media/softgoal_operacionalizacao.jpg) |
+| ![image](../_media/softgoal_operacionalizacao.png) |
 | Fonte: (CHUNG et al., 2000) |
 
 #### 2.1.3 Afirmação
