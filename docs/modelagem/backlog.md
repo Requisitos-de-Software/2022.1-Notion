@@ -1,20 +1,18 @@
 # Backlog
 
-## 1. Backlog
-
-### 1.1 Introdução
+## 1. Introdução
 
 O backlog do produto é a lista de itens (histórias de usuário, bugs, deveres) usados pelo time de software para coordenar o trabalho
 a ser feito. Ele serve como ponte entre a geração e implementação das **histórias de usuário**.
 
 No Scrum temos dois backlogs:
 
-* Product backlog: refere-se a uma lista contendo as necessidades gerais do produto, onde o gerente ou Product owner, define de acordo com a priorização feita pelo cliente. Durante as reuniões de Sprint Planning o gerente apresenta o backlog para a equipe e é definido quais serão as tarefas da Sprint.
+- Product backlog: refere-se a uma lista contendo as necessidades gerais do produto, onde o gerente ou Product owner, define de acordo com a priorização feita pelo cliente. Durante as reuniões de Sprint Planning o gerente apresenta o backlog para a equipe e é definido quais serão as tarefas da Sprint.
 
-* Sprint backlog: refere-se a uma lista contendo artefatos menores,de uma sprint , que agrega valor a cada nova sprint para o cliente, diferente.
+- Sprint backlog: refere-se a uma lista contendo artefatos menores,de uma sprint , que agrega valor a cada nova sprint para o cliente, diferente.
 
 Histórias de usuário descrevem funcionalidades com o objetivo de agregar valor ao cliente e à equipe de desenvolvimento.
-Cohn propõe a forma de estruturar uma US (sua gramática),  que é a mais utilizada pelos desenvolvedores. A estrutura
+Cohn propõe a forma de estruturar uma US (sua gramática), que é a mais utilizada pelos desenvolvedores. A estrutura
 proposta por Cohn descreve pontos fundamentais dos requisitos do usuário, sendo: tipo de usuário; objetivo; e a razão
 do requisito descrito.
 
@@ -29,18 +27,20 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 
 Para complementar a escrita das histórias de usuário são descritos os critérios de aceitação, os quais tem grande importância
 para os desenvolvedores, pois definem pontos que devem ser considerados durante a implementação. Os critérios de aceitação
-das histórias de usuário descritas nesse arquivo podem ser encontrados na seguinta página: [Critérios de Aceitação](./criterios_de_aceitacao.md).
+das histórias de usuário descritas nesse arquivo podem ser encontrados na seguinte página: [Critérios de Aceitação](modelagem/criterios_de_aceitacao.md).
 
-### 1.2 Épicos
+### 1.1 Épicos
+
+Um épico é uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. O épico deve ser separado em histórias de usuário menores. Para o nosso projeto, foram definidos 2 grandes épicos principais.
 
 #### Épico 01: Gerenciamento de Perfil
 
-| História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de...                                                               | Para poder...                                                                                                   | Prioridade |
-| ------------------- | --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
-| US1                 | RF1             | Criar uma página                                                                               | Escrever minhas anotações                                                                                       | M          |
-| US5                 | RF5             | Me autenticar no sistema                              | Ter acesso às funcionalidades do app                                                                            | M          |
-| US32                | RF32            | Criar uma conta                                             | Acessar as funcionalidades do sistema | M          |
-| US33                | RF33            | Realizar logout                                            | Sair da conta dentro do sistema                                               | M          |
+| História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de... | Para poder...                         | Prioridade |
+| ------------------- | --------------- | -------------------------------- | ------------------------------------- | ---------- |
+| US1                 | RF1             | Criar uma página                 | Escrever minhas anotações             | M          |
+| US5                 | RF5             | Me autenticar no sistema         | Ter acesso às funcionalidades do app  | M          |
+| US32                | RF32            | Criar uma conta                  | Acessar as funcionalidades do sistema | M          |
+| US33                | RF33            | Realizar logout                  | Sair da conta dentro do sistema       | M          |
 
 _Tabela 1: histórias de usuário do épico 1_
 
@@ -80,12 +80,31 @@ _Tabela 1: histórias de usuário do épico 1_
 
 _Tabela 2: histórias de usuário do épico 2_
 
+## 2. Priorização do Backlog
+
+### 2.1 Metodologia
+
+A priorização das histórias de usuário do Backlog foi realizada utilizando a Persona Carlos da Silva. O Dono do Produto passou pelas 33 histórias de usuário e pelos respectivos critérios de aceitação, explicando para o interpretador da Persona. Sendo assim, a partir da descrição, dos objetivos pessoais e praticos da Persona, ela decidiu se a história de usuário possui prioridade: baixa, média ou alta. Depois de decidido a prioridade, a persona Carlos da Silva validou se os critérios de aceitação descritos satisfazem ou não a história em questão. 
+
+### 2.2 Participantes 
+
+Os participantes da priorização das histórias de usuário do Backlog:
+
+- Arthur Lima (Dono do Produto)
+- Leonardo Vitoriano (Interpretador da Persona Carlos da Silva)
+
+### 2.3 Gravação 
+
+A gravação da priorização do Backlog a partir da Persona pode ser encontrado nesse link:
+
+- [Vídeo](https://youtu.be/xoBXTkI3cgk)
+
 ## Referências Bibliográficas
 
 Andrade, Edson; Uma Comparação Voltada a Interpretação Entre Casos de Uso e Histórias
 de Usuário com Cenário de Aceitação; RS, 2016.
 
-Sedano, Todd; et al. The Product Backlog. 
+Sedano, Todd; et al. The Product Backlog.
 
 Souza, Jonathan, et al. Descrevendo requisitos de User eXperience em
 Critérios de Aceitação de User Stories.
@@ -96,12 +115,13 @@ https://www.scaledagileframework.com/
 
 ## Histórico de Versões
 
-| Versão | Data           | Descrição                                             | Autor                          |
-|--------|----------------|-------------------------------------------------------|--------------------------------|
-| 1.0    | 26/07/2022     | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti              |
-| 1.1    | 28/07/2022     | Adição das histórias de usuário US1 - US15            | Bernardo Pissutti              |
-| 1.2    | 01/08/2022     | Reformulação da tabela de Histórias de Usuários       | Leonardo Vitoriano             |
-| 1.3    | 02/08/2022     | Adição das histórias de usuário US16 - US33           | Cícero Fernandes               |
-| 1.4    | 02/08/2022     | Adição dos critérios de aceitação US16 - US33         | Arthur Jose e Leonardo Milomes |
-| 1.5    | 02/08/2022     | Adicionando informação inicial backlog                | Arthur                         |
-| 1.6    | 02/08/2022     | Adicionando resultado backlog scrum                   | Arthur                         |
+| Versão | Data       | Descrição                                              | Autor                          |
+|--------|------------|--------------------------------------------------------|--------------------------------|
+| 1.0    | 26/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti              |
+| 1.1    | 28/07/2022 | Adição das histórias de usuário US1 - US15             | Bernardo Pissutti              |
+| 1.2    | 01/08/2022 | Reformulação da tabela de Histórias de Usuários        | Leonardo Vitoriano             |
+| 1.3    | 02/08/2022 | Adição das histórias de usuário US16 - US33            | Cícero Fernandes               |
+| 1.4    | 02/08/2022 | Adição dos critérios de aceitação US16 - US33          | Arthur Jose e Leonardo Milomes |
+| 1.5    | 02/08/2022 | Adicionando informação inicial backlog                 | Arthur                         |
+| 1.6    | 02/08/2022 | Adicionando resultado backlog scrum                    | Arthur                         |
+| 1.7    | 02/08/2022 | Adicinando a priorização do backlog                    | Leonardo Milomes               |
