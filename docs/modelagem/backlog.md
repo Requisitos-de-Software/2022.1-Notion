@@ -7,6 +7,13 @@
 O backlog do produto é a lista de itens (histórias de usuário, bugs, deveres) usados pelo time de software para coordenar o trabalho
 a ser feito. Ele serve como ponte entre a geração e implementação das **histórias de usuário**.
 
+No Scrum temos dois backlogs:
+
+* Product backlog: refere-se a uma lista contendo as necessidades gerais do produto, onde o gerente ou Product owner, define de acordo com a priorização feita pelo cliente. Durante as reuniões de Sprint Planning o gerente apresenta o backlog para a equipe e é definido quais serão as tarefas da Sprint.
+
+* Sprint backlog: refere-se a uma lista contendo artefatos menores,de uma sprint , que agrega valor a cada nova sprint para o cliente, diferente.
+
+
 Histórias de usuário descrevem funcionalidades com o objetivo de agregar valor ao cliente e à equipe de desenvolvimento.
 Cohn propõe a forma de estruturar uma US (sua gramática),  que é a mais utilizada pelos desenvolvedores. A estrutura
 proposta por Cohn descreve pontos fundamentais dos requisitos do usuário, sendo: tipo de usuário; objetivo; e a razão
@@ -76,12 +83,24 @@ das histórias de usuário descritas nesse arquivo podem ser encontrados na segu
 Andrade, Edson; Uma Comparação Voltada a Interpretação Entre Casos de Uso e Histórias
 de Usuário com Cenário de Aceitação; RS, 2016.
 
+Sedano, Todd; et al. The Product Backlog. 
+
+Souza, Jonathan, et al. Descrevendo requisitos de User eXperience em
+Critérios de Aceitação de User Stories.
+
+https://agilemanifesto.org/
+
+https://www.scaledagileframework.com/
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                              | Autor                          |
-| ------ | ---------- | ------------------------------------------------------ |--------------------------------|
-| 1.0    | 26/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti              |
-| 1.1    | 28/07/2022 | Adição das histórias de usuário US1 - US15             | Bernardo Pissutti              |
-| 1.2    | 01/08/2022 | Reformulação da tabela de Histórias de Usuários        | Leonardo Vitoriano             |
-| 1.3    | 02/08/2022 | Adição das histórias de usuário US16 - US33            | Cícero Fernandes               |
-| 1.4    | 02/08/2022 | Adição dos critérios de aceitação US16 - US33          | Arthur Jose e Leonardo Milomes |
+| Versão | Data           | Descrição                                             | Autor                          |
+|--------|----------------|-------------------------------------------------------|--------------------------------|
+| 1.0    | 26/07/2022     | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti              |
+| 1.1    | 28/07/2022     | Adição das histórias de usuário US1 - US15            | Bernardo Pissutti              |
+| 1.2    | 01/08/2022     | Reformulação da tabela de Histórias de Usuários       | Leonardo Vitoriano             |
+| 1.3    | 02/08/2022     | Adição das histórias de usuário US16 - US33           | Cícero Fernandes               |
+| 1.4    | 02/08/2022     | Adição dos critérios de aceitação US16 - US33         | Arthur Jose e Leonardo Milomes |
+| 1.5    | 02/08/2022     | Adicionando informação inicial backlog                | Arthur                         |
+| 1.6    | 02/08/2022     | Adicionando resultado backlog scrum                   | Arthur                         |
+
