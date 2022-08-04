@@ -9,7 +9,44 @@ Product backlog: refere-se a uma lista contendo as necessidades gerais do produt
 
 Sprint backlog: refere-se a uma lista contendo artefatos menores,de uma sprint , que agrega valor a cada nova sprint para o cliente, diferente.
 
-
+| Requisito | Importância para a persona (baixa, média, alta).  | Os Critérios de aceitação estão corretos para validar a história |
+| --- | --- | --- |
+| US01 | alta | sim |
+| US02 | alta | sim |
+| US03 | alta | sim |
+| US04 | alta | não, confirmação de exclusão antes de excluir |
+| US05 | Alta | sim |
+| US06 | alta | sim |
+| US07 | média | não, icone clicavel para seleçao de fonte adequada |
+| US08 | média | não, icone clicavel para seleçao de fonte adequada |
+| US09 | média | não, icone clicavel para selecao |
+| US10 | média | sim |
+| US11 | média | sim |
+| US12 | baixa | sim |
+| US13 | média | sim |
+| US14 | baixa | sim |
+| US15 | baixa | sim |
+| US16 | alta | sim |
+| US17 | Alta | sim |
+| US18 | Média | sim |
+| US19 | Alta | Sim |
+| US20 | Alta | Sim |
+| US21 | Alta | Sim |
+| US22 | baixa | sim |
+| US23 | Alta | sim |
+| US24 | Alta | sim |
+| US25 | Média | sim |
+| US26 | baixa | sim |
+| US27 | alta | sim |
+| US28 | baixa | sim |
+| US29 | alta | não, gostaria de adicionar tempo inicial e tempo final, 
+cor vermelha para 1 antes de expirar. |
+| US30 | baixa | sim |
+| US31 | baixa | sim |
+| US32 | alta | sim |
+| US33 | alta | sim |
+|  |  |  |
+| tabela 1 - Backlog Scrum |
 
 ## SAFe
 
@@ -29,4 +66,4 @@ livro cap3
 
 | Versão | Data             | Descrição                                                   | Autor               |
 | ------ |------------------|-------------------------------------------------------------|---------------------|
-|  1.0      |      02/08/2022            |    Adicionando informação inicial backlog                                                         | Arthur                    |
+|  1.0      |      02/08/2022            |    Adicionando informação inicial backlog                                                         | Arthur                    | 1.1 | 02/08/2022 | Adicionando resultado backlog scrum | Arthur |
