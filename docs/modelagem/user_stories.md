@@ -1,6 +1,6 @@
-# Histórias de Usuário
+# Backlog
 
-## 1. Introdução
+## 1. Histórias de Usuários
 
 Histórias de usuário descrevem funcionalidades com o objetivo de agregar valor ao cliente e à equipe de desenvolvimento.
 São basicamente compostas de três aspectos:
@@ -35,15 +35,30 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 - Incentivam o adiantamento dos detalhes;
 - Estimulam o projeto participativo.
 
-## 2. Resultados
+## 2. Backlog
+
+### 2.1 Introdução
+
+## Épicos
+
+
+### Épico 01: Gerenciamento de Perfil
 
 | História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de...                                                               | Para poder...                                                                                                   | Prioridade |
 | ------------------- | --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
 | US1                 | RF1             | Criar uma página                                                                               | Escrever minhas anotações                                                                                       | M          |
+| US5                 | RF5             | Me autenticar no sistema                              | Ter acesso às funcionalidades do app                                                                            | M          |
+| US32                | RF32            | Criar uma conta                                             | Acessar as funcionalidades do sistema | M          |
+| US33                | RF33            | Realizar logout                                            | Sair da conta dentro do sistema                                               | M          |
+
+
+### Épico 02: Gerenciamento de Página
+
+| História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de...                                                               | Para poder...                                                                                                   | Prioridade |
+| ------------------- | --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
 | US2                 | RF2             | Encontrar uma página criada previamente                                                        | Ver as informações escritas nela                                                                                | M          |
 | US3                 | RF3             | Editar uma página                                                                              | Para ter controle total sobre ela caso falhe em algum item e precise editá-lo                                   | M          |
 | US4                 | RF4             | Excluir uma página                                                                             | Remover ela das páginas existentes                                                                              | M          |
-| US5                 | RF5             | Me autenticar no sistema para ter acesso às funcionalidades do app                             | Ter acesso às funcionalidades do app                                                                            | M          |
 | US6                 | RF6             | Pesquisar por uma página                                                                       | Encontrar ela mais rapidamente                                                                                  | C          |
 | US7                 | RF7             | Escolher em qual fonte editar minha página                                                     | Escrever texto com a fonte desejada                                                                             | S          |
 | US8                 | RF8             | Escolher entre tamanho de fonte grande ou pequena                                              | Escrever texto com tamanho de fonte desejada                                                                    | C          |
@@ -71,116 +86,6 @@ Alguns dos motivos para utilizar hitórias de usuários são (Cohn, 2004):
 | US30                | RF30            | Escrever blocos de código                                                                      | Entender a sintaxe do código sem se perder na linguagem padrão ou não estilizada                                | C          |
 | US31                | RF31            | Ser informado da situação do clima na minha região                                             | Saber como está o tempo sem precisar minimizar minha aplicação                                                  | W          |
 
-
-## Critérios de Aceitação das Histórias de Usuário
-
-### US01 - Criar uma página
-
-&emsp;&emsp;Eu, como usuário, devo ser capaz de criar uma página para escrever minhas anotações.
-
-#### Criterios de aceitação
-- Deve ter um opção de criar nova página na seção onde ficam as páginas.
-
-
-### US02 - Encontrar uma página
-&emsp;&emsp;Eu, como usuário, devo ser capaz de encontrar uma página criada préviamente para ver as informações escritas nela
-
-#### Criterios de aceitação
-- As páginas criadas devem ficar em uma seção no lado esquerdo da tela do usuário.
-
-
-### US03 - Editar uma página
-&emsp;&emsp;Eu, como usuário, devo ser capaz de editar uma página criada para alterar as informações escritas nela
-
-#### Criterios de aceitação
-- As páginas editada deve ser salva com as alterações realizadas.
-
-
-### US04 - Excluir uma página
-&emsp;&emsp;Eu, como usuário, devo ser capaz de excluir uma página para remover ela das páginas existentes
-
-#### Criterios de aceitação
-- A opção de excluir a página deve aparecer quando seleciona o "três pontinhos" ao lado do titulo da página na seção de páginas criadas e nos "três pontinhos" na parte de cima da interface da página.
-
-### US05 - Login
-&emsp;&emsp;Eu, como usuário, devo ser capaz de me autenticar no sistema para ter acesso às funcionalidades do app
-
-#### Criterios de aceitação
-- Deve ter um email/conta do google/conta da apple válida.
-
-
-### US06 - Pesquisar uma página
-&emsp;&emsp;Eu, como usuário, devo ser capaz de pequisar por uma página para achar ela mais rapidamente
-
-#### Criterios de aceitação
-- O mecanismo de pesquisa deve ficar nas primeiras opções de funcionalidade do workspace, ou seja, na parte de cima do barra lateral.
-
-### US07 - Escolher fonte
-&emsp;&emsp;Eu, como usuário, devo ser capaz de escolher em qual fonte editar minha página
-
-#### Criterios de aceitação
-- As opções de fonte devem aparecer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
-
-### US08 - Escolher tamanho de fonte
-&emsp;&emsp;Eu, como usuário, devo ser capaz de escolher entre tamanho de fonte grande ou pequena
-
-#### Criterios de aceitação
-- As opções de tamanho de fonte devem aparecer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
-
-### US09 - Centralizar texto
-&emsp;&emsp;Eu, como usuário, devo ser capaz de escolher se o texto da página ocupa toda a largura da página ou se fica centralizado na página
-
-#### Criterios de aceitação
-- Essa opção deve apareccer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
-
-### US10 - Visualizar histórico 
-&emsp;&emsp;Eu, como usuário, devo ser capaz de ver o histórico de alterações da página.
-
-#### Criterios de aceitação
-- O histórico deve ser acessado a partir da funcionalidade com simbolo de relógio na parte de cima da interface da página.
-
-### US011 - Favoritar página
-&emsp;&emsp;Eu, como usuário, devo ser capaz de favoritar a página para deixar ela na aba de favoritos
-
-#### Criterios de aceitação
-- A opção de favoritar a página deve ser representada por uma estrela na parte superior da página.<br/>2. As páginas favoritadas devem aparecer em uma seção na barra lateral da interface.
-
-### US12 - Compartilhar link da página
-&emsp;&emsp;Eu, como usuário, devo ser capaz de compartilhar o link da página para que outros usuários tenham acesso a ela.
-
-#### Criterios de aceitação
-- A opção de compartilhar o link deve ficar no canto superior da página quando se aperta na palavra "share" e deve aparecer, também, quando se aperta os "três pontinhos" na parte superior da interface da página.
-
-### US13 - Escolher aparência do sistema
-&emsp;&emsp;Eu, como usuário, devo ser capaz de escolher a aparência do sistema para mudar a tematica de cores do design do sistema
-
-#### Criterios de aceitação
-- A opção de mudar a aparência do sistema deve aparecer na parte de "notification and settings" das condigurações do sistema, que pode ser acessada na barra lateral da interface.
-
-### US14 -  Escolher foto identificação da página
-&emsp;&emsp;Eu, como usuário, devo ser capaz de escolher uma foto de identificação para cada página para aparecer do lado do titulo da página
-
-#### Criterios de aceitação
-- A opção de escolher foto para a página deve aparecer no topo da interface da página, logo acima do titulo.
-- A foto deve aparece tanto no topo da interface da página como ao lado do titulo na barra lateral onde se encontram as páginas criadas.
-
-### US15 -  Escolher foto identificação do workspace
-&emsp;&emsp;Eu, como usuário, devo ser capaz de escolher uma foto de identificação do workspace para aparecer do lado do titulo do workspace
-
-#### Criterios de aceitação
-- A opção de escolher foto para o workspace deve aparecer nas configurações do sistema na seção de workspace.
-- A foto deve aparecer ao lado do nome do workspace.
-
-
-### US16 -  Criar workspace
-&emsp;&emsp;Eu, como usuário, devo ser capaz de ter quantos workspace que eu quiser
-
-#### Criterios de aceitação
-- 
-
-
-
-
 ## Referências Bibliográficas
 
 Andrade, Edson; Uma Comparação Voltada a Interpretação Entre Casos de Uso e Histórias
@@ -193,4 +98,5 @@ de Usuário com Cenário de Aceitação; RS, 2016.
 | 1.0    | 26/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti  |
 | 1.1    | 28/07/2022 | Adição das histórias de usuário US1 - US15             | Bernardo Pissutti  |
 | 1.2    | 01/08/2022 | Reformulação da tabela de Histórias de Usuários        | Leonardo Vitoriano |
-| 1.3    | 02/08/2022 | Adição das histórias de usuário US16 - US31            | Cícero Fernandes   |
+| 1.3    | 02/08/2022 | Adição das histórias de usuário US16 - US33            | Cícero Fernandes   |
+| 1.4    | 02/08/2022 | Adição dos critérios de aceitação US16 - US33          | Arthur Jose e Leonardo Milomes |
