@@ -26,7 +26,7 @@ Representa os Requisitos Não-Funcionais e tem sua representação gráfica na F
 
 [comment]: <> (| Fonte: &#40;CHUNG et al., 2000&#41; |)
 
-<img style="height: 80px; width: 100px" src="../_media/softgoal_nfr.png" alt="Softgoal NFR"/>
+<img style="height: 80px; width: 150px" src="../_media/softgoal_nfr.png" alt="Softgoal NFR"/>
 
 Figura 1: Softgoal NFR
 
