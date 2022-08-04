@@ -12,7 +12,7 @@ facilita a compreensão e a tarefa de priorização.
 
 Os softgoals se subdividem em três grupos; enquanto a definição dos relacionamentos entre eles, as chamadas <i>interdependências</i>, se ramificam em dois e os procedimentos de avaliação em seis.
 
-### 2.1 Softgoals:
+### 2.1 Softgoals
 
 #### 2.1.1 NFR
 
@@ -55,7 +55,7 @@ que parte dos filhos no sentido do pai (Figura 4).
 
 ### 2.2.2 Contribuições:
 
-Uma vez que sucessivas decomposições de softgoals pais e de seus filhos tenham sido realizadas, é importante poder mensurar o quanto cada
+Uma vez que sucessivas decomposições dos softgoals pais e de seus filhos tenham sido realizadas, é importante poder mensurar o quanto cada
 membro dos níveis inferiores contribuí para a satisfação dos níveis superioes e, portanto, dos requisitos não-funcionais como
 um todo. Essa métrica é a chamada <i>contribuição</i> e pode ser visualizada graficamente por meio da inscrição de alguns dos termos abaixo nas setas 
 que expressm a relação de decomposição. 
@@ -63,12 +63,12 @@ que expressm a relação de decomposição.
 #### 2.2.1 Contribuição <i>AND</i>:
 Se os <i>softgoals</i> descendentes forem satisfeitos os ascendentes também o serão. Exemplo na Figura 5.
 
-#### 2.2.1 Contribuição <i>OR</i>:
-Se ao menos um dos <i>softgoals</i> descendentes for satisfeito o ascendente também o será.
-
 | Figura 5: Exemplo de contribuição <i>AND</i> entre sofgoals NFR|
 |----------------------------------------|
 | ![image](../_media/exemplo_contribuicao_and.jpeg) |
+
+#### 2.2.1 Contribuição <i>OR</i>:
+Se ao menos um dos <i>softgoals</i> descendentes for satisfeito o ascendente também o será.
 
 ### 2.3 Procedimento de avaliação:
 
@@ -83,18 +83,17 @@ softgoal ou interdependência do SIG foi suficientemente satisfeito. Para isso, 
 ## 3. Diagramas
 Optamos por destacar três categorias de requisitos importados do modelo FURPS - confiabilidade, usabilidade e desempenho.
 
-### 3.1 Usabilidade - com propagação
-
-| ![image](../_media/usabilidade_com_propagacao.jpg) |
-|----------------------------------------|
-| Figura 7: Análise com propagação do aspecto de usabilidade|
-
 ### 3.1 Usabilidade - sem propagação
 
 | ![image](../_media/usabilidade_sem_propagacao.jpg) |
 |----------------------------------------|
 | Figura 8: Análise sem propagação do aspecto de usabilidade|
 
+### 3.2 Usabilidade - com propagação
+
+| ![image](../_media/usabilidade_com_propagacao.jpg) |
+|----------------------------------------|
+| Figura 7: Análise com propagação do aspecto de usabilidade|
 
 ## Referências Bibliográficas
 https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html
