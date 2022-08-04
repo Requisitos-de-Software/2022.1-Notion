@@ -19,7 +19,7 @@ Os softgoals se subdividem em três grupos; enquanto a definição dos relaciona
 Representam os Requisitos Não-Funcionais.
 
 | Figura 1: Softgoal NFR       |
-|----------------------------------------|
+|---------|
 | ![image](../_media/softgoal_nfr.png) |
 | Fonte: (CHUNG et al., 2000) |
 
@@ -51,7 +51,7 @@ que parte dos filhos no sentido do pai (Figura 4).
 
 | Figura 4: Exemplo de decomposição em softgoal NFR|
 |----------------------------------------|
-| ![image](../_media/decomposicao_softgoal_nfr.jpg) |
+| ![image](../_media/decomposicao_softgoal_nfr.jpeg) |
 
 ### 2.2.2 Contribuições:
 
@@ -68,7 +68,7 @@ Se ao menos um dos <i>softgoals</i> descendentes for satisfeito o ascendente tam
 
 | Figura 5: Exemplo de contribuição <i>AND</i> entre sofgoals NFR|
 |----------------------------------------|
-| ![image](../_media/exemplo_contribuicao_and.jpg) |
+| ![image](../_media/exemplo_contribuicao_and.jpeg) |
 
 ### 2.3 Procedimento de avaliação:
 
