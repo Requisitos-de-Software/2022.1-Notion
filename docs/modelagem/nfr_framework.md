@@ -22,7 +22,6 @@ Representa os Requisitos Não-Funcionais e tem sua representação gráfica na F
 |---------|
 | ![image](../_media/softgoal_nfr.png) |
 | Fonte: (CHUNG et al., 2000) |
-Figura 1: Softgoal NFR
 
 #### Operacionalização
 
