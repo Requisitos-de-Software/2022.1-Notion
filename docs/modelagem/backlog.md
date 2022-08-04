@@ -99,6 +99,48 @@ A gravação da priorização do Backlog a partir da Persona pode ser encontrado
 
 - [Vídeo](https://youtu.be/xoBXTkI3cgk)
 
+### 2.4 Priorização
+
+O resultado da priorização com a Persona pode ser encontrado na Tabela 1 a seguir:
+
+| ID da história | Importância para a persona (baixa, média, alta). | Os Critérios de aceitação estão corretos para validar a história                              |
+|----------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| US01           | alta                                             | sim                                                                                           |
+| US02           | alta                                             | sim                                                                                           |
+| US03           | alta                                             | sim                                                                                           |
+| US04           | alta                                             | não, confirmação de exclusão antes de excluir                                                 |
+| US05           | Alta                                             | sim                                                                                           |
+| US06           | alta                                             | sim                                                                                           |
+| US07           | média                                            | não, ícone clicável para seleção de fonte adequada                                            |
+| US08           | média                                            | não, ícone clicável para seleção de fonte adequada                                            |
+| US09           | média                                            | não, ícone clicável para selecão                                                              |
+| US10           | média                                            | sim                                                                                           |
+| US11           | média                                            | sim                                                                                           |
+| US12           | baixa                                            | sim                                                                                           |
+| US13           | média                                            | sim                                                                                           |
+| US14           | baixa                                            | sim                                                                                           |
+| US15           | baixa                                            | sim                                                                                           |
+| US16           | alta                                             | sim                                                                                           |
+| US17           | Alta                                             | sim                                                                                           |
+| US18           | Média                                            | sim                                                                                           |
+| US19           | Alta                                             | Sim                                                                                           |
+| US20           | Alta                                             | Sim                                                                                           |
+| US21           | Alta                                             | Sim                                                                                           |
+| US22           | baixa                                            | sim                                                                                           |
+| US23           | Alta                                             | sim                                                                                           |
+| US24           | Alta                                             | sim                                                                                           |
+| US25           | Média                                            | sim                                                                                           |
+| US26           | baixa                                            | sim                                                                                           |
+| US27           | alta                                             | sim                                                                                           |
+| US28           | baixa                                            | sim                                                                                           |
+| US29           | alta                                             | não, gostaria de adicionar tempo inicial e tempo final, cor vermelha para 1 antes de expirar. |
+| US30           | baixa                                            | sim                                                                                           |
+| US31           | baixa                                            | sim                                                                                           |
+| US32           | alta                                             | sim                                                                                           |
+| US33           | alta                                             | sim                                                                                           |
+
+*Tabela 3 - Backlog Scrum*
+
 ## Referências Bibliográficas
 
 Andrade, Edson; Uma Comparação Voltada a Interpretação Entre Casos de Uso e Histórias
