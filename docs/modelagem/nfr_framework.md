@@ -20,9 +20,9 @@ interdependências</i>, se ramificam em dois e os procedimentos de avaliação e
 
 #### NFR
 
-Representam os Requisitos Não-Funcionais e têm sua representação gráfica na Figura 1
+Representa os Requisitos Não-Funcionais e tem sua representação gráfica na Figura 1.
 
-| Figura 1: Softgoal NFR       |
+| Figura 1: Softgoal NFR |
 |---------|
 | ![image](../_media/softgoal_nfr.png) |
 | Fonte: (CHUNG et al., 2000) |

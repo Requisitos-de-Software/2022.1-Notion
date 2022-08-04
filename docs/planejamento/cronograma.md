@@ -90,10 +90,12 @@ A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
 
 | Data          | Atividade                           | Responsáveis        | Revisores           |
 | ------------- | ----------------------------------- | ------------------- | ------------------- |
+| 27/07         | Reunião para definir tarefas        | Todos               | Todos               |
 | 28/07 - 02/08 | Construção das histórias de usuário | Cícero e Bernardo   | Arthur e Leonardo   |
 | 02/08         | Backlogs                            | Arthur e Leonardo   | Nicolas e Guilherme |
 | 02/08         | NFR Framework                       | Nicolas e Guilherme | Cícero e Bernardo   |
 | 03/08         | Gravação da entrega                 | Todos               | Todos               |
+| 03/08         | Reunião de priorização              | Leonardo e Arthur   | Todos               |
 
 _Tabela 5: cronograma da quarta entrega_
 

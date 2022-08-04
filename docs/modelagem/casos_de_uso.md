@@ -1,4 +1,3 @@
-
 # Caso de Uso
 
 Nessa seção, vamos definir e apresentar o diagrama de casos de uso referente ao app escolhido. Iremos definir primeiro *Caso de Uso*.
