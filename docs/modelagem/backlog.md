@@ -98,6 +98,9 @@ A gravação da priorização do Backlog a partir da Persona pode ser encontrado
 
 - [Vídeo](https://youtu.be/xoBXTkI3cgk)
 
+### 2.4 Priorização
+
+O resultado da priorização com a Persona pode ser encontrado na Tabela 1 a seguir:
 
 | Requisito | Importância para a persona (baixa, média, alta).  | Os Critérios de aceitação estão corretos para validar a história |
 | --- | --- | --- |
