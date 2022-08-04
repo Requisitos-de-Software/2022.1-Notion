@@ -58,7 +58,7 @@ que parte dos filhos no sentido do pai (Figura 4).
 
 | Figura 4: Exemplo de decomposição em softgoal NFR|
 |----------------------------------------|
-| ![image](../_media/decomposicao_softgoal_nfr.jpeg) |
+| ![image](../_media/decomposicao_softgoal_nfr.jpg) |
 
 ### Contribuições:
 
