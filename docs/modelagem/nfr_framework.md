@@ -46,7 +46,7 @@ Apoiam as tarefas de priorização e refinamento dos softgoals. Em suma, embasam
 ### 2.2.1 Refinamentos:
 
 Nesse tipo de interdependência, um softgoal pai de caráter geral se ramifica, de modo <i>Top-Down</i>, em dois ou mais filhos especializados.
-Graficamente, esse ramificação pode ser realizada em qualquer um dos três tipos de sofgoals (NFR, operacionalização e adição) e é representada por um vetor
+Graficamente, esse ramificação pode ser realizada em qualquer um dos três tipos de softgoals (NFR, operacionalização e adição) e é representada por um vetor
 que parte dos filhos no sentido do pai (Figura 4).
 
 | Figura 4: Exemplo de decomposição em softgoal NFR|
@@ -63,7 +63,7 @@ que expressm a relação de decomposição.
 #### 2.2.1 Contribuição <i>AND</i>:
 Se os <i>softgoals</i> descendentes forem satisfeitos os ascendentes também o serão. Exemplo na Figura 5.
 
-| Figura 5: Exemplo de contribuição <i>AND</i> entre sofgoals NFR|
+| Figura 5: Exemplo de contribuição <i>AND</i> entre softgoals NFR|
 |----------------------------------------|
 | ![image](../_media/exemplo_contribuicao_and.jpeg) |
 
