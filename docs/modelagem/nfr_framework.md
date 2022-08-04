@@ -14,7 +14,7 @@ Os softgoals se subdividem em três grupos; enquanto a definição dos relaciona
 
 ### 2.1 Softgoals
 
-#### 2.1.1 NFR
+#### NFR
 
 Representam os Requisitos Não-Funcionais e têm sua representação gráfica na Figura 
 
@@ -23,7 +23,7 @@ Representam os Requisitos Não-Funcionais e têm sua representação gráfica na
 | ![image](../_media/softgoal_nfr.png) |
 | Fonte: (CHUNG et al., 2000) |
 
-#### 2.1.2 Operacionalização
+#### Operacionalização
 
 Representam operações, processos e estruturações utilizados para satisfazer os softgoals NFR.
 
@@ -32,7 +32,7 @@ Representam operações, processos e estruturações utilizados para satisfazer 
 | ![image](../_media/softgoal_operacionalizacao.png) |
 | Fonte: (CHUNG et al., 2000) |
 
-#### 2.1.3 Afirmação
+#### Afirmação
 
 Apoiam as tarefas de priorização e refinamento dos softgoals. Em suma, embasam as tomadas de decisão e os rumos do sistema.
 
@@ -43,7 +43,7 @@ Apoiam as tarefas de priorização e refinamento dos softgoals. Em suma, embasam
 
 ### 2.2 Interdependências
 
-### 2.2.1 Refinamentos:
+### Refinamentos:
 
 Nesse tipo de interdependência, um softgoal pai de caráter geral se ramifica, de modo <i>Top-Down</i>, em dois ou mais filhos especializados.
 Graficamente, esse ramificação pode ser realizada em qualquer um dos três tipos de softgoals (NFR, operacionalização e adição) e é representada por um vetor
@@ -53,21 +53,21 @@ que parte dos filhos no sentido do pai (Figura 4).
 |----------------------------------------|
 | ![image](../_media/decomposicao_softgoal_nfr.jpeg) |
 
-### 2.2.2 Contribuições:
+### Contribuições:
 
 Uma vez que sucessivas decomposições dos softgoals pais e de seus filhos tenham sido realizadas, é importante poder mensurar o quanto cada
 membro dos níveis inferiores contribuí para a satisfação dos níveis superioes e, portanto, dos requisitos não-funcionais como
 um todo. Essa métrica é a chamada <i>contribuição</i> e pode ser visualizada graficamente por meio da inscrição de alguns dos termos abaixo nas setas 
 que expressm a relação de decomposição. 
 
-#### 2.2.1 Contribuição <i>AND</i>:
+#### Contribuição <i>AND</i>:
 Se os <i>softgoals</i> descendentes forem satisfeitos os ascendentes também o serão. Exemplo na Figura 5.
 
 | Figura 5: Exemplo de contribuição <i>AND</i> entre softgoals NFR|
 |----------------------------------------|
 | ![image](../_media/exemplo_contribuicao_and.jpeg) |
 
-#### 2.2.1 Contribuição <i>OR</i>:
+#### Contribuição <i>OR</i>:
 Se ao menos um dos <i>softgoals</i> descendentes for satisfeito o ascendente também o será.
 
 ### 2.3 Procedimento de avaliação:
@@ -83,13 +83,13 @@ softgoal ou interdependência do SIG foi suficientemente satisfeito. Para isso, 
 ## 3. Diagramas
 Optamos por destacar três categorias de requisitos importados do modelo FURPS - confiabilidade, usabilidade e desempenho.
 
-### 3.1 Usabilidade - sem propagação
+### Usabilidade - sem propagação
 
 | ![image](../_media/usabilidade_sem_propagacao.jpg) |
 |----------------------------------------|
 | Figura 8: Análise sem propagação do aspecto de usabilidade|
 
-### 3.2 Usabilidade - com propagação
+### Usabilidade - com propagação
 
 | ![image](../_media/usabilidade_com_propagacao.jpg) |
 |----------------------------------------|
