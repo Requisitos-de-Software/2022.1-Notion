@@ -1,40 +1,40 @@
 # Critérios de Aceitação das Histórias de Usuário
 
-| Requisito                      | Importância para a persona (baixa, média, alta). | Os Critérios de aceitação estão corretos para validar a história                              |
-|--------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| US01                           | alta                                             | sim                                                                                           |
-| US02                           | alta                                             | sim                                                                                           |
-| US03                           | alta                                             | sim                                                                                           |
-| US04                           | alta                                             | não, confirmação de exclusão antes de excluir                                                 |
-| US05                           | Alta                                             | sim                                                                                           |
-| US06                           | alta                                             | sim                                                                                           |
-| US07                           | média                                            | não, icone clicavel para seleçao de fonte adequada                                            |
-| US08                           | média                                            | não, icone clicavel para seleçao de fonte adequada                                            |
-| US09                           | média                                            | não, icone clicavel para selecao                                                              |
-| US10                           | média                                            | sim                                                                                           |
-| US11                           | média                                            | sim                                                                                           |
-| US12                           | baixa                                            | sim                                                                                           |
-| US13                           | média                                            | sim                                                                                           |
-| US14                           | baixa                                            | sim                                                                                           |
-| US15                           | baixa                                            | sim                                                                                           |
-| US16                           | alta                                             | sim                                                                                           |
-| US17                           | Alta                                             | sim                                                                                           |
-| US18                           | Média                                            | sim                                                                                           |
-| US19                           | Alta                                             | Sim                                                                                           |
-| US20                           | Alta                                             | Sim                                                                                           |
-| US21                           | Alta                                             | Sim                                                                                           |
-| US22                           | baixa                                            | sim                                                                                           |
-| US23                           | Alta                                             | sim                                                                                           |
-| US24                           | Alta                                             | sim                                                                                           |
-| US25                           | Média                                            | sim                                                                                           |
-| US26                           | baixa                                            | sim                                                                                           |
-| US27                           | alta                                             | sim                                                                                           |
-| US28                           | baixa                                            | sim                                                                                           |
-| US29                           | alta                                             | não, gostaria de adicionar tempo inicial e tempo final, cor vermelha para 1 antes de expirar. |
-| US30                           | baixa                                            | sim                                                                                           |
-| US31                           | baixa                                            | sim                                                                                           |
-| US32                           | alta                                             | sim                                                                                           |
-| US33                           | alta                                             | sim                                                                                           |
+| ID da história | Importância para a persona (baixa, média, alta). | Os Critérios de aceitação estão corretos para validar a história                              |
+|----------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| US01           | alta                                             | sim                                                                                           |
+| US02           | alta                                             | sim                                                                                           |
+| US03           | alta                                             | sim                                                                                           |
+| US04           | alta                                             | não, confirmação de exclusão antes de excluir                                                 |
+| US05           | Alta                                             | sim                                                                                           |
+| US06           | alta                                             | sim                                                                                           |
+| US07           | média                                            | não, ícone clicável para seleção de fonte adequada                                            |
+| US08           | média                                            | não, ícone clicável para seleção de fonte adequada                                            |
+| US09           | média                                            | não, ícone clicável para selecão                                                              |
+| US10           | média                                            | sim                                                                                           |
+| US11           | média                                            | sim                                                                                           |
+| US12           | baixa                                            | sim                                                                                           |
+| US13           | média                                            | sim                                                                                           |
+| US14           | baixa                                            | sim                                                                                           |
+| US15           | baixa                                            | sim                                                                                           |
+| US16           | alta                                             | sim                                                                                           |
+| US17           | Alta                                             | sim                                                                                           |
+| US18           | Média                                            | sim                                                                                           |
+| US19           | Alta                                             | Sim                                                                                           |
+| US20           | Alta                                             | Sim                                                                                           |
+| US21           | Alta                                             | Sim                                                                                           |
+| US22           | baixa                                            | sim                                                                                           |
+| US23           | Alta                                             | sim                                                                                           |
+| US24           | Alta                                             | sim                                                                                           |
+| US25           | Média                                            | sim                                                                                           |
+| US26           | baixa                                            | sim                                                                                           |
+| US27           | alta                                             | sim                                                                                           |
+| US28           | baixa                                            | sim                                                                                           |
+| US29           | alta                                             | não, gostaria de adicionar tempo inicial e tempo final, cor vermelha para 1 antes de expirar. |
+| US30           | baixa                                            | sim                                                                                           |
+| US31           | baixa                                            | sim                                                                                           |
+| US32           | alta                                             | sim                                                                                           |
+| US33           | alta                                             | sim                                                                                           |
 
 _Tabela 1 - Backlog Scrum_
 
@@ -80,11 +80,13 @@ _Tabela 1 - Backlog Scrum_
 #### Criterios de aceitação
 - O mecanismo de pesquisa deve ficar nas primeiras opções de funcionalidade do workspace, ou seja, na parte de cima do barra lateral.
 
+
 ### US07 - Escolher fonte
 &emsp;&emsp;Eu, como usuário, gostaria de escolher em qual fonte editar minha página
 
 #### Criterios de aceitação
 - As opções de fonte devem aparecer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
+
 
 ### US08 - Escolher tamanho de fonte
 &emsp;&emsp;Eu, como usuário, gostaria de escolher entre tamanho de fonte grande ou pequena
@@ -92,11 +94,13 @@ _Tabela 1 - Backlog Scrum_
 #### Criterios de aceitação
 - As opções de tamanho de fonte devem aparecer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
 
+
 ### US09 - Centralizar texto
 &emsp;&emsp;Eu, como usuário, gostaria de escolher se o texto da página ocupa toda a largura da página ou se fica centralizado na página
 
 #### Criterios de aceitação
 - Essa opção deve aparecer quando o usuário acessa os "três pontinhos" na parte de cima da interface da página.
+
 
 ### US10 - Visualizar histórico
 &emsp;&emsp;Eu, como usuário, gostaria de ver o histórico de alterações da página.
@@ -104,11 +108,13 @@ _Tabela 1 - Backlog Scrum_
 #### Criterios de aceitação
 - O histórico deve ser acessado a partir da funcionalidade com simbolo de relógio na parte de cima da interface da página.
 
+
 ### US011 - Favoritar página
 &emsp;&emsp;Eu, como usuário, gostaria de favoritar a página para deixar ela na aba de favoritos
 
 #### Criterios de aceitação
 - A opção de favoritar a página deve ser representada por uma estrela na parte superior da página.<br/>2. As páginas favoritadas devem aparecer em uma seção na barra lateral da interface.
+
 
 ### US12 - Compartilhar link da página
 &emsp;&emsp;Eu, como usuário, gostaria de compartilhar o link da página para que outros usuários tenham acesso a ela.
@@ -116,11 +122,13 @@ _Tabela 1 - Backlog Scrum_
 #### Criterios de aceitação
 - A opção de compartilhar o link deve ficar no canto superior da página quando se aperta na palavra "share" e deve aparecer, também, quando se aperta os "três pontinhos" na parte superior da interface da página.
 
+
 ### US13 - Escolher aparência do sistema
 &emsp;&emsp;Eu, como usuário, gostaria de escolher a aparência do sistema para mudar a tematica de cores do design do sistema
 
 #### Criterios de aceitação
 - A opção de mudar a aparência do sistema deve aparecer na parte de "notification and settings" das configurações do sistema, que pode ser acessada na barra lateral da interface.
+
 
 ### US14 -  Escolher foto identificação da página
 &emsp;&emsp;Eu, como usuário, gostaria de escolher uma foto de identificação para cada página para aparecer do lado do titulo da página

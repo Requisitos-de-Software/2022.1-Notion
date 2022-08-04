@@ -13,7 +13,6 @@ No Scrum temos dois backlogs:
 
 * Sprint backlog: refere-se a uma lista contendo artefatos menores,de uma sprint , que agrega valor a cada nova sprint para o cliente, diferente.
 
-
 Histórias de usuário descrevem funcionalidades com o objetivo de agregar valor ao cliente e à equipe de desenvolvimento.
 Cohn propõe a forma de estruturar uma US (sua gramática),  que é a mais utilizada pelos desenvolvedores. A estrutura
 proposta por Cohn descreve pontos fundamentais dos requisitos do usuário, sendo: tipo de usuário; objetivo; e a razão
@@ -43,6 +42,7 @@ das histórias de usuário descritas nesse arquivo podem ser encontrados na segu
 | US32                | RF32            | Criar uma conta                                             | Acessar as funcionalidades do sistema | M          |
 | US33                | RF33            | Realizar logout                                            | Sair da conta dentro do sistema                                               | M          |
 
+_Tabela 1: histórias de usuário do épico 1_
 
 #### Épico 02: Gerenciamento de Página
 
@@ -78,6 +78,8 @@ das histórias de usuário descritas nesse arquivo podem ser encontrados na segu
 | US30                | RF30            | Escrever blocos de código                                                                      | Entender a sintaxe do código sem se perder na linguagem padrão ou não estilizada                                | C          |
 | US31                | RF31            | Ser informado da situação do clima na minha região                                             | Saber como está o tempo sem precisar minimizar minha aplicação                                                  | W          |
 
+_Tabela 2: histórias de usuário do épico 2_
+
 ## Referências Bibliográficas
 
 Andrade, Edson; Uma Comparação Voltada a Interpretação Entre Casos de Uso e Histórias
@@ -103,4 +105,3 @@ https://www.scaledagileframework.com/
 | 1.4    | 02/08/2022     | Adição dos critérios de aceitação US16 - US33         | Arthur Jose e Leonardo Milomes |
 | 1.5    | 02/08/2022     | Adicionando informação inicial backlog                | Arthur                         |
 | 1.6    | 02/08/2022     | Adicionando resultado backlog scrum                   | Arthur                         |
-
