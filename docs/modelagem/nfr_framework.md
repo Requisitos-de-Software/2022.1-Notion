@@ -16,7 +16,7 @@ Os softgoals se subdividem em três grupos; enquanto a definição dos relaciona
 
 #### 2.1.1 NFR
 
-Representam os Requisitos Não-Funcionais.
+Representam os Requisitos Não-Funcionais e têm sua representação gráfica na Figura 
 
 | Figura 1: Softgoal NFR       |
 |---------|
@@ -38,7 +38,7 @@ Apoiam as tarefas de priorização e refinamento dos softgoals. Em suma, embasam
 
 | Figura 3: Softgoal de Afirmação        |
 |----------------------------------------|
-| ![image](../_media/softgoal_afirmacao.jpg) |
+| ![image](../_media/softgoal_afirmacao.jpeg) |
 | Fonte: (CHUNG et al., 2000) |
 
 ### 2.2 Interdependências
@@ -55,7 +55,7 @@ que parte dos filhos no sentido do pai (Figura 4).
 
 ### 2.2.2 Contribuições:
 
-Uma vez que sucessivas decomposições de sofgals pais e de seus filhos tenham sido realizadas, é importante poder mensurar o quanto cada
+Uma vez que sucessivas decomposições de softgoals pais e de seus filhos tenham sido realizadas, é importante poder mensurar o quanto cada
 membro dos níveis inferiores contribuí para a satisfação dos níveis superioes e, portanto, dos requisitos não-funcionais como
 um todo. Essa métrica é a chamada <i>contribuição</i> e pode ser visualizada graficamente por meio da inscrição de alguns dos termos abaixo nas setas 
 que expressm a relação de decomposição. 
