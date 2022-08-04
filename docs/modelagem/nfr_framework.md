@@ -16,12 +16,19 @@ Os softgoals se subdividem em três grupos; enquanto a definição dos relaciona
 
 #### NFR
 
-Representam os Requisitos Não-Funcionais e têm sua representação gráfica na Figura 1
+Representa os Requisitos Não-Funcionais e tem sua representação gráfica na Figura 1.
 
-| Figura 1: Softgoal NFR       |
-|---------|
-| ![image](../_media/softgoal_nfr.png) |
-| Fonte: (CHUNG et al., 2000) |
+[comment]: <> (| Figura 1: Softgoal NFR |)
+
+[comment]: <> (|---------|)
+
+[comment]: <> (| ![image]&#40;../_media/softgoal_nfr.png&#41; |)
+
+[comment]: <> (| Fonte: &#40;CHUNG et al., 2000&#41; |)
+
+<img style="height: 80px" src="../_media/softgoal_nfr.png" alt="Softgoal NFR"/>
+
+Figura 1: Softgoal NFR
 
 #### Operacionalização
 
