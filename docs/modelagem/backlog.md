@@ -76,6 +76,66 @@ das histórias de usuário descritas nesse arquivo podem ser encontrados na segu
 | US30                | RF30            | Escrever blocos de código                                                                      | Entender a sintaxe do código sem se perder na linguagem padrão ou não estilizada                                | C          |
 | US31                | RF31            | Ser informado da situação do clima na minha região                                             | Saber como está o tempo sem precisar minimizar minha aplicação                                                  | W          |
 
+
+## 2. Priorização do Backlog
+
+### 2.1 Metodologia
+
+A priorização das histórias de usuário do Backlog foi realizada utilizando a Persona Carlos da Silva. O Dono do Produto passou pelas 33 histórias de usuário e pelos respectivos critérios de aceitação, explicando para o interpretador da Persona. Sendo assim, a partir da descrição, dos objetivos pessoais e praticos da Persona, ela decidiu se a história de usuário possui prioridade: baixa, média ou alta. Depois de decidido a prioridade, a persona Carlos da Silva validou se os critérios de aceitação descritos satisfazem ou não a história em questão. 
+
+### 2.2 Participantes 
+
+Os participantes da priorização das histórias de usuário do Backlog:
+
+- Arthur Lima (Dono do Produto)
+- Leonardo Vitoriano (Interpretador da Persona Carlos da Silva)
+
+### 2.3 Gravação 
+
+A gravação da priorização do Backlog a partir da Persona pode ser encontrado nesse link:
+
+- [Vídeo](https://youtu.be/xoBXTkI3cgk)
+
+
+| Requisito | Importância para a persona (baixa, média, alta).  | Os Critérios de aceitação estão corretos para validar a história |
+| --- | --- | --- |
+| US01 | alta | sim |
+| US02 | alta | sim |
+| US03 | alta | sim |
+| US04 | alta | não, confirmação de exclusão antes de excluir |
+| US05 | Alta | sim |
+| US06 | alta | sim |
+| US07 | média | não, icone clicavel para seleçao de fonte adequada |
+| US08 | média | não, icone clicavel para seleçao de fonte adequada |
+| US09 | média | não, icone clicavel para selecao |
+| US10 | média | sim |
+| US11 | média | sim |
+| US12 | baixa | sim |
+| US13 | média | sim |
+| US14 | baixa | sim |
+| US15 | baixa | sim |
+| US16 | alta | sim |
+| US17 | Alta | sim |
+| US18 | Média | sim |
+| US19 | Alta | Sim |
+| US20 | Alta | Sim |
+| US21 | Alta | Sim |
+| US22 | baixa | sim |
+| US23 | Alta | sim |
+| US24 | Alta | sim |
+| US25 | Média | sim |
+| US26 | baixa | sim |
+| US27 | alta | sim |
+| US28 | baixa | sim |
+| US29 | alta | não, gostaria de adicionar tempo inicial e tempo final, cor vermelha para 1 antes de expirar. |
+| US30 | baixa | sim |
+| US31 | baixa | sim |
+| US32 | alta | sim |
+| US33 | alta | sim |
+
+*Tabela 1 - Backlog Scrum*
+
+
 ## Referências Bibliográficas
 
 Andrade, Edson; Uma Comparação Voltada a Interpretação Entre Casos de Uso e Histórias
@@ -101,3 +161,4 @@ https://www.scaledagileframework.com/
 | 1.4    | 02/08/2022 | Adição dos critérios de aceitação US16 - US33          | Arthur Jose e Leonardo Milomes |
 | 1.5    | 02/08/2022 | Adicionando informação inicial backlog                 | Arthur                         |
 | 1.6    | 02/08/2022 | Adicionando resultado backlog scrum                    | Arthur                         |
+
