@@ -19,4 +19,6 @@
   - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
   - [Backlog](modelagem/backlog.md)
   - [NFR Framework](modelagem/nfr_framework.md)
+- **Análise**
+  - [Verificação](verif)
   
