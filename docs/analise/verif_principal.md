@@ -14,23 +14,23 @@
 
 
 ### 4.1 Pré-Rastreabilidade
-[Verificação 01 : Rich Picture](verificacoes/verif_richPicture.md)<br>
+[Verificação 01 : Rich Picture](analise/verificacoes/verif_richPicture.md)<br>
 
 ### 4.2 Elicitação
-[Verificação 02 : Perfil de Usuário](verificacoes/)<br>
-[Verificação 03 : Personas](verificacoes/)<br>
-[Verificação 04 : Introspecção](verificacoes/)<br>
-[Verificação 05 : Questionário](verificacoes/)<br>
-[Verificação 06 : Brainstorming](verificacoes/)<br>
-[Verificação 07 : MoSCoW](verificacoes/)<br>
+[Verificação 02 : Perfil de Usuário](analise/verificacoes/)<br>
+[Verificação 03 : Personas](analise/verificacoes/)<br>
+[Verificação 04 : Introspecção](analise/verificacoes/)<br>
+[Verificação 05 : Questionário](analise/verificacoes/)<br>
+[Verificação 06 : Brainstorming](analise/verificacoes/)<br>
+[Verificação 07 : MoSCoW](analise/verificacoes/)<br>
 
 ### 4.3 Modelagem
-[Verificação 08 : Cenários](verificacoes/verif_cenarios.md)<br>
-[Verificação 09 : Léxicos](verificacoes/)<br>
-[Verificação 10 : Casos de Uso](verificacoes/verif_casosUso.md)<br>
-[Verificação 11 : Especificação Suplementar](verificacoes/)<br>
-[Verificação 12 : NFR-Framework](verificacoes/)<br>
-[Verificação 13 : Backlog](verificacoes/)<br>
+[Verificação 08 : Cenários](analise/verificacoes/verif_cenarios.md)<br>
+[Verificação 09 : Léxicos](analise/verificacoes/)<br>
+[Verificação 10 : Casos de Uso](analise/verificacoes/verif_casosUso.md)<br>
+[Verificação 11 : Especificação Suplementar](analise/verificacoes/)<br>
+[Verificação 12 : NFR-Framework](analise/verificacoes/)<br>
+[Verificação 13 : Backlog](analise/verificacoes/)<br>
 
 ## Histórico de Versões
 | Versão | Data       | Descrição                            | Autor             |
