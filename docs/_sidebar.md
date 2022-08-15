@@ -20,5 +20,5 @@
   - [Backlog](modelagem/backlog.md)
   - [NFR Framework](modelagem/nfr_framework.md)
 - **Análise**
-  - [Verificação](verif)
+  - [Verificação](verificacao/principal.md)
   
