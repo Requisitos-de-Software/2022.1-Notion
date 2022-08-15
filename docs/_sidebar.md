@@ -22,3 +22,4 @@
 - **Análise**
   - *Verificação*
     - [Personas](analise/verificacao_personas)
+    - [Brainstorming](analise/verificacao_brainstorming.md)
