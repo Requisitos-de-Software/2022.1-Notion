@@ -43,7 +43,7 @@ O resultado da checklist do item 2 pode ser encontrado na *tabela 1* abaixo:
 
 *Tabela 1: Resultado da Checklist*
 
-### 2.2 Dados percentuais de Acerto
+### 2.2 Dados Percentuais de Acerto
 
 Tendo como base a *tabela 1* do item 2.1, é possível descrever a porcentagem de sucesso do Rich Picture com relação aos 10 itens definidos na Checklist. A porcentagem de sucesso é descrita da *tabela 2*.
 
