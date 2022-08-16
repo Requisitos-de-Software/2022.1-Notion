@@ -373,7 +373,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C04 Cadastro de página em branco
+### C05 Cadastro de página em branco
 
 <table>
     <thead>
@@ -445,7 +445,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C05 Cadastro de página em branco com ícone
+### C06 Cadastro de página em branco com ícone
 
 <table>
     <thead>
@@ -517,7 +517,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C06 Cadastro de página a partir de template
+### C07 Cadastro de página a partir de template
 
 <table>
     <thead>
@@ -593,7 +593,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C07 Cadastro de página a partir de arquivo
+### C08 Cadastro de página a partir de arquivo
 
 <table>
     <thead>
@@ -669,7 +669,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C08 Cadastro de página a partir de base de dados
+### C09 Cadastro de página a partir de base de dados
 
 <table>
     <thead>
@@ -744,7 +744,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C09 Adicionar link entre páginas
+### C10 Adicionar link entre páginas
 
 <table>
     <thead>
@@ -819,7 +819,7 @@ por Leite [1] e fundamentada nos elementos da Tabela 1.
     </tbody>
 </table>
 
-### C010 Sair da aplicação (<i>logout</i>)
+### C11 Sair da aplicação (<i>logout</i>)
 
 <table>
     <thead>

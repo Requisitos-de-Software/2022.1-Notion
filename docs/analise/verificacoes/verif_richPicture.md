@@ -41,11 +41,21 @@ O resultado da checklist do item 2 pode ser encontrado na *tabela 1* abaixo:
 | 9                 |    Sim      |
 | 10                |    Sim      |
 
-*tabela 1*
+*Tabela 1: Resultado da Checklist*
+
+### 2.2 Dados percentuais de Acerto
+
+Tendo como base a *tabela 1* do item 2.1, é possível descrever a porcentagem de sucesso do Rich Picture com relação aos 10 itens definidos na Checklist. A porcentagem de sucesso é descrita da *tabela 2*.
+
+| Rich Picture| Porcentagem de Sucesso | 
+| - | --- | 
+| 1 | 100% |  
+
+*Tabela 2: Porcentagem de sucesso do Rich Picture*
 
 ## 3. Conclusão
 
-De acordo com a verificação utilizando a checklist desenvolvida, é possível notar que todos os itens foram compridos, portanto o artefato Rich Picture está de acordo com o esperado e não necessita de correções.
+De acordo com a verificação utilizando a checklist desenvolvida, é possível notar que todos os itens foram cumpridos, portanto o artefato Rich Picture está de acordo com o esperado e não necessita de correções.
 
 ## Referência Bibliográfica
 
