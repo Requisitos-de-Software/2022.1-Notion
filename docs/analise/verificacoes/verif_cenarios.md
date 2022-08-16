@@ -62,7 +62,7 @@ Tendo como base a *tabela 1* do item 2.1, é possível descrever a porcentagem d
 | 10| 90%  | 
 | 11| 100% |
 
-*Tabela 2: Porcentagem de sucesso da Checklist*
+*Tabela 2: Porcentagem de sucesso dos Cenários*
 
 ## 3. Conclusão
 
