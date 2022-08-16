@@ -18,10 +18,10 @@
 
 ### 4.2 Elicitação
 [Verificação 02 : Perfil de Usuário](analise/verificacoes/)<br>
-[Verificação 03 : Personas](analise/verificacoes/)<br>
+[Verificação 03 : Personas](analise/verificacoes/verificacao_personas.md)<br>
 [Verificação 04 : Introspecção](analise/verificacoes/)<br>
 [Verificação 05 : Questionário](analise/verificacoes/)<br>
-[Verificação 06 : Brainstorming](analise/verificacoes/)<br>
+[Verificação 06 : Brainstorming](analise/verificacoes/verificacao_brainstorming.md)<br>
 [Verificação 07 : MoSCoW](analise/verificacoes/)<br>
 
 ### 4.3 Modelagem
