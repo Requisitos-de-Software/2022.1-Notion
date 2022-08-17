@@ -24,7 +24,7 @@
 ### 4.3 Modelagem
 
 [Verificação 08 : Cenários](analise/verificacoes/verif_cenarios.md)<br>
-[Verificação 09 : Léxicos](analise/verificacoes/)<br>
+[Verificação 09 : Léxicos](analise/verificacoes/verificacao_lexicos)<br>
 [Verificação 10 : Casos de Uso](analise/verificacoes/verif_casosUso.md)<br>
 [Verificação 11 : Especificação Suplementar](analise/verificacoes/)<br>
 [Verificação 12 : NFR-Framework](analise/verificacoes/)<br>
