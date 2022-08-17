@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 A validação de requisitos é o processo pelo qual se verifica se os requisitos definem o sistema que o cliente realmente quer.
-Elas se propõe à analise, uma vez qeu está preocupada em encontrar problemas com os requisitos.
+Elas se propõe à analise, uma vez que está preocupada em encontrar problemas com os requisitos.
 
 ## 2. Técnicas
 
@@ -24,6 +24,7 @@ de O. Gonçalves ; revisão técnica Kechi Hirama. — 9. ed. — São Paulo : P
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor             |
-| ------ |------------| ----------------- |-------------------|
-| 1.0    | 17/08/2022 | Criação da página | Bernardo Pissutti |
+| Versão | Data       | Descrição                                             | Autor             |
+|--------|------------|-------------------------------------------------------|-------------------|
+| 1.0    | 17/08/2022 | Criação da página                                     | Bernardo Pissutti |
+| 1.1    | 17/08/2022 | Atualização da Página: Correção de Erros Ortográficos | Guilherme Brito   |

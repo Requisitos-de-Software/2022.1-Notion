@@ -99,6 +99,28 @@ A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
 
 _Tabela 5: cronograma da quarta entrega_
 
+### 2.5 Quinta Entrega
+
+A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
+
+| Data          | Atividade                                               | Responsáveis    | Revisores          |
+| ------------- | ------------------------------------------------------- | --------------- | ------------------ |
+| 17/08         | Construção do cronograma de atividade da quinta entrega | Cícero          | Todos              |
+| 15/08 - 17/08 | Validação                                               | Guilherme Brito | Nicolas            |
+| 17/08         | Verificação NFR                                         | Arthur          | Guilherme          |
+| 16/08         | Verificação Personas                                    | Cícero          | Arthur             |
+| 16/08         | Verificação Léxicos                                     | Bernardo        | Cícero             |
+| 15/08         | Verificação Cenários                                    | Leonardo        | Bernardo           |
+| 17/08         | Verificação Priorização                                 | Nicolas         | Leonardo           |
+| 16/08         | Verificação Brainstorming                               | Cícero          | Guilherme e Arthur |
+| 17/08         | Verificação Introspecção                                | Nicolas         | Cícero             |
+| 17/08         | Verificação Perfil do Usuário                           | Bernardo        | Nicolas            |
+| 16/08         | Verificação Backlog                                     | Cícero          | Arthur             |
+| 15/08         | Verificação RichPicture                                 | Leonardo        | Guilherme          |
+| 15/08         | Verificação Casos de uso                                | Leonardo        | Bernardo           |
+
+_Tabela 6: cronograma da quinta entrega_
+
 ## 3. Roadmap e Sprints
 
 O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.
@@ -157,6 +179,18 @@ O backlog da sprint 4 referente ao Épico: Modelagem de Requisitos, representado
 | ---------------------------------------------- |
 | _Figura 8: quadro kanban da sprint 4_          |
 
+#### 3.2.5 Sprint 5
+
+O backlog da sprint 5 referente ao Épico: Verificação e Validação, representado na _Figura 9_, e na _Figura 10_ o kanban board.
+
+| ![image](../_media/SprintBackLog5REQ.png) |
+| ----------------------------------------- |
+| _Figura 9: backlog da sprint 5_           |
+
+| ![image](../_media/QuadroKanbanSprint5REQ.png) |
+| ---------------------------------------------- |
+| _Figura 10: quadro kanban da sprint 5_         |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                                | Autor             |
@@ -167,3 +201,4 @@ O backlog da sprint 4 referente ao Épico: Modelagem de Requisitos, representado
 | 1.3    | 13/07/2022 | Adição do cronograma da segunda entrega                  | Cícero Fernandes  |
 | 1.4    | 18/07/2022 | Adição do cronograma, backlog e kanban board da sprint 3 | Bernardo Pissutti |
 | 1.5    | 02/08/2022 | Adição do cronograma, backlog e kanban board da sprint 4 | Cícero Fernandes  |
+| 1.6    | 17/08/2022 | Adição do cronograma, backlog e kanban board da sprint 5 | Cícero Fernandes  |

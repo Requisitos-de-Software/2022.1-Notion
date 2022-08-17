@@ -27,7 +27,7 @@
 [Verificação 09 : Léxicos](analise/verificacoes/verificacao_lexicos)<br>
 [Verificação 10 : Casos de Uso](analise/verificacoes/verif_casosUso.md)<br>
 [Verificação 11 : Especificação Suplementar](analise/verificacoes/)<br>
-[Verificação 12 : NFR-Framework](analise/verificacoes/)<br>
+[Verificação 12 : NFR-Framework](analise/verificacoes/verificação_nfr_framework.md)<br>
 [Verificação 13 : Backlog](analise/verificacoes/verificacao_backlog.md)<br>
 
 ## Histórico de Versões
