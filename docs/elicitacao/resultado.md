@@ -47,14 +47,13 @@ Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de
 
 _Tabela 1: Requisitos funcionais resultado_
 
-| Código | Requisitos Não Funcionais                                                     | Técnica       |
-| ------ | ----------------------------------------------------------------------------- | ------------- |
-| RNF1   | A interface do sistema deve ser responsiva                                    | Introspecção  |
-| RNF2   | O aplicativo deve ser cross-plataform                                         | Questionário  |
-| RNF3   | As Formulas Matemáticas devem seguir o formato LaTeX.                         | Brainstorming |
-| RNF4   | A sintaxe dos códigos devem seguir uma das linguagens mais recentes.          | Brainstorming |
-| RNF5   | Software deve estar disponível no mínimo 98% do tempo.                        | Introspecção  |
-| RNF6   | A incidência de falhas operacionais deve não exceder 3 a cada 1000 operações. | Introspecção  |
+| Código | Requisitos Não Funcionais                                            | Técnica       |
+| ------ | -------------------------------------------------------------------- | ------------- |
+| RNF1   | Deve ser possível instalar a aplicação em dispositivos android       | Introspecção  |
+| RNF2   | A interface do sistema deve ser responsiva                           | Introspecção  |
+| RNF3   | O aplicativo deve ser cross-plataform                                | Questionário  |
+| RNF4   | As Formulas Matemáticas devem seguir o formato LaTeX.                | Brainstorming |
+| RNF5   | A sintaxe dos códigos devem seguir uma das linguagens mais recentes. | Brainstorming |
 
 _Tabela 2: Requisitos não funcionais resultado_
 
