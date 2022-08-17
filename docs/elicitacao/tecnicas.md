@@ -27,13 +27,12 @@ Foram selecionados dois participantes do grupo para fazer a introspecção, elas
 - Tentando voltar a uma versão antiga da página
 - Organizando as páginas nos workspaces
 
-
 ### 1.5 Resultados
 
 Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela 1_, e não funcionais, mostrados na _Tabela 2_, elicitados como resultado do método de introspecção.
 
 | Código | Requisito                                                                                                  |
-| ------ |------------------------------------------------------------------------------------------------------------|
+| ------ | ---------------------------------------------------------------------------------------------------------- |
 | RF1    | O usuário deve poder criar uma página.                                                                     |
 | RF2    | O usuário deve poder encontrar uma página criada previamente.                                              |
 | RF3    | O usuário deve poder editar uma página.                                                                    |
@@ -63,10 +62,12 @@ Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela
 
 _Tabela 1: Requisitos funcionais_
 
-| Código | Requisito                                                      |
-| ------ | -------------------------------------------------------------- |
-| RNF1   | Deve ser possível instalar a aplicação em dispositivos android |
-| RNF2   | A interface do sistema deve ser responsiva                     |
+| Código | Requisito                                                                     |
+| ------ | ----------------------------------------------------------------------------- |
+| RNF1   | Deve ser possível instalar a aplicação em dispositivos android                |
+| RNF2   | A interface do sistema deve ser responsiva                                    |
+| RNF3   | Software deve estar disponível no mínimo 98% do tempo.                        |
+| RNF4   | A incidência de falhas operacionais deve não exceder 3 a cada 1000 operações. |
 
 _Tabela 2: Requisitos não funcionais_
 
@@ -153,13 +154,13 @@ Com o objetivo de analisar o quão o notion auxilia na vida dos usuários.
 Nessa seção serão apresentados os resultados da técnica de questionário, mostrados na tabela 3 e 4.
 
 | Código | Requisito                                                           |
-|--------| ------------------------------------------------------------------- |
+| ------ | ------------------------------------------------------------------- |
 | RF1    | O usuário deve poder ter uma agenda para visualizar afazeres do dia |
 
 _Tabela 3: Requisitos funcionais_
 
 | Código | Requisito                             |
-|--------| ------------------------------------- |
+| ------ | ------------------------------------- |
 | RNF1   | O aplicativo deve ser cross-plataform |
 
 _Tabela 4: Requisitos não funcionais_
@@ -171,9 +172,11 @@ https://forms.gle/jcfPwYnpMMMfXKDRA
 ## 3. Brainstorming
 
 ### 3.1 Introdução
+
 O brainstorming fornece informações sobre os tipos de conteúdos e características que os usuários querem e desejam em um produto(Courage e Baxter, 2005)
 
 ### 3.2 Método
+
 A sessão de brainstorming foi realizada de 21:20 à 21:30 do dia 11 de julho de 2022. O moderador (Bernardo Pissutti), juntamento com mais 3 membros da equipe
 (Guilherme Brito, Leonardo, Arthur) realizaram o Brainstorming com o auxilio da ferramenta Miro. As conclusões podem ser obsevadas na _Figura 1_ interativa abaixo.
 
@@ -185,18 +188,18 @@ _Figura 1: sessão de brainstorming_
 
 Nessa seção serão apresentados os resultados da técnica de brainstorming, mostrados na _Tabela 3_ e _Tabela 4_.
 
-| Código | Requisito                                                                         |
-|--------|-----------------------------------------------------------------------------------|
-| RF1    | O usuário deve poder criar Formulas matemáticas                                   |
-| RF2    | O usuário deve poder criar seu próprio quadro kanban personalizado                |
-| RF3    | O usuário pode escrever blocos de código                                          |
-| RF4    | O usuário deve ser informado da situação do clima em sua região                   |
-| RF5    | O usuário poderá usar templates compartilhar disponibilizados pela comunidade     |
+| Código | Requisito                                                                     |
+| ------ | ----------------------------------------------------------------------------- |
+| RF1    | O usuário deve poder criar Formulas matemáticas                               |
+| RF2    | O usuário deve poder criar seu próprio quadro kanban personalizado            |
+| RF3    | O usuário pode escrever blocos de código                                      |
+| RF4    | O usuário deve ser informado da situação do clima em sua região               |
+| RF5    | O usuário poderá usar templates compartilhar disponibilizados pela comunidade |
 
 _Tabela 5: Requisitos funcionais_
 
 | Código | Requisito                                                          |
-|--------|--------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------ |
 | RNF1   | As formulas matemáticas devem seguir o formato LaTex               |
 | RNF2   | A sintaxe dos códigos deve seguir uma das linguagens mais recentes |
 
@@ -214,9 +217,8 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                 | Autor             |
-|--------|------------|-------------------------------------------|-------------------|
+| ------ | ---------- | ----------------------------------------- | ----------------- |
 | 1.0    | 13/07/2022 | Adição da técnica de introspecção         | Cícero Fernandes  |
 | 1.1    | 13/07/2022 | Adição da técnica de questionário         | Arthur José       |
 | 1.2    | 13/07/2022 | Adição da técnica de brainstorming        | Bernardo Pissutti |
 | 1.3    | 24/07/2022 | Melhorando a documentação da introspecção | Bernardo Pissutti |
-

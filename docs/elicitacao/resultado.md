@@ -1,13 +1,14 @@
 # Resultados
 
 A partir das técnicas de elicitação brainstorming, introspecção e questionário obtemos os seguintes requisitos, que podem ser divididos em duas categorias:
+
 1.  Os requisitos funcionais (Tabela 1) descrevem o comportamento do sistema, seus requisitos para o funcionamento de cada item, ou seja, os requisitos que descrevem o trabalho que o sistema deve realizar. Eles são os cérebros do projeto porque descrevem as funções que o sistema deve ter.
-2.  Os Requisitos não funcionais (Tabela 2) são aqueles que descrevem não o que o sistema fará, mas como ele fará. Assim, por exemplo, têm-se requisitos de desempenho, requisitos da interface externa do sistema, restrições de projeto e atributos da qualidade. 
+2.  Os Requisitos não funcionais (Tabela 2) são aqueles que descrevem não o que o sistema fará, mas como ele fará. Assim, por exemplo, têm-se requisitos de desempenho, requisitos da interface externa do sistema, restrições de projeto e atributos da qualidade.
 
 Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de elicitação.
 
 | Código | Requisitos Funcionais                                                                                      | Técnica       |
-| ------ |------------------------------------------------------------------------------------------------------------| ------------- |
+| ------ | ---------------------------------------------------------------------------------------------------------- | ------------- |
 | RF1    | O usuário deve poder criar uma página.                                                                     | Introspecção  |
 | RF2    | O usuário deve poder encontrar uma página criada previamente.                                              | Introspecção  |
 | RF3    | O usuário deve poder editar uma página.                                                                    | Introspecção  |
@@ -40,25 +41,26 @@ Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de
 | RF30   | O usuário pode escrever blocos de código.                                                                  | Brainstorming |
 | RF31   | O usuário deve ser informado da situação do clima em sua região.                                           | Brainstorming |
 
-| RF32   | O usuário deve conseguir criar uma conta                                         | Brainstorming |
+| RF32 | O usuário deve conseguir criar uma conta | Brainstorming |
 
-| RF33   | O usuário deve conseguir realizar logout                                          | Brainstorming |
+| RF33 | O usuário deve conseguir realizar logout | Brainstorming |
 
 _Tabela 1: Requisitos funcionais resultado_
 
-| Código | Requisitos Não Funcionais                                            | Técnica       |
-| ------ | -------------------------------------------------------------------- | ------------- |
-| RNF1   | Deve ser possível instalar a aplicação em dispositivos android       | Introspecção  |
-| RNF2   | A interface do sistema deve ser responsiva                           | Introspecção  |
-| RNF3   | O aplicativo deve ser cross-plataform                                | Questionário  |
-| RNF4   | As Formulas Matemáticas devem seguir o formato LaTeX.                | Brainstorming |
-| RNF5   | A sintaxe dos códigos devem seguir uma das linguagens mais recentes. | Brainstorming |
+| Código | Requisitos Não Funcionais                                                     | Técnica       |
+| ------ | ----------------------------------------------------------------------------- | ------------- |
+| RNF1   | A interface do sistema deve ser responsiva                                    | Introspecção  |
+| RNF2   | O aplicativo deve ser cross-plataform                                         | Questionário  |
+| RNF3   | As Formulas Matemáticas devem seguir o formato LaTeX.                         | Brainstorming |
+| RNF4   | A sintaxe dos códigos devem seguir uma das linguagens mais recentes.          | Brainstorming |
+| RNF5   | Software deve estar disponível no mínimo 98% do tempo.                        | Introspecção  |
+| RNF6   | A incidência de falhas operacionais deve não exceder 3 a cada 1000 operações. | Introspecção  |
 
 _Tabela 2: Requisitos não funcionais resultado_
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                     | Autor  |
-| ------ | ---------- | ----------------------------- | ------ |
-| 1.0    | 13/07/2022 | Criação dos resultados gerais | Arthur |
+| Versão | Data       | Descrição                       | Autor           |
+| ------ | ---------- | ------------------------------- | --------------- |
+| 1.0    | 13/07/2022 | Criação dos resultados gerais   | Arthur          |
 | 1.1    | 13/07/2022 | Removendo Requisitos Duplicados | Guilherme Brito |
