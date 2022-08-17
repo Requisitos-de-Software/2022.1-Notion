@@ -22,9 +22,21 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YLnvhw-rwyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 4. Apresentação 4
+
+### 4.1 Vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXsPHoARWYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 5. Apresentação 5
+
+### 5.1 Vídeo
+
+
 ## Histórico de Versões
 | Versão | Data  | Descrição                                   | Autor             |
 |--------|-------|---------------------------------------------|-------------------|
 | 1.0    | 11/07 | Criação do histórico de versões do artefato | Bernardo Pissutti |
 | 1.1    | 13/07 | Adição do vídeo da entrega 2                | Bernardo Pissutti |
 | 1.2    | 20/07 | Adição do vídeo da entrega 3                | Bernardo Pissutti |
+| 1.3    | 05/08 | Adição do vídeo da entrega 4                | Bernardo Pissutti |
