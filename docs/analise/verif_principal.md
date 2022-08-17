@@ -14,7 +14,7 @@
 
 ### 4.2 Elicitação
 
-[Verificação 02 : Perfil de Usuário](analise/verificacoes/)<br>
+[Verificação 02 : Perfil de Usuário](analise/verificacoes/verificacao_perfil_de_usuario.md)<br>
 [Verificação 03 : Personas](analise/verificacoes/verificacao_personas.md)<br>
 [Verificação 04 : Introspecção](analise/verificacoes/)<br>
 [Verificação 05 : Questionário](analise/verificacoes/)<br>

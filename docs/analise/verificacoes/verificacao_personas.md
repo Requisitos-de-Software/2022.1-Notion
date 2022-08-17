@@ -47,8 +47,8 @@ _Tabela 2: legendas_
 
 ### 2.2 Dados Percentuais de Acerto
 
-Tendo como base a _Tabela 1_ do item 2.1, é possível descrever a porcentagem de sucesso do Rich Picture com
-relação aos 10 itens definidos na Checklist. A porcentagem de sucesso é descrita da _Tabela 3_.
+Tendo como base a _Tabela 1_ do item 2.1, é possível descrever a porcentagem de sucesso do artefato Personas com
+relação aos 8 itens definidos na Checklist. A porcentagem de sucesso é descrita da _Tabela 3_.
 
 | Artefato | Porcentagem de sucesso |
 | -------- | ---------------------- |
