@@ -4,7 +4,7 @@
 
 - Técnica utilizada: Inspeção com checklist.
 - Autor do documento: Cícero Fernandes.
-- Inspetor: .
+- Inspetor: Bernardo Pissutti
 
 O documento verificado está <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos">aqui</a>
 
@@ -62,6 +62,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor |
-| ------ | ---------- | ------------------- | ----- |
-| 1.0    | 16/08/2022 | Criação do Artefato |       |
+| Versão | Data       | Descrição           | Autor             |
+| ------ | ---------- | ------------------- | ----------------- |
+| 1.0    | 16/08/2022 | Criação do Artefato | Bernardo Pissutti |
