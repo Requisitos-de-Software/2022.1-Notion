@@ -20,31 +20,31 @@ interdependências</i>, se ramificam em dois e os procedimentos de avaliação e
 
 #### NFR
 
-Representa os Requisitos Não-Funcionais e tem sua representação gráfica na Figura 1.
+Representa os Requisitos Não-Funcionais e tem sua representação gráfica na _Figura 1_.
 
-| Figura 1: Softgoal NFR |
-|---------|
+| Figura 1: Softgoal NFR               |
+|--------------------------------------|
 | ![image](../_media/softgoal_nfr.png) |
-| Fonte: (CHUNG et al., 2000) |
+| Fonte: (CHUNG et al., 2000)          |
 
 #### Operacionalização
 
-Representam operações, processos e estruturações utilizados para satisfazer os softgoals NFR.
+Representam operações, processos e estruturações utilizados para satisfazer os softgoals NFR, tem sua representação na _Figura 2_.
 
-| Figura 2: Softgoal de Operacionalização |
-|----------------------------------------|
+| Figura 2: Softgoal de Operacionalização            |
+|----------------------------------------------------|
 | ![image](../_media/softgoal_operacionalizacao.png) |
-| Fonte: (CHUNG et al., 2000) |
+| Fonte: (CHUNG et al., 2000)                        |
 
 #### Afirmação
 
 Apoiam as tarefas de priorização e refinamento dos softgoals. Em suma, embasam as tomadas de decisão e os rumos do
-sistema.
+sistema, tem sua representação na _Figura 3_.
 
-| Figura 3: Softgoal de Afirmação        |
-|----------------------------------------|
+| Figura 3: Softgoal de Afirmação             |
+|---------------------------------------------|
 | ![image](../_media/softgoal_afirmacao.jpeg) |
-| Fonte: (CHUNG et al., 2000) |
+| Fonte: (CHUNG et al., 2000)                 |
 
 ### 2.2 Interdependências
 
@@ -72,7 +72,7 @@ que expressm a relação de decomposição.
 
 #### Contribuição <i>AND</i>:
 
-Se os <i>softgoals</i> descendentes forem satisfeitos os ascendentes também o serão. Exemplo na Figura 5.
+Se os <i>softgoals</i> descendentes forem satisfeitos os ascendentes também o serão. Exemplo na _Figura 5_.
 
 | Figura 5: Exemplo de contribuição <i>AND</i> entre softgoals NFR|
 |----------------------------------------|
@@ -87,7 +87,7 @@ Se ao menos um dos <i>softgoals</i> descendentes for satisfeito o ascendente tam
 O objetivo aqui é determinar em que medida um conjunto de decisões satisfaz os requisitos não funcionais, determinando
 se cada
 softgoal ou interdependência do SIG foi suficientemente satisfeito. Para isso, são atribuídos rótulos aos softgoals
-conforme a Figura 6.
+conforme a _Figura 6_.
 
 | Figura 6: Rótulos utilizados pelos softgoals|
 |----------------------------------------|
@@ -96,14 +96,14 @@ conforme a Figura 6.
 
 ## 3. Diagramas
 
-Optamos por destacar três categorias de requisitos importados do modelo FURPS - confiabilidade, usabilidade e
-portabilidade.
+Optamos por destacar três categorias de requisitos importados do modelo FURPS - confiabilidade (Figura 10 e 11), usabilidade (Figura 8 e 9) e
+portabilidade (Figura 12 e 13).
 
 ### Usabilidade - sem propagação
 
-| ![image](../_media/usabilidade_sem_propagacao.jpg) |
-|----------------------------------------|
-| Figura 8: Análise sem propagação do aspecto de usabilidade|
+| ![image](../_media/usabilidade_sem_propagacao.jpg)         |
+|------------------------------------------------------------|
+| Figura 8: Análise sem propagação do aspecto de usabilidade |
 
 ### Usabilidade - com propagação
 
@@ -146,7 +146,7 @@ in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                         | Autor                        |
-|--------|------------|---------------------------------------------------|------------------------------|
-| 1.0    | 30/07/2021 | Escrita da introdução, legenda e                  | Nicolas Georgeos Mantzos                      |
-| 1.1    | 02/07/2021 | Inserção de NFR de Confiabilidade e Portabilidade | Guilherme Brito Vilas - Bôas |
+| Versão | Data       | Descrição                                         | Autor                           |
+|--------|------------|---------------------------------------------------|---------------------------------|
+| 1.0    | 30/07/2021 | Escrita da introdução, legenda e                  | Nicolas Georgeos Mantzos        |
+| 1.1    | 02/07/2021 | Inserção de NFR de Confiabilidade e Portabilidade | Guilherme Brito Vilas - Bôas    |

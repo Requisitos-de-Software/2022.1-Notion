@@ -31,7 +31,8 @@ das histórias de usuário descritas nesse arquivo podem ser encontrados na segu
 
 ### 1.1 Épicos
 
-Um épico é uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. O épico deve ser separado em histórias de usuário menores. Para o nosso projeto, foram definidos 2 grandes épicos principais.
+Um épico é uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. O épico deve ser separado em histórias de usuário menores.
+Para o nosso projeto, foram definidos 2 grandes épicos principais, o épico de gerenciamento de perfil (tabela 1) e o épico de gerenciamento de página (tabela 2).
 
 #### Épico 01: Gerenciamento de Perfil
 

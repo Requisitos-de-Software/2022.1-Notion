@@ -49,7 +49,7 @@ _Tabela 2: Coletânea de Relações em um Diagrama de Caso de Uso e seus signifi
 <br/>
 <br/>
 
-Após análise do app selecionado e tomando como base os requisitos elicitados na seção [Elicitação](../elicitacao/resultado.md), a construção dos Diagramas de Casos de Uso foi feita e pode ser vista nas imagens abaixo:
+Após análise do app selecionado e tomando como base os requisitos elicitados na seção [Elicitação](../elicitacao/resultado.md), a construção dos Diagramas de Casos de Uso foi feita e pode ser vista nas Figuras 1,2 e 3 abaixo:
 
 |![US_Conta](../_media/us_conta.png)|
 |:--:|
