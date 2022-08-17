@@ -24,8 +24,11 @@ Bernardo Pissutti
 
 Ainda não obtivemos resposta.
 
+_Data: 17/08/2022 - 20:28h_
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor             |
-| ------ |------------| ----------------- |-------------------|
-| 1.0    | 17/08/2022 | Criação da página | Bernardo Pissutti |
+| Versão | Data       | Descrição                                          | Autor              |
+|--------|------------|----------------------------------------------------|--------------------|
+| 1.0    | 17/08/2022 | Criação da página                                  | Bernardo Pissutti  |
+| 1.1    | 17/08/2022 | Adição da data de verificação da resposta ao email | Bernardo Pissutti  |
