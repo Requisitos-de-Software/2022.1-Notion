@@ -2,7 +2,7 @@
 
 ## 1. Envio do E-mail
 
-No dia 17 de agosto de 2022 o integrante Bernardo Pissutti enviou o seguinte mensagem ao e-mail institucional do Notion:
+No dia 17 de agosto de 2022 o integrante Bernardo Pissutti enviou o seguinte mensagem ao e-mail institucional do Notion (_Figura 1_):
 
 > Hello Team Notion, my name is Bernardo Pissutti, and I'm looking for assistance in a Requirement Engineering project. 
 I'm a software student at University of Brasilia - Brazil, and I'm taking a software requirement subject. In order to
@@ -13,6 +13,12 @@ The documentation can be found in the following link: https://requisitos-de-soft
 Thank you in advance for your help.<br/>
 Regards,<br/>
 Bernardo Pissutti
+
+
+
+| ![email_enviado](../../_media/email_enviado.png) |
+|--------------------------------------------------|
+| _Figura 1_: e-mail enviado a equipe notion       |
 
 ## 2. Resposta
 
