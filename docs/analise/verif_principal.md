@@ -12,13 +12,12 @@ o autor da inspeção.
 
 ### 1.2 Apresentação
 
-Essa etapafoi omitida pois os inspetores possuem conhecimento sobre o projeto e os artefatos que devem
+Essa etapa foi omitida pois os inspetores possuem conhecimento sobre o projeto e os artefatos que devem
 ser inspecionados.
 
-### 1.3 Preparação
+### 1.3 Reunião
 
-Os inspetores devem estudar o artefato individualmente, e eventualmente fazer anotações sobre estees produzindo
-uma lista de descrepâncias.
+Uma reunião em equipe ocorre, envolvendo o moderador, os inspetores e os autores do documento. Discrepâncias são discutidas, e classificadas como defeito ou falso positivos.
 
 ### 1.4 Preparação
 
