@@ -10,7 +10,7 @@ O documento verificado está <a href="https://requisitos-de-software.github.io/2
 
 ## 2. Checklist
 
-Tendo como base o que foi pontuado na apresentação da priorização e explanado por ..., as perguntas na tabela 1 foram levantadas para avaliar a qualidade do artefato.
+Tendo como base o que foi pontuado na apresentação da priorização, as perguntas da tabela 1 foram levantadas para avaliar a qualidade do artefato.
 
 | Pergunta | Número |
 | ----------------- | ----------- |
@@ -50,12 +50,8 @@ Tendo como base a *tabela 2*, houve cumprimento de 50% dos questionamentos levan
 *Tabela 2: Porcentagem de sucesso da priorização*
 
 ## 3. Conclusão
-Tendo em vista a tabela 2, uma quantidade considerável de aspectos relevantes para a qualidade da priorização não foi realizada. Leia-se, não houve participação de personas e usuários (itens 5 e 6)
+Uma quantidade considerável de aspectos relevantes para a qualidade da priorização não foi realizada. Leia-se, não houve participação de personas e usuários (itens 5 e 6)
 nem a utilização de técnicas de priorização além do tradicional MOSCOW (item 2), aspectos que exigem a correção do artefato.
-
-## Referência Bibliográfica
-
-REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. 2018.
 
 ## Histórico de Versões
 | Versão | Data       | Descrição                            | Autor             |

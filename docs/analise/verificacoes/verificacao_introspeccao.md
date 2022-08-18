@@ -10,7 +10,7 @@ O documento verificado está <a href="https://requisitos-de-software.github.io/2
 
 ## 2. Checklist
 
-Tendo como base o que foi pontuado na apresentação da técnica de introspecção e explanado por ..., as perguntas na tabela 1 foram levantadas para avaliar a qualidade do artefato.
+Tendo como base o que foi pontuado na apresentação da técnica de introspecção, as perguntas da tabela 1 foram levantadas para avaliar a qualidade do artefato.
 
 | Pergunta | Número |
 | ----------------- | ----------- |
@@ -19,7 +19,6 @@ Tendo como base o que foi pontuado na apresentação da técnica de introspecç�
 | Os resultados da utilização da técnica foram apresentados?   |    3
 | A quantidade e diversidade das introspecções é grande?    |    4
 | A quantidade e diversidade dos requisitos elicitados é grande?   |    5
-
 
 *Tabela 1: Perguntas para verificação do artefato de priorização*
 
@@ -30,31 +29,26 @@ O resultado da checklist da *tabela 1* pode ser encontrado na *tabela 2*.
 | Item | Realizada |
 | ----------------- | ----------- |
 | 1                 |    Sim      |
-| 2                 |    Não      |
+| 2                 |    Sim      |
 | 3                 |    Sim      |
-| 4                 |    Sim      |
-| 5                 |    Não      |
-| 6                 |    Não      |
+| 4                 |    Não      |
+| 5                 |    Sim      |
 
 *Tabela 2: Resultado da verificação*
 
 ### 2.2 Dados Percentuais de Acerto
 
-Tendo como base a *tabela 2*, houve cumprimento de 50% dos questionamentos levantados.
+Tendo como base a *tabela 2*, houve cumprimento de 80% dos questionamentos levantados.
 
-| Priorização | Porcentagem de Sucesso |
+| Introspecção | Porcentagem de Sucesso |
 | --- | --- |
 | 1 | 50% |
 
-*Tabela 2: Porcentagem de sucesso da priorização*
+*Tabela 2: Porcentagem de sucesso da introspecção*
 
 ## 3. Conclusão
-Tendo em vista a tabela 2, uma quantidade considerável de aspectos relevantes para a qualidade da priorização não foi realizada. Leia-se, não houve participação de personas e usuários (itens 5 e 6)
-nem a utilização de técnicas de priorização além do tradicional MOSCOW (item 2), aspectos que exigem a correção do artefato.
-
-## Referência Bibliográfica
-
-REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. 2018.
+Boa parte dos aspectos elicitados na tabela 1 foram cumpridos/implementados na introspecção, entretanto uma variedade pequena dela foi realizada, o que
+eventualmente contribuiria para a quantidade e variedade dos requisitos que, embora tenha sido cumprida, ainda possui espaço para melhorias.  
 
 ## Histórico de Versões
 | Versão | Data       | Descrição                            | Autor             |
