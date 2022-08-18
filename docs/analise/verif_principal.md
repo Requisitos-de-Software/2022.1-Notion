@@ -48,6 +48,9 @@ qualidade do artefato inspecionado.
 [Verificação 05 : Questionário](analise/verificacoes/)<br>
 [Verificação 06 : Brainstorming](analise/verificacoes/verificacao_brainstorming.md)<br>
 [Verificação 07 : MoSCoW](analise/verificacoes/)<br>
+[Verificação 08 : Introspecção](analise/verificacoes/verificacao_introspeccao)<br>
+[Verificação 09 : Priorização](analise/verificacoes/verificacao_priorizacao)<br>
+
 
 ### 2.3 Modelagem
 
