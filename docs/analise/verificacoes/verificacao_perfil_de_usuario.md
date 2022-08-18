@@ -25,7 +25,7 @@ O resultado do checklist do item 2 pode ser encontrado na _Tabela 1_ e sua legen
 |-----------|----------|
 | 1         | ✓        |
 | 2         | ✓        |
-| 3         | ✘        |
+| 3         | ✓        |
 | 4         | ✘        |
 
 _Tabela 1: critério de aceitação para o artefato_
@@ -42,9 +42,9 @@ _Tabela 2: legendas_
 Tendo como base a _Tabela 1_ do item 2.1, é possível descrever a porcentagem de sucesso do Perfil de Usuário com
 relação aos 4 itens definidos na Checklist. A porcentagem de sucesso é descrita da _Tabela 3_.
 
-| Artefato      | Porcentagem de sucesso |
-| ------------- |------------------------|
-| Brainstorming | 50%                    |
+| Artefato          | Porcentagem de sucesso |
+|-------------------|------------------------|
+| Perfil de Usuário | 75%                    |
 
 _Tabela 3: porcentagem de sucesso do perfil de usuário_
 
