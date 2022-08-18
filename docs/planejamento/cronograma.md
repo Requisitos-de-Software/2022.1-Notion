@@ -103,21 +103,22 @@ _Tabela 5: cronograma da quarta entrega_
 
 A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
 
-| Data          | Atividade                                               | Responsáveis    | Revisores          |
-| ------------- | ------------------------------------------------------- | --------------- | ------------------ |
-| 17/08         | Construção do cronograma de atividade da quinta entrega | Cícero          | Todos              |
-| 15/08 - 17/08 | Validação                                               | Guilherme Brito | Nicolas            |
-| 17/08         | Verificação NFR                                         | Arthur          | Guilherme          |
-| 16/08         | Verificação Personas                                    | Cícero          | Arthur             |
-| 16/08         | Verificação Léxicos                                     | Bernardo        | Cícero             |
-| 15/08         | Verificação Cenários                                    | Leonardo        | Bernardo           |
-| 17/08         | Verificação Priorização                                 | Nicolas         | Leonardo           |
-| 16/08         | Verificação Brainstorming                               | Cícero          | Guilherme e Arthur |
-| 17/08         | Verificação Introspecção                                | Nicolas         | Cícero             |
-| 17/08         | Verificação Perfil do Usuário                           | Bernardo        | Nicolas            |
-| 16/08         | Verificação Backlog                                     | Cícero          | Arthur             |
-| 15/08         | Verificação RichPicture                                 | Leonardo        | Guilherme          |
-| 15/08         | Verificação Casos de uso                                | Leonardo        | Bernardo           |
+| Data          | Atividade                                               | Responsáveis               | Revisores          |
+| ------------- | ------------------------------------------------------- | -------------------------- | ------------------ |
+| 17/08         | Construção do cronograma de atividade da quinta entrega | Cícero                     | Todos              |
+| 15/08 - 17/08 | Validação                                               | Guilherme Brito e Bernardo | Nicolas            |
+| 17/08         | Verificação NFR                                         | Arthur                     | Guilherme          |
+| 16/08         | Verificação Personas                                    | Cícero                     | Arthur             |
+| 16/08         | Verificação Léxicos                                     | Bernardo                   | Cícero             |
+| 15/08         | Verificação Cenários                                    | Leonardo                   | Bernardo           |
+| 17/08         | Verificação Priorização                                 | Nicolas                    | Leonardo           |
+| 16/08         | Verificação Brainstorming                               | Cícero                     | Guilherme e Arthur |
+| 17/08         | Verificação Introspecção                                | Nicolas                    | Cícero             |
+| 17/08         | Verificação Perfil do Usuário                           | Bernardo                   | Nicolas            |
+| 16/08         | Verificação Backlog                                     | Cícero                     | Arthur             |
+| 15/08         | Verificação RichPicture                                 | Leonardo                   | Guilherme          |
+| 15/08         | Verificação Casos de uso                                | Leonardo                   | Bernardo           |
+| 17/08         | Gravação da entrega 5                                   | Todos                      | Todos              |
 
 _Tabela 6: cronograma da quinta entrega_
 
