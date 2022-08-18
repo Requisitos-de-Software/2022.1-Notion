@@ -42,23 +42,20 @@ qualidade do artefato inspecionado.
 
 ### 2.2 Elicitação
 
-[Verificação 02 : Perfil de Usuário](analise/verificacoes/verificacao_perfil_de_usuario.md)<br>
-[Verificação 03 : Personas](analise/verificacoes/verificacao_personas.md)<br>
-[Verificação 04 : Introspecção](analise/verificacoes/verificacao_introspeccao)<br>
-[Verificação 05 : Questionário](analise/verificacoes/)<br>
-[Verificação 06 : Brainstorming](analise/verificacoes/verificacao_brainstorming.md)<br>
-[Verificação 07 : MoSCoW](analise/verificacoes/)<br>
-[Verificação 08 : Priorização](analise/verificacoes/verificacao_priorizacao)<br>
+[Verificação 01 : Perfil de Usuário](analise/verificacoes/verificacao_perfil_de_usuario.md)<br>
+[Verificação 02 : Personas](analise/verificacoes/verificacao_personas.md)<br>
+[Verificação 03 : Introspecção](analise/verificacoes/verificacao_introspeccao)<br>
+[Verificação 04 : Brainstorming](analise/verificacoes/verificacao_brainstorming.md)<br>
+[Verificação 05 : Priorização](analise/verificacoes/verificacao_priorizacao)<br>
 
 
 ### 2.3 Modelagem
 
-[Verificação 09 : Cenários](analise/verificacoes/verif_cenarios.md)<br>
-[Verificação 10 : Léxicos](analise/verificacoes/verificacao_lexicos)<br>
-[Verificação 11 : Casos de Uso](analise/verificacoes/verif_casosUso.md)<br>
-[Verificação 12 : Especificação Suplementar](analise/verificacoes/)<br>
-[Verificação 13 : NFR-Framework](analise/verificacoes/verificação_nfr_framework.md)<br>
-[Verificação 14 : Backlog](analise/verificacoes/verificacao_backlog.md)<br>
+[Verificação 01 : Cenários](analise/verificacoes/verif_cenarios.md)<br>
+[Verificação 02 : Léxicos](analise/verificacoes/verificacao_lexicos)<br>
+[Verificação 03 : Casos de Uso](analise/verificacoes/verif_casosUso.md)<br>
+[Verificação 04 : NFR-Framework](analise/verificacoes/verificação_nfr_framework.md)<br>
+[Verificação 05 : Backlog](analise/verificacoes/verificacao_backlog.md)<br>
 
 
 ## Referências Bibliográficas
