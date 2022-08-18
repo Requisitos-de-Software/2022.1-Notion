@@ -21,3 +21,4 @@
   - [NFR Framework](modelagem/nfr_framework.md)
 - **Análise**
   - [Verificação](analise/verif_principal.md)
+  - [Validação](analise/valid_principal.md)

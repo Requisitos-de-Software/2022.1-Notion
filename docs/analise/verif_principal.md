@@ -14,7 +14,7 @@
 
 ### 4.2 Elicitação
 
-[Verificação 02 : Perfil de Usuário](analise/verificacoes/)<br>
+[Verificação 02 : Perfil de Usuário](analise/verificacoes/verificacao_perfil_de_usuario.md)<br>
 [Verificação 03 : Personas](analise/verificacoes/verificacao_personas.md)<br>
 [Verificação 04 : Introspecção](analise/verificacoes/)<br>
 [Verificação 05 : Questionário](analise/verificacoes/)<br>
@@ -27,7 +27,7 @@
 [Verificação 09 : Léxicos](analise/verificacoes/verificacao_lexicos)<br>
 [Verificação 10 : Casos de Uso](analise/verificacoes/verif_casosUso.md)<br>
 [Verificação 11 : Especificação Suplementar](analise/verificacoes/)<br>
-[Verificação 12 : NFR-Framework](analise/verificacoes/)<br>
+[Verificação 12 : NFR-Framework](analise/verificacoes/verificação_nfr_framework.md)<br>
 [Verificação 13 : Backlog](analise/verificacoes/verificacao_backlog.md)<br>
 
 ## Histórico de Versões
