@@ -32,6 +32,8 @@
 
 ### 5.1 Vídeo
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R68u76lHA3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Histórico de Versões
 | Versão | Data  | Descrição                                   | Autor             |
@@ -40,3 +42,4 @@
 | 1.1    | 13/07 | Adição do vídeo da entrega 2                | Bernardo Pissutti |
 | 1.2    | 20/07 | Adição do vídeo da entrega 3                | Bernardo Pissutti |
 | 1.3    | 05/08 | Adição do vídeo da entrega 4                | Bernardo Pissutti |
+| 1.4    | 17/08 | Adição do vídeo da entrega 5                | Bernardo Pissutti |
