@@ -8,8 +8,8 @@ Nessa sessão serão apresentados os léxicos desenvolvidos durante a disciplina
 
 Os léxicos seguem a tabela 1 como modelo referência:
 
-| Tipo   | Noção                                                              | Impacto                                                                                 | Sinônimos            |
-| ------ | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | -------------------- |
+| Tipo   |  Noção                                                             |  Impacto                                                                                | Sinônimos            |
+|--------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------|
 | Verbo  | Quem realiza, quando acontece e quais procedimentos são envolvidos | Quais os reflexos da ação                                                               | Sinônimos do símbolo |
 | Objeto | Definir o objeto e outros objetos com os quais se relaciona        | Ações que podem ser aplicadas ao objeto                                                 | Sinônimos do símbolo |
 | Estado | O que significa e quais ações levaram a esse estado                | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve | Sinônimos do símbolo |
@@ -23,14 +23,14 @@ _Tabela 1: Modelo para os léxicos (SERRANO, Requisitos - Aula 10)_
 #### Cadastro
 
 | Tipo  | Noção                               | Impacto                                                                                                      | Sinônimos            |
-| ----- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------- |
+|-------|-------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------|
 | Verbo | O usuário se cadastra na plataforma | O usuário conseguirá fazer login a partir da conta cadastrada e terá acesso as funcionalidades do aplicativo | Registrar, inscrever |
 
 #### Criar
 
-| Tipo  | Noção                                                       | Impacto                                                                          | Sinônimos          |
-| ----- | ----------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------ |
-| Verbo | O usuário cria uma página na plataforma quando ele precisar | A página do usuário será salva na base de dados relacionada ao cadastro do mesmo | Produzir, fabricar |
+| Tipo   | Noção                                                       | Impacto                                                                          | Sinônimos          |
+|--------|-------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------|
+| Verbo  | O usuário cria uma página na plataforma quando ele precisar | A página do usuário será salva na base de dados relacionada ao cadastro do mesmo | Produzir, fabricar |
 
 #### Compartilhar
 

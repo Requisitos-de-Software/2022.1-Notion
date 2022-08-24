@@ -93,8 +93,8 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RF29 | O usuário deve poder criar seu próprio quadro kanban personalizado.                                        | S          |
 | RF30 | O usuário pode escrever blocos de código.                                                                  | C          |
 | RF31 | O usuário deve ser informado da situação do clima em sua região.                                           | W          |
-| RF32 | O usuário deve conseguir criar uma conta.      | M          |
-| RF33 | O usuário deve conseguir realizar logout   | M          |
+| RF32 | O usuário deve conseguir criar uma conta.                                                                  | M          |
+| RF33 | O usuário deve conseguir realizar logout                                                                   | M          |
 | RNF1 | Deve ser possível instalar a aplicação em dispositivos android                                             | S          |
 | RNF2 | A interface do sistema deve ser responsiva                                                                 | S          |
 | RNF3 | O aplicativo deve ser cross-plataform                                                                      | S          |

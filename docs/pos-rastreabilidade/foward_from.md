@@ -4,7 +4,7 @@
 
 ## 2. Foward-From 
 
-| Número | Requisito                 | Cenário | Casos de Uso | História de Usuário | 
+| Número | Requisito                 | Cenário | Casos de Uso | História de Usuário |
 | -------| ------------------------- | ------- | ------------ | ------------------- |
 | 1      |          -                |     -   |      -       |          -          |
 
@@ -15,5 +15,5 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 ## Histórico de Versões
 
 | Versão | Data       | Descrição         | Autor            |
-| ------ | ---------- | ----------------- | ---------------- |
-| 1.0    | 23/07/2022 | Criação da página | Leonardo Vitoriano |
+| ------ |------------| ----------------- | ---------------- |
+| 1.0    | 23/08/2022 | Criação da página | Leonardo Vitoriano |

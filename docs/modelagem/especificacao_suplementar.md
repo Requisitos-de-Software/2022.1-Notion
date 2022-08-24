@@ -21,14 +21,14 @@ compatibilidade, configurabilidade, instalabilidade, escalabilidade entre outros
 ## 2. Resultado
 O resultado da classificação dos requisitos utilizando o método FURPS pode ser observada na _Tabela 1_.
 
-| Requisito | Categoria      | Rastro        |
-|-----------|----------------|---------------|
-| RNF1      | **S**uportability  | Introspecção  |
-| RNF2      | **U**sability      | Introspecção  |
-| RNF3      | **S**uportability  | Questionário  |
-| RNF4      | **U**sability      | Brainstorming |
-| RNF5      | **S**urportability | Brainstorming |
-
+| Requisito | Categoria          | Rastro         |
+|-----------|--------------------|----------------|
+| RNF1      | **S**uportability  | Introspecção   |
+| RNF2      | **U**sability      | Introspecção   |
+| RNF3      | **S**uportability  | Questionário   |
+| RNF4      | **U**sability      | Brainstorming  |
+| RNF5      | **S**urportability | Brainstorming  |
+ 
 _Tabela 1: resultado da modelagem utilizando o método FURPS_
 
 ## Referências Bibliográficas

@@ -36,7 +36,7 @@ Um épico é uma história de usuário que ainda não foi detalhada, é muito gr
 #### Épico 01: Gerenciamento de Perfil
 
 | História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de... | Para poder...                         | Prioridade |
-| ------------------- | --------------- | -------------------------------- | ------------------------------------- | ---------- |
+|---------------------|-----------------|----------------------------------|---------------------------------------|------------|
 | US1                 | RF1             | Criar uma página                 | Escrever minhas anotações             | M          |
 | US5                 | RF5             | Me autenticar no sistema         | Ter acesso às funcionalidades do app  | M          |
 | US32                | RF32            | Criar uma conta                  | Acessar as funcionalidades do sistema | M          |
@@ -47,7 +47,7 @@ _Tabela 1: histórias de usuário do épico 1_
 #### Épico 02: Gerenciamento de Página
 
 | História de Usuário | Rastreabilidade | Eu, como usuário, gostaria de...                                                               | Para poder...                                                                                                   | Prioridade |
-| ------------------- | --------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
+|---------------------|-----------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------|
 | US2                 | RF2             | Encontrar uma página criada previamente                                                        | Ver as informações escritas nela                                                                                | M          |
 | US3                 | RF3             | Editar uma página                                                                              | Para ter controle total sobre ela caso falhe em algum item e precise editá-lo                                   | M          |
 | US4                 | RF4             | Excluir uma página                                                                             | Remover ela das páginas existentes                                                                              | M          |
