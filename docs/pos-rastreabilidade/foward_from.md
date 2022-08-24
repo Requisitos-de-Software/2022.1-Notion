@@ -32,8 +32,6 @@ A partir da definição de rastreabilidade foward-from, foi possível construir 
 _Tabela 1: Foward-From_
 ## Referências Bibliográficas
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
-
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2020. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de Versões
