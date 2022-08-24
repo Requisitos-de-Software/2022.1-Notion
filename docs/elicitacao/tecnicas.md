@@ -31,43 +31,43 @@ Foram selecionados dois participantes do grupo para fazer a introspecção, elas
 
 Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela 1_, e não funcionais, mostrados na _Tabela 2_, elicitados como resultado do método de introspecção.
 
-| Código | Requisito                                                                                                  |
-| ------ | ---------------------------------------------------------------------------------------------------------- |
-| RF1    | O usuário deve poder criar uma página.                                                                     |
-| RF2    | O usuário deve poder encontrar uma página criada previamente.                                              |
-| RF3    | O usuário deve poder editar uma página.                                                                    |
-| RF4    | O usuário deve poder excluir uma página quando desejado.                                                   |
-| RF5    | O usuário deve poder ser autenticado no sistema.                                                           |
-| RF6    | O usuário deve poder pesquisar as páginas já criadas pelo nome delas.                                      |
-| RF7    | O usuário deve poder escolher em qual fonte editar suas páginas.                                           |
-| RF8    | O usuário deve poder escolher entre o tamanho de fonte grande e pequena.                                   |
-| RF9    | O usuário deve poder escolher se o texto ocupa toda a largura da página ou se fica centralizado na página. |
-| RF10   | O usuário deve poder ver o histórico de alterações da página.                                              |
-| RF11   | O usuário deve poder favoritar a página.                                                                   |
-| RF12   | O usuário deve poder compartilhar o link para a página.                                                    |
-| RF13   | O usuário deve poder escolher a aparência do sistema.                                                      |
-| RF14   | O usuário deve poder escolher uma foto de identificação para cada página.                                  |
-| RF15   | O usuário deve poder escolher uma foto de identificação para o workspace.                                  |
-| RF16   | O usuário deve poder ter quantos workspaces desejar.                                                       |
-| RF17   | O usuário deve poder escolher entre opções de templates para uma página criada.                            |
-| RF18   | O usuário deve poder ver o histórico de páginas deletadas.                                                 |
-| RF19   | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                                |
-| RF20   | O usuário deve poder adicionar fotos a página.                                                             |
-| RF21   | O usuário deve poder referenciar outras páginas dentro de uma página.                                      |
-| RF22   | O usuário deve poder adicionar outros perfis para editar uma página.                                       |
-| RF23   | O usuário deve poder adicionar uma legenda às imagens da página.                                           |
-| RF24   | O usuário deve poder escrever comentários nas páginas.                                                     |
-| RF25   | O usuário deve poder criar blocos de markdown para editar as páginas.                                      |
-| RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                 |
+| Código  | Requisito                                                                                                  |
+|---------|------------------------------------------------------------------------------------------------------------|
+| RF1     | O usuário deve poder criar uma página.                                                                     |
+| RF2     | O usuário deve poder encontrar uma página criada previamente.                                              |
+| RF3     | O usuário deve poder editar uma página.                                                                    |
+| RF4     | O usuário deve poder excluir uma página quando desejado.                                                   |
+| RF5     | O usuário deve poder ser autenticado no sistema.                                                           |
+| RF6     | O usuário deve poder pesquisar as páginas já criadas pelo nome delas.                                      |
+| RF7     | O usuário deve poder escolher em qual fonte editar suas páginas.                                           |
+| RF8     | O usuário deve poder escolher entre o tamanho de fonte grande e pequena.                                   |
+| RF9     | O usuário deve poder escolher se o texto ocupa toda a largura da página ou se fica centralizado na página. |
+| RF10    | O usuário deve poder ver o histórico de alterações da página.                                              |
+| RF11    | O usuário deve poder favoritar a página.                                                                   |
+| RF12    | O usuário deve poder compartilhar o link para a página.                                                    |
+| RF13    | O usuário deve poder escolher a aparência do sistema.                                                      |
+| RF14    | O usuário deve poder escolher uma foto de identificação para cada página.                                  |
+| RF15    | O usuário deve poder escolher uma foto de identificação para o workspace.                                  |
+| RF16    | O usuário deve poder ter quantos workspaces desejar.                                                       |
+| RF17    | O usuário deve poder escolher entre opções de templates para uma página criada.                            |
+| RF18    | O usuário deve poder ver o histórico de páginas deletadas.                                                 |
+| RF19    | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                                |
+| RF20    | O usuário deve poder adicionar fotos a página.                                                             |
+| RF21    | O usuário deve poder referenciar outras páginas dentro de uma página.                                      |
+| RF22    | O usuário deve poder adicionar outros perfis para editar uma página.                                       |
+| RF23    | O usuário deve poder adicionar uma legenda às imagens da página.                                           |
+| RF24    | O usuário deve poder escrever comentários nas páginas.                                                     |
+| RF25    | O usuário deve poder criar blocos de markdown para editar as páginas.                                      |
+| RF26    | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                 |
 
 _Tabela 1: Requisitos funcionais_
 
-| Código | Requisito                                                                     |
-| ------ | ----------------------------------------------------------------------------- |
-| RNF1   | Deve ser possível instalar a aplicação em dispositivos android                |
-| RNF2   | A interface do sistema deve ser responsiva                                    |
-| RNF3   | Software deve estar disponível no mínimo 98% do tempo.                        |
-| RNF4   | A incidência de falhas operacionais deve não exceder 3 a cada 1000 operações. |
+| Código  | Requisito                                                                     |
+|---------|-------------------------------------------------------------------------------|
+| RNF1    | Deve ser possível instalar a aplicação em dispositivos android                |
+| RNF2    | A interface do sistema deve ser responsiva                                    |
+| RNF3    | Software deve estar disponível no mínimo 98% do tempo.                        |
+| RNF4    | A incidência de falhas operacionais deve não exceder 3 a cada 1000 operações. |
 
 _Tabela 2: Requisitos não funcionais_
 

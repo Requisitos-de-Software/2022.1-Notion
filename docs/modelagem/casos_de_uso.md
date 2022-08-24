@@ -78,9 +78,9 @@ UML DIAGRAMS - Use Case Diagrams -  https://www.uml-diagrams.org/use-case-diagra
 
 ## Histórico de Versões
 
-| Versão | Data             | Descrição                                                   | Autor               |
-| ------ |------------------|-------------------------------------------------------------|---------------------|
-|  1.0   | 19/07/2022       |      Criação da Página e Incorporação de Texto Introdutório |     Guilherme Brito |
+| Versão | Data        | Descrição                                               | Autor             |
+|--------|-------------|---------------------------------------------------------|-------------------|
+| 1.0    | 19/07/2022  |  Criação da Página e Incorporação de Texto Introdutório | Guilherme Brito   |
 <style>
     .img_table{
         height: 150px;
