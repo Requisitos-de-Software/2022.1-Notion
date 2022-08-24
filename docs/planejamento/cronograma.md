@@ -122,6 +122,20 @@ A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
 
 _Tabela 6: cronograma da quinta entrega_
 
+### 2.6 Sexta Entrega
+
+A _Tabela 6_ aborda as atividades feitas para a sexta entrega.
+
+| Data  | Atividade                                              | Responsáveis               | Revisores            |
+| ----- | ------------------------------------------------------ | -------------------------- | -------------------- |
+| 24/08 | Construção do cronograma de atividade da sexta entrega | Cícero                     | Todos                |
+| 24/08 | EAP                                                    | Guilherme Brito e Bernardo | Nicolas e Arthur     |
+| 24/08 | Forward-from                                           | Cícero e Leo               | Bernardo e Guilherme |
+| 24/08 | Backward-from                                          | Nicolas e Arthur           | Leonardo e Cícero    |
+| 24/08 | Gravação da sexta entrega                              | Nicolas e Arthur           | Leonardo e Cícero    |
+
+_Tabela 7: cronograma da sexta entrega_
+
 ## 3. Roadmap e Sprints
 
 O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.
@@ -192,6 +206,18 @@ O backlog da sprint 5 referente ao Épico: Verificação e Validação, represen
 | ---------------------------------------------- |
 | _Figura 10: quadro kanban da sprint 5_         |
 
+#### 3.2.6 Sprint 6
+
+O backlog da sprint 6 referente ao Épico: Verificação e Validação, representado na _Figura 9_, e na _Figura 10_ o kanban board.
+
+| ![image](../_media/SprintBackLog6REQ.png) |
+| ----------------------------------------- |
+| _Figura 9: backlog da sprint 6_           |
+
+| ![image](../_media/QuadroKanbanSprint6REQ.png) |
+| ---------------------------------------------- |
+| _Figura 10: quadro kanban da sprint 6_         |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                                | Autor             |
@@ -203,3 +229,4 @@ O backlog da sprint 5 referente ao Épico: Verificação e Validação, represen
 | 1.4    | 18/07/2022 | Adição do cronograma, backlog e kanban board da sprint 3 | Bernardo Pissutti |
 | 1.5    | 02/08/2022 | Adição do cronograma, backlog e kanban board da sprint 4 | Cícero Fernandes  |
 | 1.6    | 17/08/2022 | Adição do cronograma, backlog e kanban board da sprint 5 | Cícero Fernandes  |
+| 1.7    | 24/08/2022 | Adição do cronograma, backlog e kanban board da sprint 6 | Cícero Fernandes  |
