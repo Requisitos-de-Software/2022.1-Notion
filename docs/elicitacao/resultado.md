@@ -7,7 +7,6 @@ A partir das técnicas de elicitação brainstorming, introspecção e question�
 
 Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de elicitação.
 
-<<<<<<< HEAD
 | Código | Requisitos Funcionais                                                                                      | Técnica        |
 |--------|------------------------------------------------------------------------------------------------------------|----------------|
 | RF1    | O usuário deve poder criar uma página.                                                                     | Introspecção   |
@@ -43,7 +42,7 @@ Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de
 | RF31   | O usuário deve ser informado da situação do clima em sua região.                                           | Brainstorming  |
 | RF32   | O usuário deve conseguir criar uma conta                                                                   | Brainstorming  |
 | RF33   | O usuário deve conseguir realizar logout                                                                   | Brainstorming  |
-=======
+
 | Código | Requisitos Funcionais                                                                                      | Técnica       |
 | ------ | ---------------------------------------------------------------------------------------------------------- | ------------- |
 | RF1    | O usuário deve poder criar uma página.                                                                     | Introspecção  |
