@@ -23,6 +23,6 @@
   - [Verificação](analise/verif_principal.md)
   - [Validação](analise/valid_principal.md)
 - **Pós-Rastreabilidade**
-  - [Foward-from](pos-rastreabilidade/foward_from.md)
-  - [Backward-from](pos-rastreabilidade/backward_from.md)
+  - [Foward-From](pos-rastreabilidade/foward_from.md)
+  - [Backward-From](pos-rastreabilidade/backward_from.md)
   - [Matriz Geral](pos-rastreabilidade/matriz_geral.md)
