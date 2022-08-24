@@ -51,17 +51,17 @@ _Tabela 2: Coletânea de Relações em um Diagrama de Caso de Uso e seus signifi
 
 Após análise do app selecionado e tomando como base os requisitos elicitados na seção [Elicitação](../elicitacao/resultado.md), a construção dos Diagramas de Casos de Uso foi feita e pode ser vista nas imagens abaixo:
 
-### US-Conta
+### UC-Conta
 |![US_Conta](../_media/us_conta.png)|
 |:--:|
 |Figura 1: Diagrama de Casos de Uso referentes a Autenticação |
 
-### US-Documento
+### UC-Documento
 |![US_Conta](../_media/us_documento.png)|
 |:--:|
 |Figura 2: Diagrama de Casos de Uso referentes a Documentos |
 
-### US-Workspace
+### UC-Workspace
 |![US_Conta](../_media/us_workspace.png)|
 |:--:|
 |Figura 3: Diagrama de Casos de Uso referentes a Workspaces |
