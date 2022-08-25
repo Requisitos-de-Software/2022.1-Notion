@@ -68,7 +68,6 @@ Marina Costa, engenheira de software - "quem planeja não se atrapalha"
 
 Descrição: Marina Costa possui 26 anos, formada em Engenharia de Software, e já é Desenvolvedora Pleno. Ela mora em Águas Claras, apartamento próprio e divide teto apenas com seus 4 gatos. Devido a facilidade dela com tecnologia em geral, ela organiza tanto a sua vida pessoal quanto profissional em 5 aplicativos. Porém, está insatisfeita com a perda de tempo em abrir e fechar os apps para encontrar onde está o planejamento que realizou para, no final, não encontrá-lo. Agora, ela procura um único app capaz de resolver o problema.
 
-
 Objetivos pessoais:
 - não perder tempo
 - conseguir planejar  e
