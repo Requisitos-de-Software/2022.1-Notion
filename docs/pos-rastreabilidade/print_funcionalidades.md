@@ -24,53 +24,89 @@
 ## RF4
 | ![Print](../_media/funcionalidades/excl_pag.png) |
 |--------------------------------------------------|
-| Figura 3: funcionalidade de excluir página       |
+| Figura 4: funcionalidade de excluir página       |
 
 ## RF6
 | ![Print](../_media/funcionalidades/pesq_pag.png)               |
 |----------------------------------------------------------------|
-| Figura 3: funcionalidade de pesquisar por uma página já criada |
+| Figura 5: funcionalidade de pesquisar por uma página já criada |
 
 ## RF7
 
-| ![Print](../_media/funcionalidades/font_pag.png)               |
-|----------------------------------------------------------------|
-| Figura 3: funcionalidade de pesquisar por uma página já criada |
-
+| ![Print](../_media/funcionalidades/font_pag.png)   |
+|----------------------------------------------------|
+| Figura 6: funcionalidade de mudar fonte da página  |
 
 
 ## RF8
-![Print](../_media/funcionalidades/tam_font_pag.png)
+| ![Print](../_media/funcionalidades/tam_font_pag.png) |
+|------------------------------------------------------|
+| Figura 7: funcionalidade de mudar o tamanho da fonte |
+
+
 
 ## RF9
-![Print](../_media/funcionalidades/larg_text_pag.png)
+
+| ![Print](../_media/funcionalidades/larg_text_pag.png)     |
+|-----------------------------------------------------------|
+| Figura 8: funcionalidade de usar a lagura toda da página  |
+
+
 
 ## RF10
-![Print](../_media/funcionalidades/hist_page.png)
+| ![Print](../_media/funcionalidades/hist_page.png)                |
+|------------------------------------------------------------------|
+| Figura 9: funcionalidade de ler o histórico de updates da página |
 
 ## RF11
-![Print](../_media/funcionalidades/fav_pag.png)
+
+| ![Print](../_media/funcionalidades/fav_pag.png)   |
+|---------------------------------------------------|
+| Figura 10: funcionalidade de favoritar uma página |
 
 ## RF12
-![Print](../_media/funcionalidades/link_pag.png)
+| ![Print](../_media/funcionalidades/link_pag.png)                       |
+|------------------------------------------------------------------------|
+| Figura 11: funcionalidade de copiar o link da página para compartilhar |
 
 ## RF13
-![Print](../_media/funcionalidades/aparen_sist.png)
+
+| ![Print](../_media/funcionalidades/aparen_sist.png)       |
+|-----------------------------------------------------------|
+| Figura 12: funcionalidade de mudar a aparência do sistema |
 
 ## RF14
-![Print](../_media/funcionalidades/foto_id_pag.png)
+
+| ![Print](../_media/funcionalidades/foto_id_pag.png)                    |
+|------------------------------------------------------------------------|
+| Figura 13: funcionalidade de adicionar foto de identificação da página |
+
 
 ## RF15
-![Print](../_media/funcionalidades/foto_id_work.png)
+
+| ![Print](../_media/funcionalidades/foto_id_work.png)                      |
+|---------------------------------------------------------------------------|
+| Figura 14: funcionalidade de adicionar foto de identificação ao workspace |
 
 ## RF17
-![Print](../_media/funcionalidades/template_pag.png)
+
+| ![Print](../_media/funcionalidades/template_pag.png)         |
+|--------------------------------------------------------------|
+| Figura 15: funcionalidade de usar um template para a página  |
 
 ## RF18
-![Print](../_media/funcionalidades/hist_dele_pag.png)
+
+| ![Print](../_media/funcionalidades/hist_dele_pag.png)                 |
+|-----------------------------------------------------------------------|
+| Figura 15: funcionalidade de adicionar histórico de páginas deletadas |
+
 
 ## RF19
-![Print](../_media/funcionalidades/import_pag.png)
+
+| ![Print](../_media/funcionalidades/import_pag.png)            |
+|---------------------------------------------------------------|
+| Figura 15: funcionalidade de importar arquivos de outros apps |
+
 
 ## RF20
 ![Print](../_media/funcionalidades/img_pag.png)
