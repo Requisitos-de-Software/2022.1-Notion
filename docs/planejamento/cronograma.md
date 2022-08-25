@@ -129,7 +129,7 @@ A _Tabela 6_ aborda as atividades feitas para a sexta entrega.
 | Data  | Atividade                                              | Responsáveis               | Revisores            |
 | ----- | ------------------------------------------------------ | -------------------------- | -------------------- |
 | 24/08 | Construção do cronograma de atividade da sexta entrega | Cícero                     | Todos                |
-| 24/08 | EAP                                                    | Guilherme Brito e Bernardo | Nicolas e Arthur     |
+| 24/08 | Matriz Geral                                           | Guilherme Brito e Bernardo | Nicolas e Arthur     |
 | 24/08 | Forward-from                                           | Cícero e Leo               | Bernardo e Guilherme |
 | 24/08 | Backward-from                                          | Nicolas e Arthur           | Leonardo e Cícero    |
 | 24/08 | Gravação da sexta entrega                              | Nicolas e Arthur           | Leonardo e Cícero    |
