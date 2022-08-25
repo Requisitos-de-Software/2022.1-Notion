@@ -79,7 +79,7 @@ _Tabela 2: Requisitos não funcionais resultado_
 
 | Categoria | Satifação |
 |--------| ----------------------|
-| Desenvolvimento       |   - [C05: Cadastro de página em branco](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco)  <br> - [LX02 - Criar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar)                  |
+| Desenvolvimento       |   [C05: Cadastro de página em branco](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco)  <br> [LX02 - Criar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar)                  |
 
 ## E2 (RF3)
 
