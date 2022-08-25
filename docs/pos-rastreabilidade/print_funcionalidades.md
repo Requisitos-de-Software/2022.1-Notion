@@ -2,20 +2,20 @@
 
 ## RF1
 
-| ![Print](../_media/funcionalidades/add_page.png)  |
-| ------------------------------------------------- |
-| Figura 1: funcionalidade de criar uma página nova |
+| ![Print](../_media/funcionalidades/add_page.png)   |
+|----------------------------------------------------|
+| Figura 1: funcionalidade de criar uma página nova  |
 
 ## RF2
 
-| ![Print](../_media/funcionalidades/pag_criad_prev.png) |
-| ------------------------------------------------------ |
-| Figura 2: funcionalidade de visualizar páginas criadas |
+| ![Print](../_media/funcionalidades/pag_criad_prev.png)  |
+|---------------------------------------------------------|
+| Figura 2: funcionalidade de visualizar páginas criadas  |
 
 ## RF3
 
 | ![Print](../_media/funcionalidades/edit_pag.png) |
-| ------------------------------------------------ |
+|--------------------------------------------------|
 | Figura 3: funcionalidade de editar página        |
 
 ## RF4
@@ -39,11 +39,10 @@
 
 
 ## RF8
+
 | ![Print](../_media/funcionalidades/tam_font_pag.png) |
 |------------------------------------------------------|
 | Figura 7: funcionalidade de mudar o tamanho da fonte |
-
-
 
 ## RF9
 
@@ -51,9 +50,8 @@
 |-----------------------------------------------------------|
 | Figura 8: funcionalidade de usar a lagura toda da página  |
 
-
-
 ## RF10
+
 | ![Print](../_media/funcionalidades/hist_page.png)                |
 |------------------------------------------------------------------|
 | Figura 9: funcionalidade de ler o histórico de updates da página |
@@ -65,6 +63,7 @@
 | Figura 10: funcionalidade de favoritar uma página |
 
 ## RF12
+
 | ![Print](../_media/funcionalidades/link_pag.png)                       |
 |------------------------------------------------------------------------|
 | Figura 11: funcionalidade de copiar o link da página para compartilhar |
@@ -128,49 +127,49 @@
 ## RF24
 
 | ![Print](../_media/funcionalidades/escre_coment.png) |
-| ---------------------------------------------------- |
+|------------------------------------------------------|
 | Figura 21: Escrever comentários na página            |
 
 ## RF25
 
 | ![Print](../_media/funcionalidades/criar_block.png) |
-| --------------------------------------------------- |
+|-----------------------------------------------------|
 | Figura 22: Criar bloco para editar as páginas       |
 
 ## RF26
 
 | ![Print](../_media/funcionalidades/criar_block.png) |
-| --------------------------------------------------- |
+|-----------------------------------------------------|
 | Figura 23: Escolher entre opções de bloco           |
 
 ## RF27
 
 | ![Print](../_media/funcionalidades/agenda.png) |
-| ---------------------------------------------- |
+|------------------------------------------------|
 | Figura 24: Criar agenda                        |
 
 ## RF28
 
 | ![Print](../_media/funcionalidades/criar_equa.png) |
-| -------------------------------------------------- |
+|----------------------------------------------------|
 | Figura 25: Criar equação matemática                |
 
 ## RF30
 
 | ![Print](../_media/funcionalidades/criar_codig.png) |
-| --------------------------------------------------- |
+|-----------------------------------------------------|
 | Figura 26: Criar bloco de código na página          |
 
 ## RF32
 
 | ![Print](../_media/funcionalidades/criar_conta.png) |
-| --------------------------------------------------- |
+|-----------------------------------------------------|
 | Figura 27: Criar conta                              |
 
 ## RF33
 
 | ![Print](../_media/funcionalidades/logout.png) |
-| ---------------------------------------------- |
+|------------------------------------------------|
 | Figura 28: Fazer logout                        |
 
 ## Histórico de Versões
