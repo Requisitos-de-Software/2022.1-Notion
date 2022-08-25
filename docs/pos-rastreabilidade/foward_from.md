@@ -1,7 +1,5 @@
 # Rastreabilidade Forward-From
 
-[fotos](pos-rastreabilidade/print_funcionalidades.md)
-
 ## 1. Introdução
 
 Para entender a rastreablidade Foward-From, primeiro é necessário entender o conceito de rastreabilidade. Portanto, rastreabilidade pode ser entendida como uma característica de sistemas, nos quais requisitos são claramente ligados às suas fontes bem como aos artefatos criados durante o ciclo de vida de desenvolvimento do sistema.
