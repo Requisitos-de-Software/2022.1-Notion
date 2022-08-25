@@ -1,32 +1,32 @@
-# Fotos das Funcionalidades
+# Figuras das Funcionalidades
 
 ## RF1
 
 | ![Print](../_media/funcionalidades/add_page.png)  |
-|---------------------------------------------------|
+| ------------------------------------------------- |
 | Figura 1: funcionalidade de criar uma página nova |
-
 
 ## RF2
 
 | ![Print](../_media/funcionalidades/pag_criad_prev.png) |
-|--------------------------------------------------------|
+| ------------------------------------------------------ |
 | Figura 2: funcionalidade de visualizar páginas criadas |
-
 
 ## RF3
 
 | ![Print](../_media/funcionalidades/edit_pag.png) |
-|--------------------------------------------------|
+| ------------------------------------------------ |
 | Figura 3: funcionalidade de editar página        |
 
-
 ## RF4
+
 | ![Print](../_media/funcionalidades/excl_pag.png) |
 |--------------------------------------------------|
 | Figura 4: funcionalidade de excluir página       |
 
+
 ## RF6
+
 | ![Print](../_media/funcionalidades/pesq_pag.png)               |
 |----------------------------------------------------------------|
 | Figura 5: funcionalidade de pesquisar por uma página já criada |
@@ -98,52 +98,83 @@
 
 | ![Print](../_media/funcionalidades/hist_dele_pag.png)                 |
 |-----------------------------------------------------------------------|
-| Figura 15: funcionalidade de adicionar histórico de páginas deletadas |
+| Figura 16: funcionalidade de adicionar histórico de páginas deletadas |
 
 
 ## RF19
 
 | ![Print](../_media/funcionalidades/import_pag.png)            |
 |---------------------------------------------------------------|
-| Figura 15: funcionalidade de importar arquivos de outros apps |
-
+| Figura 17: funcionalidade de importar arquivos de outros apps |
 
 ## RF20
-![Print](../_media/funcionalidades/img_pag.png)
+
+| ![Print](../_media/funcionalidades/img_pag.png) |
+|-------------------------------------------------|
+| Figura 18: Adicionar fotos na página            |
 
 ## RF21
-![Print](../_media/funcionalidades/mensi_pag.png)
+
+| ![Print](../_media/funcionalidades/mensi_pag.png)             |
+|---------------------------------------------------------------|
+| Figura 19: Referenciar outras páginas dentro de alguma página |
 
 ## RF23
-![Print](../_media/funcionalidades/leg_img.png)
+
+| ![Print](../_media/funcionalidades/leg_img.png) |
+|-------------------------------------------------|
+| Figura 20: Adicionar legendas nas imagens       |
 
 ## RF24
-![Print](../_media/funcionalidades/escre_coment.png)
+
+| ![Print](../_media/funcionalidades/escre_coment.png) |
+| ---------------------------------------------------- |
+| Figura 21: Escrever comentários na página            |
 
 ## RF25
-![Print](../_media/funcionalidades/criar_block.png)
+
+| ![Print](../_media/funcionalidades/criar_block.png) |
+| --------------------------------------------------- |
+| Figura 22: Criar bloco para editar as páginas       |
 
 ## RF26
-![Print](../_media/funcionalidades/criar_block.png)
+
+| ![Print](../_media/funcionalidades/criar_block.png) |
+| --------------------------------------------------- |
+| Figura 23: Escolher entre opções de bloco           |
 
 ## RF27
-![Print](../_media/funcionalidades/agenda.png)
+
+| ![Print](../_media/funcionalidades/agenda.png) |
+| ---------------------------------------------- |
+| Figura 24: Criar agenda                        |
 
 ## RF28
-![Print](../_media/funcionalidades/criar_equa.png)
+
+| ![Print](../_media/funcionalidades/criar_equa.png) |
+| -------------------------------------------------- |
+| Figura 25: Criar equação matemática                |
 
 ## RF30
-![Print](../_media/funcionalidades/criar_codig.png)
+
+| ![Print](../_media/funcionalidades/criar_codig.png) |
+| --------------------------------------------------- |
+| Figura 26: Criar bloco de código na página          |
 
 ## RF32
-![Print](../_media/funcionalidades/criar_conta.png)
+
+| ![Print](../_media/funcionalidades/criar_conta.png) |
+| --------------------------------------------------- |
+| Figura 27: Criar conta                              |
 
 ## RF33
-![Print](../_media/funcionalidades/logout.png)
 
+| ![Print](../_media/funcionalidades/logout.png) |
+| ---------------------------------------------- |
+| Figura 28: Fazer logout                        |
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor              |
-|--------|------------|-------------------|--------------------|
-| 1.0    | 24/08/2022 | Criação da página | Beranrdo Pissutti  |
+| Versão | Data       | Descrição         | Autor             |
+| ------ | ---------- | ----------------- |-------------------|
+| 1.0    | 24/08/2022 | Criação da página | Bernardo Pissutti |
