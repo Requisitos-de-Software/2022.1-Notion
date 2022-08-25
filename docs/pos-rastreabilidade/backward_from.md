@@ -26,6 +26,53 @@ A partir da definição de rastreabilidade foward-from, foi possível construir 
 
 _Tabela 1: Foward-From_
 
+
+## Elos
+Os elos de rastreabilidade agilizam Na identificação de componentes atingidos por mudanças de versão do sistema operacional e/ou na troca de hardware, Reutilização de componentes, sendo os elos de rastreabilidade fortes aliados na criação de bibliotecas de componentes, pois deixam evidentes as correlações entre código e demais artefatos, sejam de desenho e/ou de requisitos, auxiliando na gerência de qualidade dos artefatos.
+
+
+### Metodologia
+
+Para a criação do elos foram utilizados o Meta-modelo de Toranzo, Onde São categorizados em quatro níveis:
+- ambiental: refere-se ao ambiente onde a organização está inserida
+- organizacional: informações pertencentes à organização (missão,objetivos e estratégias)
+- gerencial: : informações que auxiliam a gerência do projeto,
+- desenvolvimento: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento
+
+E são providos de descrição dos elos de rastreabilidade:
+
+- Satifação:  classe origem tem dependência de satisfação com a classe destino.
+- Recurso: classe origem tem dependência de recurso com a classe destino.
+- Responsabilidade: representa a ação de pessoas sobre os artefatos.
+- Representação:  captura a representação ou modelagem dos requisitos em outras linguagens.
+- Alocado:  classe origem está relacionada à classe destino, que representa um subsistema.
+- Agregação: indica “composição” de elementos.
+
+  
+### Conteúdo
+
+Categoria: Desenvolvimento Elo:
+
+Representação: RF1 representa [C05](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco) e [LX02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar).
+
+#### Categoria: Desenvolvimento Elo:
+
+Satifação: RF3 Satifaz [LX07](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar)
+
+#### Categoria: Desenvolvimento Elo:
+
+Satifação: RF4 Satifaz [LX06](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletar)
+
+#### Categoria: Desenvolvimento Elo:
+
+Satifação:  [LX01](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=cadastro) satifaz RF5
+
+#### Categoria: Desenvolvimento Elo:
+
+Satifação: [UC02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento) satifaz RF6, RF7, RF8
+
+
+
 ## Referências Bibliográficas
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2020. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
@@ -35,3 +82,4 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2020. 44 slides. 
 | Versão | Data       | Descrição         | Autor            |
 | ------ | ---------- | ----------------- | ---------------- |
 | 1.0    | 23/08/2022 | Criação da página e escrita das seções *Introdução* e *Backward-from* | Arthur Lima e Nícolas Georgeos Mantzos |
+| 1.0    | 23/08/2022 | Criação dos Elos 1 a 9 | Arthur Lima e Nícolas Georgeos Mantzos |
