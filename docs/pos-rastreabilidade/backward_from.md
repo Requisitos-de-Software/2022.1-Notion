@@ -1,6 +1,10 @@
 ## 1. Introdução
 
-## 2. Backward-from
+A estratégia de rastreabilidade de requisitos *backward-from* liga os requisitos às suas fontes, identificando suas origens bem como conexões entre elas, facilitando
+assim a visualização da trajetória inicial do requisito e como se deu seu percurso ao longo dos diferentes métodos (inspeção, brainstorming... ).
+
+Na prática, esse "fluxo" pode ser representado por meio da chamada *Matriz de Rastreabilidade*, que pontua o requisito e aponta para os artefatos que lhe antecederam e/ou serviram de base; 
+ou, ainda, pelo *Meta-modelo de Toranzo* onde os ditos "elos" representam essa origem.
 
 ## Metodologia
 
@@ -19,7 +23,7 @@ E são providos de descrição dos elos de rastreabilidade:
 - Alocado:  classe origem está relacionada à classe destino, que representa um subsistema.
 - Agregação: indica “composição” de elementos.
 
-### 2.1 Matriz
+### 2.1 Matriz de Rastreabilidade
 
 A partir da definição de rastreabilidade foward-from, foi possível construir a _tabela 1_, a qual é responsável por conectar os requisitos com os respectivos artefatos de desenho e implementação, tais quais os cenários, casos de uso e histórias de usuário. Na descrição dos requisitos também foi realizado um link para os léxicos.
 
@@ -69,119 +73,101 @@ _Tabela 1: Requisitos funcionais resultado_
 | RNF5   | A sintaxe dos códigos devem seguir uma das linguagens mais recentes. | Brainstorming |  Todas |
 _Tabela 2: Requisitos não funcionais resultado_
 
-### 2.1 Elos
+### 2.2 Elos
 
 ## E1 (RF1)
 
-**Categoria**: Desenvolvimento
-
-**Elo**:
-
-Satifação: [C05](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco) e [LX02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar).
+| Categoria | Satifação |
+|--------| ----------------------|
+| Desenvolvimento       |   - [C05: Cadastro de página em branco](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco)  <br> - [LX02 - Criar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar)                  |
 
 ## E2 (RF3)
 
-**Categoria**: Desenvolvimento
+| Categoria | Satifação |
+|--------| ----------------------|
+| Desenvolvimento       |   [LX07 - Editar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar)                |
 
-**Elo**:
+## E3
 
-Satifação: [LX07](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar)
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF4| Desenvolvimento       |   [LX06 - Deletar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletar)                |
 
-## E3 (RF4)
+## E4
 
-**Categoria**: Desenvolvimento
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF5| Desenvolvimento       |   [LX01 - Cadastro](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=cadastro)                |
 
-**Elo**:
+## E5
 
-- Satifação: [LX06](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletar)
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF10| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>                |
 
-## E4 (RF5)
+## E6
 
-**Categoria**: Desenvolvimento
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF11| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>                |
 
-**Elo**:
+## E7
 
-- Satifação: [LX01](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=cadastro)
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF12| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-workspace">US-Workspace</a> <br>  <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=compartilhar">LV-Compartilhar</a>                |
 
-## E5 (RF10)
 
-**Categoria**: Desenvolvimento
+## E8
 
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF13| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> <br> <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c03-cadastro-de-workspace">C03-Cadastro de workspace</a>                |
 
-## E6 (RF11)
+## E9
 
-**Categoria**: Desenvolvimento
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF14| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> <br> <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar">LV-Editar</a>                |
 
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
+## E10 
 
-## E7 (RF12)
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF15| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>               |
 
-**Categoria**: Desenvolvimento
+## E11 
 
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-workspace">US-Workspace</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=compartilhar">LV-Compartilhar</a>
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF17| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c07-cadastro-de-p%c3%a1gina-a-partir-de-template">C7 - Cadastro de página a partir de template</a>                |
 
-## E8 (RF13)
+## E12 
 
-**Categoria**: Desenvolvimento
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF18| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletados-recentemente">LXO - Deletados recentemente</a>                |
 
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c03-cadastro-de-workspace">C03-Cadastro de workspace</a>
 
-## E9 (RF14)
+## E13
 
-**Categoria**: Desenvolvimento
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF19| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c09-cadastro-de-p%c3%a1gina-a-partir-de-base-de-dados">C9 - Cadastro de página a partir de base de dados</a>                |
 
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar">LV-Editar</a>
+## E14
 
-## E10 (RF15)
-
-**Categoria**: Desenvolvimento
-
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
-
-## E11 (RF17)
-
-**Categoria**: Desenvolvimento
-
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c07-cadastro-de-p%c3%a1gina-a-partir-de-template">C7 - Cadastro de página a partir de template</a>
-
-## E12 (RF18)
-
-**Categoria**: Desenvolvimento
-
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletados-recentemente">LO - Deletados recentemente</a>
-
-## E13 (RF19)
-
-**Categoria**: Desenvolvimento
-
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c09-cadastro-de-p%c3%a1gina-a-partir-de-base-de-dados">C9 - Cadastro de página a partir de base de dados</a>
-
-## E14 (RF20)
-
-**Categoria**: Desenvolvimento
-
-**Elo**:
-- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF20| Desenvolvimento       |   <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>               |
 
 ## E15
 
-**Categoria**: Desenvolvimento
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF6, RF7 e RF8| Desenvolvimento       |   [UC02 - Documento](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento)                |
 
-**Elo**:
-- Satisfação: [UC02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento) satifaz RF6, RF7, RF8.
 
-## Elos
-Os elos de rastreabilidade agilizam Na identificação de componentes atingidos por mudanças de versão do sistema operacional e/ou na troca de hardware, Reutilização de componentes, sendo os elos de rastreabilidade fortes aliados na criação de bibliotecas de componentes, pois deixam evidentes as correlações entre código e demais artefatos, sejam de desenho e/ou de requisitos, auxiliando na gerência de qualidade dos artefatos.
 
 ## Referências Bibliográficas
 
