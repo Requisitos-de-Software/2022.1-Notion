@@ -75,17 +75,17 @@ _Tabela 2: Requisitos não funcionais resultado_
 
 ### 2.2 Elos
 
-## E1 (RF1)
+## E1
 
-| Categoria | Satifação |
-|--------| ----------------------|
-| Desenvolvimento       |   [C05: Cadastro de página em branco](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco)  <br> [LX02 - Criar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar)                  |
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF1| Desenvolvimento       |   [C05: Cadastro de página em branco](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco)  <br> [LX02 - Criar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar)                  |
 
-## E2 (RF3)
+## E2 
 
-| Categoria | Satifação |
-|--------| ----------------------|
-| Desenvolvimento       |   [LX07 - Editar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar)                |
+Requisito| Categoria | Satifação |
+--------|--------| ----------------------|
+RF3 | Desenvolvimento       |   [LX07 - Editar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar)                |
 
 ## E3
 
