@@ -2,29 +2,129 @@
 
 ## 2. Backward-from
 
+### 2.1 Matriz
+
 A partir da definição de rastreabilidade foward-from, foi possível construir a _tabela 1_, a qual é responsável por conectar os requisitos com os respectivos artefatos de desenho e implementação, tais quais os cenários, casos de uso e histórias de usuário. Na descrição dos requisitos também foi realizado um link para os léxicos.
 
-| Número | Requisito                                                                                                                                                                                                                                                                                                                 | Técnica                                                                                                                                           |                                                                                                         |  
-|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------| 
-| 1      | O usuário deve poder <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar">criar</a> uma <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>                                                                           |  <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco">C05</a>           |   
-| 2      | O usuário deve poder encontrar uma <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina"><a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a></a> criada previamente                                              | -                                                                                                                                                 | 
-| 3      | O usuário deve poder <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar">editar</a> uma <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>                                                                         | -                                                                                                                                                 |  
-| 4      | O usuário deve poder excluir uma <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a> quando desejado                                                                                                                                                           |                                                                                                                                                    |
-| 5      | O usuário deve poder ser autenticado no sistema                                                                                                                                                                                                                                                                           | -                                                                                                                                                 |
-| 6      | O usuário deve poder <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=pesquisar">pesquisar</a> as <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>s já criadas pelo nome delas                                        | -                                                                                                                                                 | 
-| 7      | O usuário deve poder escolher em qual fonte <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar">editar</a> suas <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>s                                                | -                                                                                                                                                 | 
-| 8      | O usuário deve poder escolher entre o tamanho de fonte grande e pequena                                                                                                                                                                                                                                                   | -                                                                                                                                                 | 
-| 9      | O usuário deve poder escolher se o texto ocupa toda a largura da <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a> ou se fica centralizado na <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a> | |
-| 10     | O usuário deve poder ver o histórico de alterações da <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>                                                                                                                                                      | |
-| 11     | O usuário deve poder favoritar a <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>                                                                                                                                                                           | |
-| 12     | O usuário deve poder <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=compartilhar">compartilhar</a> o link para a <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>                                                   | |
-| 13     | O usuário deve poder escolher a aparência do sistema                                                                                                                                                                                                                                                                      |  |
-| 14     | O usuário deve poder escolher uma foto de identificação para cada <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a>                                                                                                                                          | |
-| 15     | O usuário deve poder escolher uma foto de identificação para o workspace                                                                                                                                                                                                                                                  | |
-| 16     | O usuário deve poder ter quantos workspaces desejar                                                                                                                                                                                                                                                                       |  |
-| 17     | O usuário deve poder escolher entre opções de templates para uma <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=p%c3%a1gina">página</a> criada                                                                                                                                    | |
+| Código | Requisitos Funcionais                                                                                      | Técnica        | Persona |
+|--------|------------------------------------------------------------------------------------------------------------|----------------|----------------|
+| RF1    | O usuário deve poder criar uma página.                                                                     | Introspecção   | Carlos da Silva |
+| RF2    | O usuário deve poder encontrar uma página criada previamente.                                              | Introspecção   | Marina Costa |
+| RF3    | O usuário deve poder editar uma página.                                                                    | Introspecção   | Marina Costa |
+| RF4    | O usuário deve poder excluir uma página quando desejado.                                                   | Introspecção   | Marcelo Araújo |
+| RF5    | O usuário deve poder ser autenticado no sistema.                                                           | Introspecção   | Marcelo Araújo |
+| RF6    | O usuário deve poder pesquisar as páginas já criadas pelo nome delas.                                      | Introspecção   | Marcelo Araújo |
+| RF7    | O usuário deve poder escolher em qual fonte editar suas páginas.                                           | Introspecção   | Marcelo Araújo |
+| RF8    | O usuário deve poder escolher entre o tamanho de fonte grande e pequena.                                   | Introspecção   | Marina Costa |
+| RF9    | O usuário deve poder escolher se o texto ocupa toda a largura da página ou se fica centralizado na página. | Introspecção   | Marina Costa |
+| RF10   | O usuário deve poder ver o histórico de alterações da página.                                              | Introspecção   | Marina Costa |
+| RF11   | O usuário deve poder favoritar a página.                                                                   | Introspecção   | Marina Costa |
+| RF12   | O usuário deve poder compartilhar o link para a página.                                                    | Introspecção   | Carlos da Silva |
+| RF13   | O usuário deve poder escolher a aparência do sistema.                                                      | Introspecção   | Carlos da Silva |
+| RF14   | O usuário deve poder escolher uma foto de identificação para cada página.                                  | Introspecção   | Carlos da Silva |
+| RF15   | O usuário deve poder escolher uma foto de identificação para o workspace.                                  | Introspecção   | Carlos da Silva |
+| RF16   | O usuário deve poder ter quantos workspaces desejar.                                                       | Introspecção   | Marcelo Araújo |
+| RF17   | O usuário deve poder escolher entre opções de templates para uma página criada.                            | Introspecção   | Carlos da Silva |
+| RF18   | O usuário deve poder ver o histórico de páginas deletadas.                                                 | Introspecção   | Marina Costa |
+| RF19   | O usuário deve poder importar páginas de outras plataformas ou aplicativos.                                | Introspecção   | Carlos da Silva |
+| RF20   | O usuário deve poder adicionar fotos a página.                                                             | Introspecção   | Marcelo Araújo |
+| RF21   | O usuário deve poder referenciar outras páginas dentro de uma página.                                      | Introspecção   | Marina Costa |
+| RF22   | O usuário deve poder adicionar outros perfis para editar uma página.                                       | Introspecção   | Carlos da Silva |
+| RF23   | O usuário deve poder adicionar uma legenda às imagens da página.                                           | Introspecção   | Marcelo Araújo |
+| RF24   | O usuário deve poder escrever comentários nas páginas.                                                     | Introspecção   | Marcelo Araújo |
+| RF25   | O usuário deve poder criar blocos de markdown para editar as páginas.                                      | Introspecção   | Marina Costa |
+| RF26   | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                 | Introspecção   | Marina Costa |
+| RF27   | O usuário deve poder ter uma agenda para visualizar afazeres do dia.                                       | Questionário   |  - |
+| RF28   | O usuário deve poder criar Formulas matemáticas.                                                           | Brainstorming  | Todas |
+| RF29   | O usuário deve poder criar seu próprio quadro kanban personalizado.                                        | Brainstorming  | Todas |
+| RF30   | O usuário pode escrever blocos de código.                                                                  | Brainstorming  | Todas |
+| RF31   | O usuário deve ser informado da situação do clima em sua região.                                           | Brainstorming  | Todas |
+| RF32   | O usuário deve conseguir criar uma conta                                                                   | Brainstorming  | Todas |
+| RF33   | O usuário deve conseguir realizar logout                                                                   | Brainstorming  | Todas  |
+_Tabela 1: Requisitos funcionais resultado_
 
-_Tabela 1: Foward-From_
+| Código | Requisitos Não Funcionais                                            | Técnica       | Persona |
+| ------ | -------------------------------------------------------------------- | ------------- | ------------- |
+| RNF1   | Deve ser possível instalar a aplicação em dispositivos android       |   Introspecção | Marcelo Araújo |
+| RNF2   | A interface do sistema deve ser responsiva                           | Introspecção  | Marina Costa |
+| RNF3   | O aplicativo deve ser cross-plataform                                | Questionário  | - |
+| RNF4   | As Formulas Matemáticas devem seguir o formato LaTeX.                | Brainstorming | Todas | 
+| RNF5   | A sintaxe dos códigos devem seguir uma das linguagens mais recentes. | Brainstorming |  Todas |
+_Tabela 2: Requisitos não funcionais resultado_
+
+### 2.1 Elos
+
+## E10
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
+
+## E11
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
+
+## E12
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-workspace">US-Workspace</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=compartilhar">LV-Compartilhar</a>
+
+## E13
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c03-cadastro-de-workspace">C03-Cadastro de workspace</a>
+
+## E14
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar">LV-Editar</a>
+
+## E15
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
+
+## E16
+
+## E17
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c07-cadastro-de-p%c3%a1gina-a-partir-de-template">C7 - Cadastro de página a partir de template</a>
+
+## E18
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletados-recentemente">LO - Deletados recentemente</a>
+
+## E19
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c09-cadastro-de-p%c3%a1gina-a-partir-de-base-de-dados">C9 - Cadastro de página a partir de base de dados</a>
+
+## E20
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
 
 ## Referências Bibliográficas
 
