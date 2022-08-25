@@ -2,6 +2,23 @@
 
 ## 2. Backward-from
 
+## Metodologia
+
+Para a criação do elos foram utilizados o Meta-modelo de Toranzo, Onde São categorizados em quatro níveis:
+- ambiental: refere-se ao ambiente onde a organização está inserida
+- organizacional: informações pertencentes à organização (missão,objetivos e estratégias)
+- gerencial: : informações que auxiliam a gerência do projeto,
+- desenvolvimento: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento
+
+E são providos de descrição dos elos de rastreabilidade:
+
+- Satifação:  classe origem tem dependência de satisfação com a classe destino.
+- Recurso: classe origem tem dependência de recurso com a classe destino.
+- Responsabilidade: representa a ação de pessoas sobre os artefatos.
+- Representação:  captura a representação ou modelagem dos requisitos em outras linguagens.
+- Alocado:  classe origem está relacionada à classe destino, que representa um subsistema.
+- Agregação: indica “composição” de elementos.
+
 ### 2.1 Matriz
 
 A partir da definição de rastreabilidade foward-from, foi possível construir a _tabela 1_, a qual é responsável por conectar os requisitos com os respectivos artefatos de desenho e implementação, tais quais os cenários, casos de uso e histórias de usuário. Na descrição dos requisitos também foi realizado um link para os léxicos.
@@ -54,124 +71,117 @@ _Tabela 2: Requisitos não funcionais resultado_
 
 ### 2.1 Elos
 
-## E10
+## E1 (RF1)
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+
+Satifação: [C05](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco) e [LX02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar).
+
+## E2 (RF3)
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+
+Satifação: [LX07](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar)
+
+## E3 (RF4)
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+
+- Satifação: [LX06](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletar)
+
+## E4 (RF5)
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+
+- Satifação: [LX01](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=cadastro)
+
+## E5 (RF10)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
 
-## E11
+## E6 (RF11)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
 
-## E12
+## E7 (RF12)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-workspace">US-Workspace</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=compartilhar">LV-Compartilhar</a>
 
-## E13
+## E8 (RF13)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c03-cadastro-de-workspace">C03-Cadastro de workspace</a>
 
-## E14
+## E9 (RF14)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a> e <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar">LV-Editar</a>
 
-## E15
+## E10 (RF15)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
 
-## E16
-
-## E17
+## E11 (RF17)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c07-cadastro-de-p%c3%a1gina-a-partir-de-template">C7 - Cadastro de página a partir de template</a>
 
-## E18
+## E12 (RF18)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletados-recentemente">LO - Deletados recentemente</a>
 
-## E19
+## E13 (RF19)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c09-cadastro-de-p%c3%a1gina-a-partir-de-base-de-dados">C9 - Cadastro de página a partir de base de dados</a>
 
-## E20
+## E14 (RF20)
 
 **Categoria**: Desenvolvimento
 
 **Elo**:
 - Satisfação: <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento">US-Documento</a>
 
+## E15
+
+**Categoria**: Desenvolvimento
+
+**Elo**:
+- Satisfação: [UC02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento) satifaz RF6, RF7, RF8.
 
 ## Elos
 Os elos de rastreabilidade agilizam Na identificação de componentes atingidos por mudanças de versão do sistema operacional e/ou na troca de hardware, Reutilização de componentes, sendo os elos de rastreabilidade fortes aliados na criação de bibliotecas de componentes, pois deixam evidentes as correlações entre código e demais artefatos, sejam de desenho e/ou de requisitos, auxiliando na gerência de qualidade dos artefatos.
-
-
-### Metodologia
-
-Para a criação do elos foram utilizados o Meta-modelo de Toranzo, Onde São categorizados em quatro níveis:
-- ambiental: refere-se ao ambiente onde a organização está inserida
-- organizacional: informações pertencentes à organização (missão,objetivos e estratégias)
-- gerencial: : informações que auxiliam a gerência do projeto,
-- desenvolvimento: informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento
-
-E são providos de descrição dos elos de rastreabilidade:
-
-- Satifação:  classe origem tem dependência de satisfação com a classe destino.
-- Recurso: classe origem tem dependência de recurso com a classe destino.
-- Responsabilidade: representa a ação de pessoas sobre os artefatos.
-- Representação:  captura a representação ou modelagem dos requisitos em outras linguagens.
-- Alocado:  classe origem está relacionada à classe destino, que representa um subsistema.
-- Agregação: indica “composição” de elementos.
-
-  
-### Conteúdo
-
-Categoria: Desenvolvimento Elo:
-
-Representação: RF1 representa [C05](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco) e [LX02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar).
-
-#### Categoria: Desenvolvimento Elo:
-
-Satifação: RF3 Satifaz [LX07](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=editar)
-
-#### Categoria: Desenvolvimento Elo:
-
-Satifação: RF4 Satifaz [LX06](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=deletar)
-
-#### Categoria: Desenvolvimento Elo:
-
-Satifação:  [LX01](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=cadastro) satifaz RF5
-
-#### Categoria: Desenvolvimento Elo:
-
-Satifação: [UC02](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/casos_de_uso?id=uc-documento) satifaz RF6, RF7, RF8
-
-
 
 ## Referências Bibliográficas
 
