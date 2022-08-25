@@ -54,8 +54,8 @@ e na rastreabilidade [_Backward-from_](pos-rastreabilidade/backward_from.md) atr
 |                    |           |         | RNF4/As Formulas Matemáticas devem seguir o formato LaTeX.	                |         |              |                        |                   |
 |                    |           |         | RNF5/A sintaxe dos códigos devem seguir uma das linguagens mais recentes.	 |         |              |                        |                   |
 
-## Histórico de Versões
 
+## Histórico de Versões
 
 | Versão | Data       | Descrição         | Autor              |
 |--------|------------|-------------------|--------------------|
