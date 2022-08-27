@@ -6,9 +6,9 @@ Para entender a rastreablidade Forward-From, primeiro é necessário entender o 
 
 Segundo _Serrano_, a rastreabilidade forward-from (para frente, a partir de), é responsável por ligar os requisitos a artefatos de desenho e implementação.
 
-## 2. Foward-From
+## 2. Forward-From
 
-A partir da definição de rastreabilidade foward-from, foi possível construir a _tabela 1_, a qual é responsável por conectar os requisitos funcionais com os respectivos artefatos de desenho e implementação, tais quais os cenários, casos de uso e histórias de usuário. Na descrição dos requisitos também foi realizado um link para os léxicos.
+A partir da definição de rastreabilidade forward-from, foi possível construir a _tabela 1_, a qual é responsável por conectar os requisitos funcionais com os respectivos artefatos de desenho e implementação, tais quais os cenários, casos de uso e histórias de usuário. Na descrição dos requisitos também foi realizado um link para os léxicos.
 
 | Código | Requisitos Funcionais                                                                                                                                                                                                                                                                                                     | Cenário                                                                                                                                           | Casos de Uso                                                                                                               | História de Usuário                                                                                                                                                         | Print das Funcionalidades                                                                                                      |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -59,3 +59,10 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2020. 44 slides. 
 | 1.0      | 23/08/2022 | Criação da página                          | Leonardo Vitoriano | Bernardo e Guilherme |
 | 1.1      | 24/08/2022 | Criação da Introdução e Foward-From 1 a 17 | Leonardo Vitoriano | Bernardo e Guilherme |
 | 1.2      | 24/08/2022 | Adição Foward-From 18 a 33                 | Cícero Fernandes   | Bernardo e Guilherme |
+
+
+
+
+
+
+
