@@ -157,13 +157,13 @@ https://www.scaledagileframework.com/
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                              | Autor                          |
-|--------|------------|--------------------------------------------------------|--------------------------------|
-| 1.0    | 26/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti              |
-| 1.1    | 28/07/2022 | Adição das histórias de usuário US1 - US15             | Bernardo Pissutti              |
-| 1.2    | 01/08/2022 | Reformulação da tabela de Histórias de Usuários        | Leonardo Vitoriano             |
-| 1.3    | 02/08/2022 | Adição das histórias de usuário US16 - US33            | Cícero Fernandes               |
-| 1.4    | 02/08/2022 | Adição dos critérios de aceitação US16 - US33          | Arthur Jose e Leonardo Milomes |
-| 1.5    | 02/08/2022 | Adicionando informação inicial backlog                 | Arthur                         |
-| 1.6    | 02/08/2022 | Adicionando resultado backlog scrum                    | Arthur                         |
-| 1.7    | 02/08/2022 | Adicinando a priorização do backlog                    | Leonardo Milomes               |
+| Versão | Data       | Descrição                                              | Autor                          | Revisor             |
+|--------|------------|--------------------------------------------------------|--------------------------------|---------------------|
+| 1.0    | 26/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Bernardo Pissutti              | Arthur e Leonardo   |
+| 1.1    | 28/07/2022 | Adição das histórias de usuário US1 - US15             | Bernardo Pissutti              | Arthur e Leonardo   |
+| 1.2    | 01/08/2022 | Reformulação da tabela de Histórias de Usuários        | Leonardo Vitoriano             | Nicolas e Guilherme |
+| 1.3    | 02/08/2022 | Adição das histórias de usuário US16 - US33            | Cícero Fernandes               | Arthur e Leonardo   |
+| 1.4    | 02/08/2022 | Adição dos critérios de aceitação US16 - US33          | Arthur Jose e Leonardo Milomes | Nicolas e Guilherme |
+| 1.5    | 02/08/2022 | Adicionando informação inicial backlog                 | Arthur                         | Nicolas e Guilherme |
+| 1.6    | 02/08/2022 | Adicionando resultado backlog scrum                    | Arthur                         | Nicolas e Guilherme |
+| 1.7    | 02/08/2022 | Adicinando a priorização do backlog                    | Leonardo Milomes               | Nicolas e Guilherme |

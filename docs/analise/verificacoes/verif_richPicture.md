@@ -62,6 +62,6 @@ De acordo com a verificação utilizando a checklist desenvolvida, é possível 
 REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. 2018.
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 15/08/2022 | Criação do Contexto, Checklist e Conclusão | Leonardo Vitoriano|
+| Versão  | Data       | Descrição                                  | Autor              | Revisor   |
+|---------|------------|--------------------------------------------|--------------------|-----------|
+| 1.0     | 15/08/2022 | Criação do Contexto, Checklist e Conclusão | Leonardo Vitoriano | Guilherme |

@@ -73,6 +73,6 @@ De acordo com a verificação utilizando a checklist desenvolvida, é possível 
 Leite, J., C., et al., Enhancing a Requirements Baseline with Scenarios, in Proc. of the Third IEEE International Symposium on Requirements Engineering (RE’97) – Annapolis, USA – IEEE Computer Society Press, p 44-53, 1997.
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 15/08/2022 | Criação do Contexto, Checklist e Conclusão| Leonardo Vitoriano|
+| Versão   | Data       | Descrição                                  | Autor              | Revisor           |
+|----------|------------|--------------------------------------------|--------------------|-------------------|
+| 1.0      | 15/08/2022 | Criação do Contexto, Checklist e Conclusão | Leonardo Vitoriano | Bernardo Pissutti |

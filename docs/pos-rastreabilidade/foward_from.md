@@ -54,8 +54,8 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2020. 44 slides. 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                  | Autor              |
-| ------ | ---------- | ------------------------------------------ | ------------------ |
-| 1.0    | 23/08/2022 | Criação da página                          | Leonardo Vitoriano |
-| 1.1    | 24/08/2022 | Criação da Introdução e Foward-From 1 a 17 | Leonardo Vitoriano |
-| 1.2    | 24/08/2022 | Adição Foward-From 18 a 33                 | Cícero Fernandes   |
+| Versão   | Data       | Descrição                                  | Autor              | Revisor              |
+|----------|------------|--------------------------------------------|--------------------|----------------------|
+| 1.0      | 23/08/2022 | Criação da página                          | Leonardo Vitoriano | Bernardo e Guilherme |
+| 1.1      | 24/08/2022 | Criação da Introdução e Foward-From 1 a 17 | Leonardo Vitoriano | Bernardo e Guilherme |
+| 1.2      | 24/08/2022 | Adição Foward-From 18 a 33                 | Cícero Fernandes   | Bernardo e Guilherme |

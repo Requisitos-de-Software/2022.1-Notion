@@ -70,6 +70,6 @@ De acordo com a verificação utilizando a checklist desenvolvida, é possível 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 15/08/2022 | Criação do Contexto, Checklist e Conclusão| Leonardo Vitoriano|
+| Versão  | Data       | Descrição                                  | Autor              | Revisor           |
+|---------|------------|--------------------------------------------|--------------------|-------------------|
+| 1.0     | 15/08/2022 | Criação do Contexto, Checklist e Conclusão | Leonardo Vitoriano | Bernardo Pissutti |

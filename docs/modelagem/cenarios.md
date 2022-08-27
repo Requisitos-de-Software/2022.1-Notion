@@ -901,6 +901,6 @@ Engineering (RE’97) – Annapolis, USA – IEEE Computer Society Press, p
 
 ## Histórico de Versões
 
-| Versão | Data         | Descrição                               | Autor                    |
-|--------|--------------|-----------------------------------------|--------------------------|
-| 1.0    | 16/07/2022   | Criação do documento e primeira escrita | Nícolas Georgeos Mantzos |
+| Versão  | Data        | Descrição                               | Autor                    | Revisor  |
+|---------|-------------|-----------------------------------------|--------------------------|----------|
+| 1.0     | 16/07/2022  | Criação do documento e primeira escrita | Nícolas Georgeos Mantzos | Leonardo |

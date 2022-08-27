@@ -38,8 +38,8 @@ Sommerville,Ian - Engenharia de Software - 9 ed. - São Paulo: Pearson Prentice 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                  | Autor             |
-| ------ | ---------- | -------------------------- | ----------------- |
-| 1.0    | 26/06/2022 | Criação e edição da página | Bernardo Pissutti |
-| 1.1    | 13/07/2022 | Revisão | Nicolas Georgeos Mantzos |
+| Versão  | Data       | Descrição                  | Autor                    | Revisor   |
+|---------|------------|----------------------------|--------------------------|-----------|
+| 1.0     | 26/06/2022 | Criação e edição da página | Bernardo Pissutti        | Guilherme |
+| 1.1     | 13/07/2022 | Revisão                    | Nicolas Georgeos Mantzos | -         |
 

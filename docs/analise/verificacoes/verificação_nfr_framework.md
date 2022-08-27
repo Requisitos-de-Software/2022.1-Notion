@@ -18,6 +18,6 @@ Visando avaliar os NFR-Framework sobre o Notion, sobre as principais caracterís
 
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 17/08/2022 | Criação do Checklist Análise NFR| Arthur|
+| Versão  | Data       | Descrição                        | Autor      | Revisor   |
+|---------|------------|----------------------------------|------------|-----------|
+| 1.0     | 17/08/2022 | Criação do Checklist Análise NFR | Arthur     | Guilherme |

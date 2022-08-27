@@ -150,6 +150,6 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor            |
-| ------ | ---------- | ----------------- | ---------------- |
-| 1.0    | 19/07/2022 | Criação da página | Cícero Fernandes |
+| Versão | Data       | Descrição         | Autor            | Revisor |
+| ------ | ---------- | ----------------- | ---------------- |---------|
+| 1.0    | 19/07/2022 | Criação da página | Cícero Fernandes | Nicolas |

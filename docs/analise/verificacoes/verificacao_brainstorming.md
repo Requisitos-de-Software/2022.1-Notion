@@ -72,6 +72,6 @@ e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Hitórico de Versões
 
-| Versão | Data       | Descrição           | Autor            |
-| ------ | ---------- | ------------------- | ---------------- |
-| 1.0    | 16/08/2022 | Criação do artefato | Cícero Fernandes |
+| Versão | Data       | Descrição           | Autor            | Revisor            |
+| ------ | ---------- | ------------------- | ---------------- |--------------------|
+| 1.0    | 16/08/2022 | Criação do artefato | Cícero Fernandes | Guilherme e Arthur |

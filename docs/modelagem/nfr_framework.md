@@ -146,7 +146,7 @@ in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                         | Autor                        |
-|--------|------------|---------------------------------------------------|------------------------------|
-| 1.0    | 30/07/2021 | Escrita da introdução, legenda e                  | Nicolas Georgeos Mantzos                      |
-| 1.1    | 02/07/2021 | Inserção de NFR de Confiabilidade e Portabilidade | Guilherme Brito Vilas - Bôas |
+| Versão | Data       | Descrição                                         | Autor                           | Revisor           |
+|--------|------------|---------------------------------------------------|---------------------------------|-------------------|
+| 1.0    | 30/07/2021 | Escrita da introdução, legenda e                  | Nicolas Georgeos Mantzos        | Cicero e Bernardo |
+| 1.1    | 02/07/2021 | Inserção de NFR de Confiabilidade e Portabilidade | Guilherme Brito Vilas - Bôas    | Cicero e Bernardo |

@@ -174,6 +174,6 @@
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor             |
-| ------ | ---------- | ----------------- |-------------------|
-| 1.0    | 24/08/2022 | Criação da página | Bernardo Pissutti |
+| Versão   | Data       | Descrição         | Autor             | Revisor   |
+|----------|------------|-------------------|-------------------|-----------|
+| 1.0      | 24/08/2022 | Criação da página | Bernardo Pissutti | Todos     |

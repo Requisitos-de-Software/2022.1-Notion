@@ -51,6 +51,6 @@ Boa parte dos aspectos elicitados na tabela 1 foram cumpridos/implementados na i
 eventualmente contribuiria para a quantidade e variedade dos requisitos que, embora tenha sido cumprida, ainda possui espaço para melhorias.  
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 17/08/2022 | Criação e escrita do documento | Nícolas Mantzos |
+| Versão  | Data       | Descrição                      | Autor           | Revisor |
+|---------|------------|--------------------------------|-----------------|---------|
+| 1.0     | 17/08/2022 | Criação e escrita do documento | Nícolas Mantzos | Cicero  |

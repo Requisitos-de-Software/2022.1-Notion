@@ -216,9 +216,9 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                 | Autor             |
-| ------ | ---------- | ----------------------------------------- | ----------------- |
-| 1.0    | 13/07/2022 | Adição da técnica de introspecção         | Cícero Fernandes  |
-| 1.1    | 13/07/2022 | Adição da técnica de questionário         | Arthur José       |
-| 1.2    | 13/07/2022 | Adição da técnica de brainstorming        | Bernardo Pissutti |
-| 1.3    | 24/07/2022 | Melhorando a documentação da introspecção | Bernardo Pissutti |
+| Versão   | Data       | Descrição                                 | Autor             | Revisor  |
+|----------|------------|-------------------------------------------|-------------------|----------|
+| 1.0      | 13/07/2022 | Adição da técnica de introspecção         | Cícero Fernandes  | Leonardo |
+| 1.1      | 13/07/2022 | Adição da técnica de questionário         | Arthur José       | Nicolas  |
+| 1.2      | 13/07/2022 | Adição da técnica de brainstorming        | Bernardo Pissutti | Todos    |
+| 1.3      | 24/07/2022 | Melhorando a documentação da introspecção | Bernardo Pissutti | -        |

@@ -125,9 +125,9 @@ Gomes, Aline; Policani, André; Priorização de requisitos e avaliação da qua
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                  | Autor                             |
-|--------|------------|--------------------------------------------|-----------------------------------|
-| 1.0    | 13/07/2022 | Criação do Artefato                        | Guilherme Brito                   |
-| 1.1    | 13/07/2022 | Realização da priorização dos Requisitos   | Guilherme Brito e Bernardo Chaves |
-| 1.2    | 26/07/2022 | Documentação do método dos 100 pontos      | Bernardo Pissutti                 |
-| 1.3    | 28/07/2022 | Adição da coluna de requisitos na Tabela 2 | Bernardo Pissutti                 |
+| Versão | Data       | Descrição                                  | Autor                             | Revisor           |
+|--------|------------|--------------------------------------------|-----------------------------------|-------------------|
+| 1.0    | 13/07/2022 | Criação do Artefato                        | Guilherme Brito                   | Bernardo Pissutti |
+| 1.1    | 13/07/2022 | Realização da priorização dos Requisitos   | Guilherme Brito e Bernardo Chaves | Bernardo Pissutti |
+| 1.2    | 26/07/2022 | Documentação do método dos 100 pontos      | Bernardo Pissutti                 | -                 |
+| 1.3    | 28/07/2022 | Adição da coluna de requisitos na Tabela 2 | Bernardo Pissutti                 | -                 |

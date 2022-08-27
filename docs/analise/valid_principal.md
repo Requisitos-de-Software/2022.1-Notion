@@ -24,7 +24,7 @@ de O. Gonçalves ; revisão técnica Kechi Hirama. — 9. ed. — São Paulo : P
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                             | Autor             |
-|--------|------------|-------------------------------------------------------|-------------------|
-| 1.0    | 17/08/2022 | Criação da página                                     | Bernardo Pissutti |
-| 1.1    | 17/08/2022 | Atualização da Página: Correção de Erros Ortográficos | Guilherme Brito   |
+| Versão | Data       | Descrição                                             | Autor             | Revisor |
+|--------|------------|-------------------------------------------------------|-------------------|---------|
+| 1.0    | 17/08/2022 | Criação da página                                     | Bernardo Pissutti | Nicolas |
+| 1.1    | 17/08/2022 | Atualização da Página: Correção de Erros Ortográficos | Guilherme Brito   | Nicolas |

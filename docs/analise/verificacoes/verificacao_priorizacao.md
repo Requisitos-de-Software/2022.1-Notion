@@ -54,6 +54,6 @@ Uma quantidade considerável de aspectos relevantes para a qualidade da prioriza
 nem a utilização de técnicas de priorização além do tradicional MOSCOW (item 2), aspectos que exigem a correção do artefato.
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 17/08/2022 | Criação e escrita do documento | Nícolas Mantzos |
+| Versão   | Data       | Descrição                      | Autor             | Revisor  |
+|----------|------------|--------------------------------|-------------------|----------|
+| 1.0      | 17/08/2022 | Criação e escrita do documento | Nícolas Mantzos   | Leonardo |

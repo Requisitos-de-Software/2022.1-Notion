@@ -42,11 +42,11 @@
 
 
 ## Histórico de Versões
-| Versão | Data  | Descrição                                   | Autor              |
-|--------|-------|---------------------------------------------|--------------------|
-| 1.0    | 11/07 | Criação do histórico de versões do artefato | Bernardo Pissutti  |
-| 1.1    | 13/07 | Adição do vídeo da entrega 2                | Bernardo Pissutti  |
-| 1.2    | 20/07 | Adição do vídeo da entrega 3                | Bernardo Pissutti  |
-| 1.3    | 05/08 | Adição do vídeo da entrega 4                | Bernardo Pissutti  |
-| 1.4    | 17/08 | Adição do vídeo da entrega 5                | Bernardo Pissutti  |
-| 1.5    | 24/08 | Adição do vídeo da entrega 6                | Bernardo Pissutti  |
+| Versão | Data  | Descrição                                   | Autor              | Revisor |
+|--------|-------|---------------------------------------------|--------------------|---------|
+| 1.0    | 11/07 | Criação do histórico de versões do artefato | Bernardo Pissutti  | Todos   |
+| 1.1    | 13/07 | Adição do vídeo da entrega 2                | Bernardo Pissutti  | Todos   |
+| 1.2    | 20/07 | Adição do vídeo da entrega 3                | Bernardo Pissutti  | Todos   |
+| 1.3    | 05/08 | Adição do vídeo da entrega 4                | Bernardo Pissutti  | Todos   |
+| 1.4    | 17/08 | Adição do vídeo da entrega 5                | Bernardo Pissutti  | Todos   |
+| 1.5    | 24/08 | Adição do vídeo da entrega 6                | Bernardo Pissutti  | Todos   |

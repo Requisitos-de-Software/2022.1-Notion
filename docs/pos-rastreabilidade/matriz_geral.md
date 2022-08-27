@@ -47,7 +47,7 @@ _Tabela 1: matriz geral de rastreabilidade_
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição              | Autor             |
-|--------|------------|------------------------|-------------------|
-| 1.0    | 24/08/2022 | Criação da página      | Bernardo Pissutti |
-| 1.1    | 24/08/2022 | Adição da matriz geral | Guilherme Brito   |
+| Versão | Data       | Descrição              | Autor             | Revisor          |
+|--------|------------|------------------------|-------------------|------------------|
+| 1.0    | 24/08/2022 | Criação da página      | Bernardo Pissutti | Nicolas e Arthur |
+| 1.1    | 24/08/2022 | Adição da matriz geral | Guilherme Brito   | Nicolas e Arthur |

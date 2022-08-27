@@ -60,13 +60,13 @@ REVADI, Chindy Elsanna. Rich Picture Guidelines. CTEC2402 - Software Development
 Project. Abril, 2018.
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 26/06/2022 | Implementação inicial da página | Leonardo Milomes Vitoriano |
-| 1.0.1    | 26/06/2022 | Adição da Rich Picture - Micro                 | Leonardo Milomes Vitoriano |
-| 1.0.2   | 27/06/2022 | Adição da introdução, das referências e da Rich Picture - Macro           | Nícolas Georgeos Mantzos |
-| 1.0.2   | 27/06/2022 | Correções gerais           | Nícolas Georgeos Mantzos |
-| 1.0.3   | 12/07/2022 | Transição para o Notion           | Nícolas Georgeos Mantzos |
+| Versão   | Data       | Descrição                                                       | Autor                      | Revisor |
+|----------|------------|-----------------------------------------------------------------|----------------------------|---------|
+| 1.0      | 26/06/2022 | Implementação inicial da página                                 | Leonardo Milomes Vitoriano | Todos   |
+| 1.0.1    | 26/06/2022 | Adição da Rich Picture - Micro                                  | Leonardo Milomes Vitoriano | Todos   |
+| 1.0.2    | 27/06/2022 | Adição da introdução, das referências e da Rich Picture - Macro | Nícolas Georgeos Mantzos   | Todos   |
+| 1.0.2    | 27/06/2022 | Correções gerais                                                | Nícolas Georgeos Mantzos   | Todos   |
+| 1.0.3    | 12/07/2022 | Transição para o Notion                                         | Nícolas Georgeos Mantzos   | Cicero  |
 
 
 

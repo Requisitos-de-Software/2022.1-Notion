@@ -91,7 +91,7 @@ _Tabela 2: Requisitos não funcionais resultado_
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                       | Autor           |
-| ------ | ---------- | ------------------------------- | --------------- |
-| 1.0    | 13/07/2022 | Criação dos resultados gerais   | Arthur          |
-| 1.1    | 13/07/2022 | Removendo Requisitos Duplicados | Guilherme Brito |
+| Versão   | Data       | Descrição                       | Autor           | Revisor |
+|----------|------------|---------------------------------|-----------------|---------|
+| 1.0      | 13/07/2022 | Criação dos resultados gerais   | Arthur          | Todos   |
+| 1.1      | 13/07/2022 | Removendo Requisitos Duplicados | Guilherme Brito | -       |

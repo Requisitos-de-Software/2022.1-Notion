@@ -63,6 +63,6 @@ Kalinowski, Marcos; Introdução a Inspeção de Software; PUC-Rio; Rio de Janei
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor              |
-| ------ | ---------- | ----------------- | ------------------ |
-| 1.0    | 15/08/2022 | Criação da página | Leonardo Vitoriano |
+| Versão   | Data       | Descrição         | Autor              | Revisor  |
+|----------|------------|-------------------|--------------------|----------|
+| 1.0      | 15/08/2022 | Criação da página | Leonardo Vitoriano | Todos    |

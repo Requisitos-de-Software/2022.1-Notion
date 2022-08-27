@@ -175,7 +175,7 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2020. 44 slides. 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor            |
-| ------ | ---------- | ----------------- | ---------------- |
-| 1.0    | 23/08/2022 | Criação da página e escrita das seções *Introdução* e *Backward-from* | Arthur Lima e Nícolas Georgeos Mantzos |
-| 1.0    | 23/08/2022 | Criação dos Elos 1 a 9 | Arthur Lima e Nícolas Georgeos Mantzos |
+| Versão   | Data        | Descrição                                                             | Autor                                  | Revisor           |
+|----------|-------------|-----------------------------------------------------------------------|----------------------------------------|-------------------|
+| 1.0      | 23/08/2022  | Criação da página e escrita das seções *Introdução* e *Backward-from* | Arthur Lima e Nícolas Georgeos Mantzos | Leonardo e Cicero |
+| 1.0      | 23/08/2022  | Criação dos Elos 1 a 9                                                | Arthur Lima e Nícolas Georgeos Mantzos | Leonardo e Cicero |

@@ -281,6 +281,6 @@ _Tabela 1 - Backlog Scrum_
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição          | Autor              |
-| ------ |------------|--------------------| ------------------ |
-| 1.0    | 03/08/2022 | Criação da Página  | Bernardo Pissutti  |
+| Versão  | Data       | Descrição         | Autor             | Revisor |
+|---------|------------|-------------------|-------------------|---------|
+| 1.0     | 03/08/2022 | Criação da Página | Bernardo Pissutti | Todos   |

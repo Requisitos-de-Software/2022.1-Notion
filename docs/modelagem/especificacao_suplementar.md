@@ -38,7 +38,7 @@ https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/checklists/supplemen
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor             |
-|--------|------------|-------------------|-------------------|
-| 1.0    | 17/07/2002 | Criação da página | Bernardo Pissutti |
-| 1.1    | 20/07/2002 | Correção de Erros Ortográficos | Guilherme Brito |
+| Versão  | Data       | Descrição                      | Autor             | Revisor   |
+|---------|------------|--------------------------------|-------------------|-----------|
+| 1.0     | 17/07/2002 | Criação da página              | Bernardo Pissutti | Guilherme |
+| 1.1     | 20/07/2002 | Correção de Erros Ortográficos | Guilherme Brito   | -         |

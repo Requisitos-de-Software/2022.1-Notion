@@ -60,6 +60,6 @@ e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Hitórico de Versões
 
-| Versão | Data       | Descrição         | Autor             |
-| ------ |------------|-------------------|-------------------|
-| 1.0    | 17/08/2022 | Bernardo Pissutti | Bernardo Pissutti |
+| Versão | Data       | Descrição         | Autor             | Revisor |
+| ------ |------------|-------------------|-------------------|---------|
+| 1.0    | 17/08/2022 | Bernardo Pissutti | Bernardo Pissutti | Nicolas |
