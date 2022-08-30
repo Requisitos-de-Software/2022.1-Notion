@@ -65,9 +65,9 @@ O que é e como usar o Notion [Guia para iniciantes]. Disponível em: https://te
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                          | Autor             |
-| ------ | ---------- | ---------------------------------- | ----------------- |
-| 1.0    | 25/06/2022 | Criação da página                  | Bernardo Pissutti |
-| 1.1    | 27/06/2022 | Estilização da Página              | Guilherme Brito   |
-| 1.2    | 28/06/2022 | Edição de Texto sobre o Aplicativo | Cícero Fernandes  |
-| 1.3    | 13/07/2022 | Transição para o aplicativo Notion | Nicolas Mantzos   |
+| Versão | Data       | Descrição                          | Autor             | Revisor |
+| ------ | ---------- | ---------------------------------- | ----------------- |---------|
+| 1.0    | 25/06/2022 | Criação da página                  | Bernardo Pissutti | Todos   |
+| 1.1    | 27/06/2022 | Estilização da Página              | Guilherme Brito   | Todos   |
+| 1.2    | 28/06/2022 | Edição de Texto sobre o Aplicativo | Cícero Fernandes  | Todos   |
+| 1.3    | 13/07/2022 | Transição para o aplicativo Notion | Nicolas Mantzos   | Todos   |

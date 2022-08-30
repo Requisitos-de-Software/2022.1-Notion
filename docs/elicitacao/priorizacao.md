@@ -39,12 +39,12 @@ A Técnica escolhida para a priorização dos requisitos identificados foi a té
 
 Essa técnica é muito simples. Consiste em atribuir uma das quatro letras M,S,C ou W para cada item do backlog do produto. Os significados de cada letra pode ser encontrado na _Tabela 1_ abaixo.
 
-| Letra | Significado    |
-|:--------:|:-----|
-| M    | Must: Essa letra é atribuída para os requisitos prioritários/críticos para o negócio. Como por exemplo: requisitos que atendam normas legais (ex: normativas da bolsa de valores, Banco Central e Receita Federal). |  
-| S    | Should: Representa os requisitos que são importantes, mas não são necessários (do ponto de vista estratégico) para entrega na sprint atual. O requisito com essa atribuição pode-se esperar um pouco para ser trabalhado ou pode-se ter outro meio de atender a necessidade classificada. | 
-| C    | Could: Consiste nos requisitos desejáveis, mas não necessários (do ponto de vista estratégico) e podem melhorar a satisfação do cliente com algum esforço de desenvolvimento. Dada a disponibidade de tempo e recursos, esses itens são atendidos.|  
-| W    | Would/Want/Won't: São os requisitos menos críticos, com menor retorno sobre o investimento ou não adequados para serem realizados.| 
+| Letra   | Significado                                                                                                                                                                                                                                                                               |
+|:-------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    M    | Must: Essa letra é atribuída para os requisitos prioritários/críticos para o negócio. Como por exemplo: requisitos que atendam normas legais (ex: normativas da bolsa de valores, Banco Central e Receita Federal).                                                                       |  
+|    S    | Should: Representa os requisitos que são importantes, mas não são necessários (do ponto de vista estratégico) para entrega na sprint atual. O requisito com essa atribuição pode-se esperar um pouco para ser trabalhado ou pode-se ter outro meio de atender a necessidade classificada. | 
+|    C    | Could: Consiste nos requisitos desejáveis, mas não necessários (do ponto de vista estratégico) e podem melhorar a satisfação do cliente com algum esforço de desenvolvimento. Dada a disponibidade de tempo e recursos, esses itens são atendidos.                                        |  
+|    W    | Would/Want/Won't: São os requisitos menos críticos, com menor retorno sobre o investimento ou não adequados para serem realizados.                                                                                                                                                        | 
 
 _Tabela 1: Tabela contendo o significado das letras da técnica MoSCow e em quais requisitos elas devem ser atribuidas._ 
 

@@ -91,61 +91,91 @@ Após definir o escopo do Questionário fizemos 9 questões no Google Forms, Sen
 
 #### 1. Já utilizou o aplicativo Notion?
 
-![image](https://user-images.githubusercontent.com/60429513/178844427-3c55a468-e2e0-4618-b207-2de9e03097e1.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844427-3c55a468-e2e0-4618-b207-2de9e03097e1.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 1: questão 1; Fonte: autoria própria.                                                                    |
 
 Com o objetivo de analisar quantas pessoas já utilizaram ou não o aplicativo, refinando a pesquisa e direcionando o usuário alvo.
 
 #### 2. Qual sua faixa etária?
 
-![image](https://user-images.githubusercontent.com/60429513/178844474-9c82c79e-ed35-43cd-8b97-d209bb525616.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844474-9c82c79e-ed35-43cd-8b97-d209bb525616.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 2: questão 2; Fonte: autoria própria.                                                                    |
 
 Com objetivo de conhecer mais sobre a idade dos usuários que utilizam o aplicativo.
 
 #### 3. Em quais dispositivos costuma utilizar o Notion?
 
-![image](https://user-images.githubusercontent.com/60429513/178844508-a33b5056-4025-408e-a50a-d925ac4071a5.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844508-a33b5056-4025-408e-a50a-d925ac4071a5.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 3: questão 3; Fonte: autoria própria.                                                                    |
+
 
 Com o objetivo de conhecer como os usuários fazem uso do aplicativo.
 
 #### 4. Quais funções do app você considera essenciais?
 
-![image](https://user-images.githubusercontent.com/60429513/178844536-19ffa890-f06e-4885-8b7a-822f434ab013.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844536-19ffa890-f06e-4885-8b7a-822f434ab013.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 4: questão 4; Fonte: autoria própria.                                                                    |
+
 
 Pergunta diferente das anteriores, agora temos o foco de entender mais sobre o aplicativo e o que faz os usuários quererem utilizar o notion.
 
 #### 5. Utiliza com frequência aplicativos do tipo "lista de tarefas" para organizar o dia a dia?
 
-![image](https://user-images.githubusercontent.com/60429513/178844570-54fe96ed-d25e-495f-aeec-1edc45045c45.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844570-54fe96ed-d25e-495f-aeec-1edc45045c45.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 5: questão 5; Fonte: autoria própria.                                                                    |
+
+
 
 Com o objetivo de conhecer se os usuários recorrem a softwares de gerenciamento de tarefas para se organizar.
 
 #### 6. A liberdade de utilizar novos templates facilita na organização da pessoal e/ou equipe?
 
-![image](https://user-images.githubusercontent.com/60429513/178844608-41c01fae-0da5-4f5b-8256-376efcfa50e0.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844608-41c01fae-0da5-4f5b-8256-376efcfa50e0.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 6: questão 6; Fonte: autoria própria.                                                                    |
+
 
 Com o objetivo de induzir novos usuários a tentarem criar seus proprios templates e analisar o impacto que uma funcionalidade especifica tem sobre os usuários.
 
 #### 7. O Notion melhorou a organização do seu time ou pessoal?
 
-![image](https://user-images.githubusercontent.com/60429513/178844642-47af25b4-6719-49e6-865b-fca533811258.png)
+
+| ![image](https://user-images.githubusercontent.com/60429513/178844642-47af25b4-6719-49e6-865b-fca533811258.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 7: questão 7; Fonte: autoria própria.                                                                    |
+
 
 Com o objetivo de analisar o impacto do notion na organização de time e das pessoas.
 
 #### 8. Com qual frequência utiliza o Notion?
 
-![image](https://user-images.githubusercontent.com/60429513/178844673-383af217-3d20-467f-ae19-8df4f39b4098.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844673-383af217-3d20-467f-ae19-8df4f39b4098.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 8: questão 8; Fonte: autoria própria.                                                                    |
 
 Com o objetivo de analisar a presença do aplicativo notion no dia a dia dos usuários
 
 #### 9. Qual versão do Notion você utiliza?
 
-![image](https://user-images.githubusercontent.com/60429513/178844706-ec635a0d-9283-4d8c-8be4-6438f1a2a1d1.png)
+| ![image](https://user-images.githubusercontent.com/60429513/178844706-ec635a0d-9283-4d8c-8be4-6438f1a2a1d1.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 9: questão 9; Fonte: autoria própria.                                                                    |
+
 
 Com o objetivo de analisar o perfil dos usuários que buscam mais funcionalidades no app e os que se contentam com o gratuito.
 
 #### 10. Quanto numa escala de 1 a 5 o Notion atendeu suas expectativas
 
-![image](https://user-images.githubusercontent.com/60429513/178844741-fc9e1869-85c1-4bb3-9a25-898c94e5e2dc.png)
+
+| ![image](https://user-images.githubusercontent.com/60429513/178844741-fc9e1869-85c1-4bb3-9a25-898c94e5e2dc.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 10: questão 10; Fonte: autoria própria.                                                                  |
+
 
 Com o objetivo de analisar o quão o notion auxilia na vida dos usuários.
 
@@ -157,13 +187,13 @@ Nessa seção serão apresentados os resultados da técnica de questionário, mo
 | ------ | ------------------------------------------------------------------- |
 | RF1    | O usuário deve poder ter uma agenda para visualizar afazeres do dia |
 
-_Tabela 3: Requisitos funcionais_
+_Tabela 3: Requisitos funcionais elicitados_
 
 | Código | Requisito                             |
 | ------ | ------------------------------------- |
 | RNF1   | O aplicativo deve ser cross-plataform |
 
-_Tabela 4: Requisitos não funcionais_
+_Tabela 4: Requisitos não funcionais elicitados_
 
 ### 2.6 Link para o formulário
 
@@ -182,7 +212,7 @@ A sessão de brainstorming foi realizada de 21:20 à 21:30 do dia 11 de julho de
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOqie_Mc=/?moveToViewport=-607,-1224,4233,2118&embedId=807759531387" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-_Figura 1: sessão de brainstorming_
+_Figura 11: sessão de brainstorming; Fonte: autoria própria._
 
 ### 3.3 Resultados
 

@@ -16,15 +16,17 @@ Bernardo Pissutti
 
 
 
-| ![email_enviado](../../_media/email_enviado.png) |
-|--------------------------------------------------|
-| _Figura 1_: e-mail enviado a equipe notion       |
+| ![email_enviado](../../_media/email_enviado.png)                    |
+|---------------------------------------------------------------------|
+| _Figura 1_: e-mail enviado a equipe notion; Fonte: autoria própria. |
 
 ## 2. Resposta
 
-Ainda não obtivemos resposta.
+A _Figura 2_ apresenta a resposta obtida pela equipe do Notion.
 
-_Data: 17/08/2022 - 20:28h_
+| ![email_enviado](../../_media/resposta_notion.png)               |
+|------------------------------------------------------------------|
+| _Figura 2_: e-mail de reposta do Notion; Fonte: autoria própria. |
 
 ## Histórico de Versões
 

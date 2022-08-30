@@ -27,7 +27,7 @@ Já para o Notion, optamos por implementar apenas uma Rich Picture, visível na 
 
 ![Rich Picture Macro Version 1](../_media/rich_picture_macro.jpg "Rich Picture Macro Version 1")
 
-<figcaption>Imagem 2: Rich Picture Macro versão 1.</figcaption>
+<figcaption>Imagem 2: Rich Picture Macro versão 1; ; Fonte: autoria própria. </figcaption>
 
 </div>
 
@@ -37,7 +37,7 @@ Já para o Notion, optamos por implementar apenas uma Rich Picture, visível na 
 
 ![Rich Picture Macro Version 1](../_media/rich_picture_notion_v1.jpg "Rich Picture Macro Version 1")
 
-<figcaption>Imagem 3: Rich Picture Notion - versão 1.</figcaption>
+<figcaption>Imagem 3: Rich Picture Notion - versão 1; Fonte: autoria própria.</figcaption>
 
 </div>
 
@@ -49,7 +49,7 @@ A construção das Rich Pictures foi baseada nos cinco elementos principais dest
 
 ![Legenda Rich Picture](../_media/legenda_rp_macro.png "Rich Picture Micro Version 1")
 
-<figcaption>Imagem 4: Legenda Rich Pictures.</figcaption>
+<figcaption>Imagem 4: Legenda Rich Pictures; Fonte: autoria própria.</figcaption>
 
 </center>
 

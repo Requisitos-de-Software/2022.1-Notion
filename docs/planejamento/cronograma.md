@@ -144,9 +144,9 @@ O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvo
 
 Apresentação do roadmap do zenhub da equipe, mostrando todas as sprints na _Figura 1_.
 
-| ![image](../_media/roadMapSprint2.png)   |
-|------------------------------------------|
-| _Figura 1: roadmap das sprints_          |
+| ![image](../_media/roadMapSprint2.png)                   |
+|----------------------------------------------------------|
+| _Figura 1: roadmap das sprints; Fonte: autoria própria._ |
 
 ### 3.2 Sprints
 
@@ -154,69 +154,69 @@ Apresentação do roadmap do zenhub da equipe, mostrando todas as sprints na _Fi
 
 O backlog da sprint 1 referente ao Épico: Planejamento do Projeto, representado na _Figura 2_.
 
-| ![image](https://user-images.githubusercontent.com/60429513/176330572-3297e021-309c-41f2-892f-86d12508774d.png)   |
-|-------------------------------------------------------------------------------------------------------------------|
-| _Figura 2: backlog da sprint 1_                                                                                   |
+| ![image](https://user-images.githubusercontent.com/60429513/176330572-3297e021-309c-41f2-892f-86d12508774d.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| _Figura 2: backlog da sprint 1; Fonte: autoria própria._                                                        |
 
 #### 3.2.2 Sprint 2
 
 O backlog da sprint 2 referente ao Épico: Elicitação de requisitos, representado na _Figura 3_ e na _Figura 4_ o kanban board.
 
-| ![image](../_media/backLogSprint2.png)   |
-|------------------------------------------|
-| _Figura 3: backlog da sprint 2_          |
+| ![image](../_media/backLogSprint2.png)                   |
+|----------------------------------------------------------|
+| _Figura 3: backlog da sprint 2; Fonte: autoria própria._ |
 
-| ![image](../_media/kanban2.png)       |
-|---------------------------------------|
-| _Figura 4: quadro kanban da sprint 2_ |
+| ![image](../_media/kanban2.png)                                |
+|----------------------------------------------------------------|
+| _Figura 4: quadro kanban da sprint 2; Fonte: autoria própria._ |
 
 #### 3.2.3 Sprint 3
 
 O backlog da sprint 3 referente ao Épico: Modelagem de Requisitos, representado na _Figura 5_, e na _Figura 6_ o kanban board.
 
-| ![image](../_media/product_backlog3.png)   |
-|--------------------------------------------|
-| _Figura 5: backlog da sprint 3_            |
+| ![image](../_media/product_backlog3.png)                 |
+|----------------------------------------------------------|
+| _Figura 5: backlog da sprint 3; Fonte: autoria própria._ |
 
-| ![image](../_media/kanban_sprint3.png)  |
-|-----------------------------------------|
-| _Figura 6: quadro kanban da sprint 3_   |
+| ![image](../_media/kanban_sprint3.png)                         |
+|----------------------------------------------------------------|
+| _Figura 6: quadro kanban da sprint 3; Fonte: autoria própria._ |
 
 #### 3.2.4 Sprint 4
 
 O backlog da sprint 4 referente ao Épico: Modelagem de Requisitos, representado na _Figura 7_, e na _Figura 8_ o kanban board.
 
-| ![image](../_media/SprintBackLog4REQ.png)  |
-|--------------------------------------------|
-| _Figura 7: backlog da sprint 4_            |
+| ![image](../_media/SprintBackLog4REQ.png)                |
+|----------------------------------------------------------|
+| _Figura 7: backlog da sprint 4; Fonte: autoria própria._ |
 
-| ![image](../_media/QuadroKanbanSprint4REQ.png)  |
-|-------------------------------------------------|
-| _Figura 8: quadro kanban da sprint 4_           |
+| ![image](../_media/QuadroKanbanSprint4REQ.png)                 |
+|----------------------------------------------------------------|
+| _Figura 8: quadro kanban da sprint 4; Fonte: autoria própria._ |
 
 #### 3.2.5 Sprint 5
 
 O backlog da sprint 5 referente ao Épico: Verificação e Validação, representado na _Figura 9_, e na _Figura 10_ o kanban board.
 
-| ![image](../_media/SprintBackLog5REQ.png)  |
-|--------------------------------------------|
-| _Figura 9: backlog da sprint 5_            |
+| ![image](../_media/SprintBackLog5REQ.png)                |
+|----------------------------------------------------------|
+| _Figura 9: backlog da sprint 5; Fonte: autoria própria._ |
 
-| ![image](../_media/QuadroKanbanSprint5REQ.png)  |
-|-------------------------------------------------|
-| _Figura 10: quadro kanban da sprint 5_          |
+| ![image](../_media/QuadroKanbanSprint5REQ.png)                  |
+|-----------------------------------------------------------------|
+| _Figura 10: quadro kanban da sprint 5; Fonte: autoria própria._ |
 
 #### 3.2.6 Sprint 6
 
 O backlog da sprint 6 referente ao Épico: Verificação e Validação, representado na _Figura 9_, e na _Figura 10_ o kanban board.
 
-| ![image](../_media/SprintBackLog6REQ.png)   |
-|---------------------------------------------|
-| _Figura 9: backlog da sprint 6_             |
+| ![image](../_media/SprintBackLog6REQ.png)                |
+|----------------------------------------------------------|
+| _Figura 9: backlog da sprint 6; Fonte: autoria própria._ |
 
-| ![image](../_media/QuadroKanbanSprint6REQ.png)  |
-|-------------------------------------------------|
-| _Figura 10: quadro kanban da sprint 6_          |
+| ![image](../_media/QuadroKanbanSprint6REQ.png)                  |
+|-----------------------------------------------------------------|
+| _Figura 10: quadro kanban da sprint 6; Fonte: autoria própria._ |
 
 ## Histórico de Versões
 

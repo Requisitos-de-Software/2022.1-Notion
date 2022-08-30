@@ -8,7 +8,6 @@ Perfil do Usuário:
 
 O usuário são pessoas que possuem contato ou facilidade com tecnologia, entre a faixa etária de 18 a 40 anos (jovens e adultos), grau de instrução a partir de Ensino Médio completo, e que buscam organizar, planejar e aumentar a produtividade com aplicativo "tudo-em-um".
 
-
 # Personas
 
 ## 1. Introdução
@@ -23,9 +22,9 @@ Ainda existem as antipersonas para tornar claro que não estamos projetando para
 
 <div style="text-align:center">
 
-|![Figura 1](../_media/persona1.jpg)|
-|:----:|
-|Imagem 1: Persona Carlos da Silva|
+|                 ![Figura 1](../_media/persona1.jpg)                  |
+|:--------------------------------------------------------------------:|
+| Imagem 1: Persona Carlos da Silva; Fonte: This person doesn't exist. |
 
 </div>
 
@@ -52,9 +51,9 @@ Objetivos práticos:
 
 <div style="text-align:center">
 
-|![Figura 2](../_media/persona2.jpg)|
-|:----:|
-|Imagem 2: Persona Marina Costa|
+|                ![Figura 2](../_media/persona2.jpg)                |
+|:-----------------------------------------------------------------:|
+| Imagem 2: Persona Marina Costa; Fonte: This person doesn't exist. |
 
 </div>
 
@@ -84,9 +83,9 @@ Objetivos práticos:
 
 <div style="text-align:center">
 
-|![Figura 3](../_media/persona3.jpg)|
-|:----:|
-|Imagem 3: Persona Marcelo Araújo|
+|                 ![Figura 3](../_media/persona3.jpg)                 |
+|:-------------------------------------------------------------------:|
+| Imagem 3: Persona Marcelo Araújo; Fonte: This person doesn't exist. |
 
 </div>
 
@@ -117,9 +116,9 @@ Objetivos práticos:
 ### 3.1 Julio Almeida:
 
 
-|![Figura 4](../_media/antipersona.jpg)|
-|:----:|
-|Imagem 4: Antipersona Julio Almeida|
+|                 ![Figura 4](../_media/antipersona.jpg)                 |
+|:----------------------------------------------------------------------:|
+| Imagem 4: Antipersona Julio Almeida; Fonte: This person doesn't exist. |
 
 Julio Almeida, estudante - "brincar é melhor que estudar"
 

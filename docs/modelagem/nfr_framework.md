@@ -22,29 +22,26 @@ interdependências</i>, se ramificam em dois e os procedimentos de avaliação e
 
 Representa os Requisitos Não-Funcionais e tem sua representação gráfica na Figura 1.
 
-| Figura 1: Softgoal NFR |
-|---------|
-| ![image](../_media/softgoal_nfr.png) |
-| Fonte: (CHUNG et al., 2000) |
+| ![image](../_media/softgoal_nfr.png)                    |
+|---------------------------------------------------------|
+| _Figura 1: Softgoal NFR ; Fonte: (CHUNG et al., 2000)._ |
 
 #### Operacionalização
 
 Representam operações, processos e estruturações utilizados para satisfazer os softgoals NFR.
 
-| Figura 2: Softgoal de Operacionalização |
-|----------------------------------------|
-| ![image](../_media/softgoal_operacionalizacao.png) |
-| Fonte: (CHUNG et al., 2000) |
+| ![image](../_media/softgoal_operacionalizacao.png)                      |
+|-------------------------------------------------------------------------|
+| _Figura 2: Softgoal de Operacionalização; Fonte: (CHUNG et al., 2000)._ |
 
 #### Afirmação
 
 Apoiam as tarefas de priorização e refinamento dos softgoals. Em suma, embasam as tomadas de decisão e os rumos do
 sistema.
 
-| Figura 3: Softgoal de Afirmação        |
-|----------------------------------------|
-| ![image](../_media/softgoal_afirmacao.jpeg) |
-| Fonte: (CHUNG et al., 2000) |
+| ![image](../_media/softgoal_afirmacao.jpeg)                     |
+|-----------------------------------------------------------------|
+| _Figura 3: Softgoal de Afirmação; Fonte: (CHUNG et al., 2000)._ |
 
 ### 2.2 Interdependências
 
@@ -56,9 +53,9 @@ Graficamente, esse ramificação pode ser realizada em qualquer um dos três tip
 adição) e é representada por um vetor
 que parte dos filhos no sentido do pai (Figura 4).
 
-| Figura 4: Exemplo de decomposição em softgoal NFR|
-|----------------------------------------|
-| ![image](../_media/decomposicao_softgoal_nfr.jpg) |
+| ![image](../_media/decomposicao_softgoal_nfr.jpg)    |
+|------------------------------------------------------|
+| _Figura 4: Exemplo de decomposição em softgoal NFR._ |
 
 ### Contribuições:
 
@@ -74,9 +71,9 @@ que expressm a relação de decomposição.
 
 Se os <i>softgoals</i> descendentes forem satisfeitos os ascendentes também o serão. Exemplo na Figura 5.
 
-| Figura 5: Exemplo de contribuição <i>AND</i> entre softgoals NFR|
-|----------------------------------------|
-| ![image](../_media/exemplo_contribuicao_and.jpeg) |
+| ![image](../_media/exemplo_contribuicao_and.jpeg )                  |
+|---------------------------------------------------------------------|
+| _Figura 5: Exemplo de contribuição <i>AND</i> entre softgoals NFR._ |
 
 #### Contribuição <i>OR</i>:
 
@@ -89,10 +86,9 @@ se cada
 softgoal ou interdependência do SIG foi suficientemente satisfeito. Para isso, são atribuídos rótulos aos softgoals
 conforme a Figura 6.
 
-| Figura 6: Rótulos utilizados pelos softgoals|
-|----------------------------------------|
-| ![image](../_media/procedimento_avaliacao.jpg) |
-| Fonte: Baseado em (CHUNG et al., 2000) |
+| ![image](../_media/procedimento_avaliacao.jpg)                                        |
+|---------------------------------------------------------------------------------------|
+| _Figura 6: Rótulos utilizados pelos softgoals; Fonte: Baseado em (CHUNG et al., 2000)._ |
 
 ## 3. Diagramas
 
@@ -101,39 +97,39 @@ portabilidade.
 
 ### Usabilidade - sem propagação
 
-| ![image](../_media/usabilidade_sem_propagacao.jpg) |
-|----------------------------------------|
-| Figura 8: Análise sem propagação do aspecto de usabilidade|
+| ![image](../_media/usabilidade_sem_propagacao.jpg)          |
+|-------------------------------------------------------------|
+| _Figura 8: Análise sem propagação do aspecto de usabilidade._ |
 
 ### Usabilidade - com propagação
 
-| ![image](../_media/usabilidade_com_propagacao.jpg)         |
-|------------------------------------------------------------|
-| Figura 9: Análise com propagação do aspecto de usabilidade |
+| ![image](../_media/usabilidade_com_propagacao.jpg)          |
+|-------------------------------------------------------------|
+| _Figura 9: Análise com propagação do aspecto de usabilidade._ |
 
 ### Confiabilidade - sem propagação
 
-| ![image](../_media/confiabilidade_sem_propagacao.jpg)                                    |
-|-------------------------------------------------------------|
-| Figura 10: Análise sem propagação do aspecto de confiabilidade |
+| ![image](../_media/confiabilidade_sem_propagacao.jpg)           |
+|-----------------------------------------------------------------|
+| _Figura 10: Análise sem propagação do aspecto de confiabilidade._ |
 
 ### Confiabilidade - com propagação
 
-| ![image](../_media/confiabilidade_com_propagacao.jpg)          |
-|----------------------------------------------------------------|
-| Figura 11: Análise com propagação do aspecto de confiabilidade |
+| ![image](../_media/confiabilidade_com_propagacao.jpg)             |
+|-------------------------------------------------------------------|
+| _Figura 11: Análise com propagação do aspecto de confiabilidade._ |
 
 ### Portabilidade - sem propagação
 
-| ![image](../_media/portabilidade_sem_propagacao.jpg)          |
-|---------------------------------------------------------------|
-| Figura 12: Análise sem propagação do aspecto de portabilidade |
+| ![image](../_media/portabilidade_sem_propagacao.jpg)             |
+|------------------------------------------------------------------|
+| _Figura 12: Análise sem propagação do aspecto de portabilidade._ |
 
 ### Portabilidade - com propagação
 
-| ![image](../_media/portabilidade_com_propagacao.jpg)        |
-|-------------------------------------------------------------|
-| Figura 13: Análise com propagação do aspecto de portabilidade |
+| ![image](../_media/portabilidade_com_propagacao.jpg)             |
+|------------------------------------------------------------------|
+| _Figura 13: Análise com propagação do aspecto de portabilidade._ |
 
 ## Referências Bibliográficas
 

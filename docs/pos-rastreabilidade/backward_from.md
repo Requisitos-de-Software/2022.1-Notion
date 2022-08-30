@@ -62,6 +62,7 @@ A partir da definição de rastreabilidade foward-from, foi possível construir 
 | RF31   | O usuário deve ser informado da situação do clima em sua região.                                           | Brainstorming  | Todas |
 | RF32   | O usuário deve conseguir criar uma conta                                                                   | Brainstorming  | Todas |
 | RF33   | O usuário deve conseguir realizar logout                                                                   | Brainstorming  | Todas  |
+
 _Tabela 1: Requisitos funcionais resultado_
 
 | Código | Requisitos Não Funcionais                                            | Técnica       | Persona |
@@ -71,15 +72,16 @@ _Tabela 1: Requisitos funcionais resultado_
 | RNF3   | O aplicativo deve ser cross-plataform                                | Questionário  | - |
 | RNF4   | As Formulas Matemáticas devem seguir o formato LaTeX.                | Brainstorming | Todas | 
 | RNF5   | A sintaxe dos códigos devem seguir uma das linguagens mais recentes. | Brainstorming |  Todas |
+
 _Tabela 2: Requisitos não funcionais resultado_
 
 ### 2.2 Elos
 
 ## E1
 
-Requisito| Categoria | Satifação |
---------|--------| ----------------------|
-RF1| Desenvolvimento       |   [C05: Cadastro de página em branco](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco)  <br> [LX02 - Criar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar)                  |
+Requisito | Categoria             | Satifação                                                                                                                                                                                                                                                           |
+--------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+RF1 | Desenvolvimento       | [C05: Cadastro de página em branco](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/cenarios?id=c05-cadastro-de-p%c3%a1gina-em-branco)  <br> [LX02 - Criar](https://requisitos-de-software.github.io/2022.1-Notion/#/modelagem/lexicos?id=criar) |
 
 ## E2 
 

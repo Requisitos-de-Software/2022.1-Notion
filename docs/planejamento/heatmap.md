@@ -3,8 +3,8 @@
 O heatmap da _Figura 1_ tem por objetivo transparecer os horários livres dos membros da equipe, dessa forma é possível organizar e documentar os melhores dias e horários para a realização de reuniões.
 
 | ![Heatmap](../_media/heatmap.png "versionamento") |
-|--------------------------------------------------|
-| Figura 1: HeatMap                                |
+|---------------------------------------------------|
+| Figura 1: HeatMap; Fonte: autoria própria.        |
 
 ## Histórico de Versões
 
