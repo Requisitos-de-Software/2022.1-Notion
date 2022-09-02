@@ -2,8 +2,6 @@
 
 Nessa seção, vamos definir e apresentar o diagrama de casos de uso referente ao app escolhido. Iremos definir primeiro *Caso de Uso*.
 
-<br/>
-
 ## 1. Definição
 
 Um caso de uso é uma espécie de classificador comportamental (um classificador que pode ter comportamentos definidos em seu contexto) que especifica uma unidade completa de uma funcionalidade útil executada por um ou mais assuntos aos quais o caso de uso se aplica em colaboração com um ou mais atores e que produz um resultado observável que é de algum valor para aqueles atores (ou outras partes interessadas) de cada assunto. 
@@ -51,20 +49,153 @@ _Tabela 2: Coletânea de Relações em um Diagrama de Caso de Uso e seus signifi
 
 Após análise do app selecionado e tomando como base os requisitos elicitados na seção [Elicitação](../elicitacao/resultado.md), a construção dos Diagramas de Casos de Uso foi feita e pode ser vista nas imagens abaixo:
 
-### UC-Conta
-|![US_Conta](../_media/us_conta.png) |
-|:--:|
-|Figura 1: Diagrama de Casos de Uso referentes a Autenticação; Fonte: autoria própria. |
+### 2.1 UC-Conta
+| ![US_Conta](../_media/us_conta.png)                                                   |
+|---------------------------------------------------------------------------------------|
+| Figura 1: Diagrama de Casos de Uso referentes a Autenticação; Fonte: autoria própria. |
 
-### UC-Documento
-|![US_Conta](../_media/us_documento.png)|
-|:--:|
-|Figura 2: Diagrama de Casos de Uso referentes a Documentos; Fonte: autoria própria. |
+### 2.1.1 Caso de Uso 1 - Fazer Login
 
-### UC-Workspace
-|![US_Conta](../_media/us_workspace.png)|
-|:--:|
-|Figura 3: Diagrama de Casos de Uso referentes a Workspaces; Fonte: autoria própria. |
+| Informação      | Descrição                                                                                                                     |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Nome            | Fazer Login                                                                                                                   |
+| Descrição       | O usuário faz o login com a sua conta no app do notion                                                                        |
+| Ator            | Usuário                                                                                                                       |
+| Pré-condição    | Ter uma conta no notion                                                                                                       |
+| Fluxo Principal | -  Clica no app do notion<br/>- Inserir o e-mail com o qual fez o cadastro<br/>- Inserir senha<br/>- Apertar na tecla 'enter' |
+| Pós-condição    | Estar logado no app e poder ter acesso às funcionalidades                                                                     |
+
+### 2.1.2 Caso de Uso 2 - Fazer Logout
+
+| Informação      | Descrição                                                               |
+|-----------------|-------------------------------------------------------------------------|
+| Nome            | Fazer Logout                                                            |
+| Descrição       | O usuário sai da sua conta cadastrada no app                            |
+| Ator            | Usuário                                                                 |
+| Pré-condição    | Estar logado                                                            |
+| Fluxo Principal | - Usuário clica na workspace onde ele está<br/>- clica em 'Log out all' |
+| Pós-condição    | O usuário não está mais conectado com sua conta no app                  |
+
+### 2.1.3 Caso de Uso 3 - Cadastrar Conta
+
+| Informação      | Descrição                                                                                     |
+|-----------------|-----------------------------------------------------------------------------------------------|
+| Nome            | Cadastrar Conta                                                                               |
+| Descrição       | O usuário cadastra uma conta no notion, onde poderá fazer uso das funcionalidades do app      |
+| Ator            | Usuário                                                                                       |
+| Pré-condição    | Estar conectado na internet                                                                   |
+| Fluxo Principal | - Usuário abre o app<br/>- clica em cadastrar conta<br/>- Preenche os campos necessários<br/> |
+| Pós-condição    | O usuário tem um cadastro no app do notion                                                    |
+
+### 2.2 UC-Documento
+| ![US_Conta](../_media/us_documento.png)                                             |
+|-------------------------------------------------------------------------------------|
+| Figura 2: Diagrama de Casos de Uso referentes a Documentos; Fonte: autoria própria. |
+
+### 2.2.1 Caso de Uso 4 - Editar Página
+
+| Informação      | Descrição     |
+|-----------------|---------------|
+| Nome            | Editar Página |
+| Descrição       |               |
+| Ator            |               |
+| Pré-condição    |               |
+| Fluxo Principal |               |
+| Pós-condição    |               |
+
+### 2.2.2 Caso de Uso 5 - Ver Atualizações da Página
+
+| Informação      | Descrição                  |
+|-----------------|----------------------------|
+| Nome            | Ver Atualizações da Página |
+| Descrição       |                            |
+| Ator            |                            |
+| Pré-condição    |                            |
+| Fluxo Principal |                            |
+| Pós-condição    |                            |
+
+### 2.2.3 Caso de Uso 6 - Favoritar Página
+
+| Informação      | Descrição        |
+|-----------------|------------------|
+| Nome            | Favoritar Página |
+| Descrição       |                  |
+| Ator            |                  |
+| Pré-condição    |                  |
+| Fluxo Principal |                  |
+| Pós-condição    |                  |
+
+### 2.2.4 Caso de Uso 7 - Pesquisar Páginas
+
+| Informação      | Descrição         |
+|-----------------|-------------------|
+| Nome            | Pesquisar Páginas |
+| Descrição       |                   |
+| Ator            |                   |
+| Pré-condição    |                   |
+| Fluxo Principal |                   |
+| Pós-condição    |                   |
+
+### 2.2.5 Caso de Uso 8 - Excluir Página
+
+| Informação      | Descrição      |
+|-----------------|----------------|
+| Nome            | Excluir Página |
+| Descrição       |                |
+| Ator            |                |
+| Pré-condição    |                |
+| Fluxo Principal |                |
+| Pós-condição    |                |
+
+### 2.2.6 Caso de Uso 9 - Adicionar Página
+
+| Informação      | Descrição        |
+|-----------------|------------------|
+| Nome            | Adicionar Página |
+| Descrição       |                  |
+| Ator            |                  |
+| Pré-condição    |                  |
+| Fluxo Principal |                  |
+| Pós-condição    |                  |
+
+### 2.3 UC-Workspace
+| ![US_Conta](../_media/us_workspace.png)                                             |
+|-------------------------------------------------------------------------------------|
+| Figura 3: Diagrama de Casos de Uso referentes a Workspaces; Fonte: autoria própria. |
+
+### 2.3.1 Caso de Uso 10 - Criar Workspace
+
+| Informação      | Descrição       |
+|-----------------|-----------------|
+| Nome            | Criar Workspace |
+| Descrição       |                 |
+| Ator            |                 |
+| Pré-condição    |                 |
+| Fluxo Principal |                 |
+| Pós-condição    |                 |
+
+### 2.3.2 Caso de Uso 11 - Deletar Workspace
+
+| Informação      | Descrição          |
+|-----------------|--------------------|
+| Nome            | Deletar Workspace  |
+| Descrição       |                    |
+| Ator            |                    |
+| Pré-condição    |                    |
+| Fluxo Principal |                    |
+| Pós-condição    |                    |
+
+### 2.3.3 Caso de Uso 12 - Juntar a um Workspace
+
+| Informação      | Descrição              |
+|-----------------|------------------------|
+| Nome            | Juntar a um Workspace  |
+| Descrição       |                        |
+| Ator            |                        |
+| Pré-condição    |                        |
+| Fluxo Principal |                        |
+| Pós-condição    |                        |
+
 
 ## Referências Bibliográficas
 
