@@ -209,9 +209,10 @@ UML DIAGRAMS - Use Case Diagrams -  https://www.uml-diagrams.org/use-case-diagra
 
 ## Histórico de Versões
 
-| Versão | Data        | Descrição                                               | Autor             | Revisor |
-|--------|-------------|---------------------------------------------------------|-------------------|---------|
-| 1.0    | 19/07/2022  |  Criação da Página e Incorporação de Texto Introdutório | Guilherme Brito   | Arthur  |
+| Versão | Data       | Descrição                                              | Autor             | Revisor |
+|--------|------------|--------------------------------------------------------|-------------------|---------|
+| 1.0    | 19/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Guilherme Brito   | Arthur  |
+| 1.1    | 03/09/2022 | Adição das tabelas de casos de uso (1 - 12)            | Bernardo Pissutti | -       |
 <style>
     .img_table{
         height: 150px;
