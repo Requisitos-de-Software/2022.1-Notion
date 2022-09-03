@@ -73,7 +73,7 @@ Após análise do app selecionado e tomando como base os requisitos elicitados n
 | Descrição       | O usuário sai da sua conta cadastrada no app                            |
 | Ator            | Usuário                                                                 |
 | Pré-condição    | Estar logado                                                            |
-| Fluxo Principal | - Usuário clica na workspace onde ele está<br/>- clica em 'Log out all' |
+| Fluxo Principal | - Usuário clica na workspace onde ele está<br/>- Clica em 'Log out all' |
 | Pós-condição    | O usuário não está mais conectado com sua conta no app                  |
 
 ### 2.1.3 Caso de Uso 3 - Cadastrar Conta
@@ -84,7 +84,7 @@ Após análise do app selecionado e tomando como base os requisitos elicitados n
 | Descrição       | O usuário cadastra uma conta no notion, onde poderá fazer uso das funcionalidades do app      |
 | Ator            | Usuário                                                                                       |
 | Pré-condição    | Estar conectado na internet                                                                   |
-| Fluxo Principal | - Usuário abre o app<br/>- clica em cadastrar conta<br/>- Preenche os campos necessários<br/> |
+| Fluxo Principal | - Usuário abre o app<br/>- Clica em cadastrar conta<br/>- Preenche os campos necessários<br/> |
 | Pós-condição    | O usuário tem um cadastro no app do notion                                                    |
 
 ### 2.2 UC-Documento
@@ -94,69 +94,69 @@ Após análise do app selecionado e tomando como base os requisitos elicitados n
 
 ### 2.2.1 Caso de Uso 4 - Editar Página
 
-| Informação      | Descrição     |
-|-----------------|---------------|
-| Nome            | Editar Página |
-| Descrição       |               |
-| Ator            |               |
-| Pré-condição    |               |
-| Fluxo Principal |               |
-| Pós-condição    |               |
+| Informação      | Descrição                                                                    |
+|-----------------|------------------------------------------------------------------------------|
+| Nome            | Editar Página                                                                |
+| Descrição       | O usuário digita ou modifica a página como quiser, dada as restrições do app |
+| Ator            | Usuário                                                                      |
+| Pré-condição    | Estar logado e ter uma página criada                                         |
+| Fluxo Principal | - Abrir a página que deseja editar<br/>- Digitar o que quiser nela           |
+| Pós-condição    | Ter uma página alterada                                                      |
 
 ### 2.2.2 Caso de Uso 5 - Ver Atualizações da Página
 
-| Informação      | Descrição                  |
-|-----------------|----------------------------|
-| Nome            | Ver Atualizações da Página |
-| Descrição       |                            |
-| Ator            |                            |
-| Pré-condição    |                            |
-| Fluxo Principal |                            |
-| Pós-condição    |                            |
+| Informação      | Descrição                                                                                         |
+|-----------------|---------------------------------------------------------------------------------------------------|
+| Nome            | Ver Atualizações da Página                                                                        |
+| Descrição       | O usuário pode ver todas as atualizações que fora feitas na página, incluindo o dia que foi feita |
+| Ator            | Usuário                                                                                           |
+| Pré-condição    | Ter uma página criada e te-la editado                                                             |
+| Fluxo Principal | - Abrir a página que deseja ver as atualizações<br/>- Clicar no icone de relógio                  |
+| Pós-condição    | Ter visualizado o historico de atualizações da página                                             |
 
 ### 2.2.3 Caso de Uso 6 - Favoritar Página
 
-| Informação      | Descrição        |
-|-----------------|------------------|
-| Nome            | Favoritar Página |
-| Descrição       |                  |
-| Ator            |                  |
-| Pré-condição    |                  |
-| Fluxo Principal |                  |
-| Pós-condição    |                  |
+| Informação      | Descrição                                                                                                |
+|-----------------|----------------------------------------------------------------------------------------------------------|
+| Nome            | Favoritar Página                                                                                         |
+| Descrição       | O usuário favorita a página que ele deseja e ela passa a aparecer em uma seção separada do barra lateral |
+| Ator            | Usuário                                                                                                  |
+| Pré-condição    | Ter uma página                                                                                           |
+| Fluxo Principal | - Abrir a página que deseja favoritar<br/>- Clicar no icone de estrela                                   |
+| Pós-condição    | Ter a página favoritada na seção de 'favorites' na barra laterial                                        |
 
 ### 2.2.4 Caso de Uso 7 - Pesquisar Páginas
 
-| Informação      | Descrição         |
-|-----------------|-------------------|
-| Nome            | Pesquisar Páginas |
-| Descrição       |                   |
-| Ator            |                   |
-| Pré-condição    |                   |
-| Fluxo Principal |                   |
-| Pós-condição    |                   |
+| Informação      | Descrição                                                                                                                   |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Nome            | Pesquisar Páginas                                                                                                           |
+| Descrição       | O usuário pesquisa a página que quiser para ter acesso mais rápido a ela                                                    |
+| Ator            | Usuário                                                                                                                     |
+| Pré-condição    | Ter a página criada                                                                                                         |
+| Fluxo Principal | - Clicar no a opção de pesquisa na barra laterial<br/>- Digitar o nome da página que deseja pesquisar<br/>- Apertar 'enter' |
+| Pós-condição    |  Ter acesso a página pesquisada                                                                                             |
 
 ### 2.2.5 Caso de Uso 8 - Excluir Página
 
-| Informação      | Descrição      |
-|-----------------|----------------|
-| Nome            | Excluir Página |
-| Descrição       |                |
-| Ator            |                |
-| Pré-condição    |                |
-| Fluxo Principal |                |
-| Pós-condição    |                |
+| Informação      | Descrição                                                                                            |
+|-----------------|------------------------------------------------------------------------------------------------------|
+| Nome            | Excluir Página                                                                                       |
+| Descrição       | O usuário remove da sua conta uma página que ele não deseja mais                                     |
+| Ator            | Usuário                                                                                              |
+| Pré-condição    | A página deve existir                                                                                |
+| Fluxo Principal | - Clicar com o butão direito do mouse na página que deseja excluir<br/>- Clicar na opção de 'Delete' |
+| Pós-condição    | Não terá mais a página excluida na conta                                                             |
 
 ### 2.2.6 Caso de Uso 9 - Adicionar Página
 
-| Informação      | Descrição        |
-|-----------------|------------------|
-| Nome            | Adicionar Página |
-| Descrição       |                  |
-| Ator            |                  |
-| Pré-condição    |                  |
-| Fluxo Principal |                  |
-| Pós-condição    |                  |
+| Informação      | Descrição                                      |
+|-----------------|------------------------------------------------|
+| Nome            | Adicionar Página                               |
+| Descrição       | O usuário adiciona uma página na conta dele    |
+| Ator            | Usuário                                        |
+| Pré-condição    | Estar logado                                   |
+| Fluxo Principal | - Clicar no simbolo de 'mais' na barra lateral |
+| Pós-condição    | Ter uma nova página na conta                   |
 
 ### 2.3 UC-Workspace
 | ![US_Conta](../_media/us_workspace.png)                                             |
@@ -165,36 +165,36 @@ Após análise do app selecionado e tomando como base os requisitos elicitados n
 
 ### 2.3.1 Caso de Uso 10 - Criar Workspace
 
-| Informação      | Descrição       |
-|-----------------|-----------------|
-| Nome            | Criar Workspace |
-| Descrição       |                 |
-| Ator            |                 |
-| Pré-condição    |                 |
-| Fluxo Principal |                 |
-| Pós-condição    |                 |
+| Informação      | Descrição                                                                                                                                                |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome            | Criar Workspace                                                                                                                                          |
+| Descrição       | Ter outro workspace na conta para dividir melhor as categorias das páginas                                                                               |
+| Ator            | Usuário                                                                                                                                                  |
+| Pré-condição    | Estar logado                                                                                                                                             |
+| Fluxo Principal | - Clicar no workspace atual<br/>- Clicar nos três pontinhos do lado do e-mail<br/>- Clicar em 'Join or create workspace'- Escolher a opção 'For myself'  |
+| Pós-condição    | Ter um workspace a mais na conta                                                                                                                         |
 
 ### 2.3.2 Caso de Uso 11 - Deletar Workspace
 
-| Informação      | Descrição          |
-|-----------------|--------------------|
-| Nome            | Deletar Workspace  |
-| Descrição       |                    |
-| Ator            |                    |
-| Pré-condição    |                    |
-| Fluxo Principal |                    |
-| Pós-condição    |                    |
+| Informação      | Descrição                                                                                           |
+|-----------------|-----------------------------------------------------------------------------------------------------|
+| Nome            | Deletar Workspace                                                                                   |
+| Descrição       | O usuário exclui o workspace                                                                        |
+| Ator            | Usuário                                                                                             |
+| Pré-condição    | Estar logado e ter mais de uma workspace                                                            |
+| Fluxo Principal | - Clicar em 'settings & member'<br/>- Clicar em 'setting'<br/>- Clicar em 'Delete entire workspace' |
+| Pós-condição    | Ter o workspace apagado                                                                             |
 
 ### 2.3.3 Caso de Uso 12 - Juntar a um Workspace
 
-| Informação      | Descrição              |
-|-----------------|------------------------|
-| Nome            | Juntar a um Workspace  |
-| Descrição       |                        |
-| Ator            |                        |
-| Pré-condição    |                        |
-| Fluxo Principal |                        |
-| Pós-condição    |                        |
+| Informação      | Descrição                                                                                                                                                 |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome            | Juntar a um Workspace                                                                                                                                     |
+| Descrição       | O usuário se junta a um workspace criado por outro usuário                                                                                                |
+| Ator            | Usuário                                                                                                                                                   |
+| Pré-condição    | Ter uma conta                                                                                                                                             |
+| Fluxo Principal | - Clicar no workspace atual<br/>- Clicar nos três pontinhos do lado do e-mail<br/>- Clicar em 'Join or create workspace'- Escolher a opção 'With my team' |
+| Pós-condição    | Ter uma workspace compartilhado com outras pessoas                                                                                                        |
 
 
 ## Referências Bibliográficas
