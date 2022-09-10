@@ -203,18 +203,22 @@ https://forms.gle/jcfPwYnpMMMfXKDRA
 
 ### 3.1 Introdução
 
-O brainstorming fornece informações sobre os tipos de conteúdos e características que os usuários querem e desejam em um produto(Courage e Baxter, 2005)
+O brainstorming fornece informações sobre os tipos de conteúdos e características que os usuários querem e desejam em um
+produto(Courage e Baxter, 2005)
 
-### 3.2 Método
+### 3.2 Sessão 1
 
-A sessão de brainstorming foi realizada de 21:20 à 21:30 do dia 11 de julho de 2022. O moderador (Bernardo Pissutti), juntamento com mais 3 membros da equipe
-(Guilherme Brito, Leonardo, Arthur) realizaram o Brainstorming com o auxilio da ferramenta Miro. As conclusões podem ser obsevadas na _Figura 1_ interativa abaixo.
+#### 3.2.1 Método
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOqie_Mc=/?moveToViewport=-607,-1224,4233,2118&embedId=807759531387" frameborder="0" scrolling="no" allowfullscreen></iframe>
+A sessão de brainstorming foi realizada de 21:20 à 21:30 do dia 11 de julho de 2022. O moderador (Bernardo Pissutti), 
+juntamento com mais 3 membros da equipe(Guilherme Brito, Leonardo, Arthur) realizaram o Brainstorming com o auxilio da 
+ferramenta Miro. As conclusões podem ser obsevadas na _Figura 11_ interativa abaixo.
 
-_Figura 11: sessão de brainstorming; Fonte: autoria própria._
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOqie_Mc=/?moveToViewport=69,-928,2872,1300&embedId=975743771421" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-### 3.3 Resultados
+_Figura 11: sessão 1 de brainstorming; Fonte: autoria própria._
+
+#### 3.2.2 Resultados
 
 Nessa seção serão apresentados os resultados da técnica de brainstorming, mostrados na _Tabela 3_ e _Tabela 4_.
 
@@ -235,6 +239,40 @@ _Tabela 5: Requisitos funcionais_
 
 _Tabela 6: Requisitos não funcionais_
 
+### 3.3 Sessão 2
+
+
+#### 3.3.1 Método
+
+Essa sessão de brainstorming foi realizada de 11:39 à 11:47 do dia 10 de setembro de 2022, com o objetivo de elicitar 
+requisitos de funcionalidade não implementadas no app do Notion. O moderador (Bernardo Pissutti), juntamento com mais 
+2 membros da equipe(Cicero Fernandes e Leonardo Vitoriano) realizaram o brainstorming com o auxilio da ferramenta Miro. 
+As conclusões podem ser obsevadas na _Figura 12_ interativa abaixo.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPY-lE6Y=/?moveToViewport=-1125,-532,1667,754&embedId=676466904782" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+_Figura 12: sessão 2 de brainstorming; Fonte: autoria própria._
+
+#### 3.3.2 Resultados
+
+Nessa seção serão apresentados os resultados da técnica de brainstorming, mostrados na _Tabela 7_.
+
+| Código | Requisito                                                                                     |
+|--------|-----------------------------------------------------------------------------------------------|
+| RF1    | O usuário deve poder usar mesa e lápis digital a fim de editar meu caderno                    |
+| RF2    | O usuário deve poder criar seu próprio quadro kanban personalizado                            |
+| RF3    | O usuário deve poder visualizar próximas página por uma seta que guia o usuário à horizontal  |
+| RF4    | O usuário deve poder visualizar os topicos compartilhados pela comunidade através de uma guia |
+| RF5    | O usuário deve poder adicionar capas aos cadernos                                             |
+| RF6    | O usuário deve poder escolher entre templates de capas                                        |
+| RF7    | O usuário deve poder categorizar seus cadernos em tópicos                                     |
+
+_Tabela 7: Requisitos funcionais_
+
+#### 3.3.3 Vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/to1-TVr84rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina
@@ -246,9 +284,10 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de Versões
 
-| Versão   | Data       | Descrição                                 | Autor             | Revisor  |
-|----------|------------|-------------------------------------------|-------------------|----------|
-| 1.0      | 13/07/2022 | Adição da técnica de introspecção         | Cícero Fernandes  | Leonardo |
-| 1.1      | 13/07/2022 | Adição da técnica de questionário         | Arthur José       | Nicolas  |
-| 1.2      | 13/07/2022 | Adição da técnica de brainstorming        | Bernardo Pissutti | Todos    |
-| 1.3      | 24/07/2022 | Melhorando a documentação da introspecção | Bernardo Pissutti | -        |
+| Versão | Data       | Descrição                                 | Autor             | Revisor  |
+|--------|------------|-------------------------------------------|-------------------|----------|
+| 1.0    | 13/07/2022 | Adição da técnica de introspecção         | Cícero Fernandes  | Leonardo |
+| 1.1    | 13/07/2022 | Adição da técnica de questionário         | Arthur José       | Nicolas  |
+| 1.2    | 13/07/2022 | Adição da técnica de brainstorming        | Bernardo Pissutti | Todos    |
+| 1.3    | 24/07/2022 | Melhorando a documentação da introspecção | Bernardo Pissutti | -        |
+| 1.4    | 10/09/2022 | Documentando a sessão 2 do brainstorming  | Bernardo Pissutti | -        |
