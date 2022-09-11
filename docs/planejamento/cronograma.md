@@ -23,7 +23,7 @@ Nessa seção, serão encontradas todas as entregas e apresentações a serem mi
 | 25/08 | Apresentação do projeto etapa 6: Pós-Rastreabilidade - Gerência II                                                                                                                        |
 | 12/09 | Entrega da apresentação do projeto final                                                                                                                                                  |
 
-_Tabela 1: Cronograma geral de atividades._
+_Tabela 1: Cronograma geral de atividades. Fonte: autoria própria._
 
 ## 2. Cronograma Específico das Atividades
 
@@ -46,7 +46,7 @@ A _Tabela 2_ aborda as atividades feitas para a primeira entrega.
 | 28/06   | Criação da página inicial do Projeto                    | Guilherme Brito e Cicero | Arthur e Bernardo |
 | 28/06   | Gravação do projeto (síncrona)                          | Todos                    | Todos             |
 
-_Tabela 2: cronograma da primeira entrega_
+_Tabela 2: cronograma da primeira entrega. Fonte: autoria própria._
 
 ### 2.2 Segunda Entrega
 
@@ -66,7 +66,7 @@ A tabela 3 aborda as atividades feitas para a segunda entrega.
 | 13/07 | Brainstorming                                        | Arthur, Leonardo, Guilherme e Bernardo | Arthur, Leonardo, Guilherme e Bernardo |
 | 13/07 | Definição da técnica de brainstorming                | Bernardo                               | Todos                                  |
 
-_Tabela 3: cronograma da segunda entrega_
+_Tabela 3: cronograma da segunda entrega. Fonte: autoria própria._
 
 ### 2.3 Terceira Entrega
 
@@ -97,7 +97,7 @@ A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
 | 03/08         | Gravação da entrega                 | Todos               | Todos               |
 | 03/08         | Reunião de priorização              | Leonardo e Arthur   | Todos               |
 
-_Tabela 5: cronograma da quarta entrega_
+_Tabela 5: cronograma da quarta entrega. Fonte: autoria própria._
 
 ### 2.5 Quinta Entrega
 
@@ -120,11 +120,11 @@ A _Tabela 6_ aborda as atividades feitas para a quinta entrega.
 | 15/08           | Verificação Casos de uso                                | Leonardo                   | Bernardo           |
 | 17/08           | Gravação da entrega 5                                   | Todos                      | Todos              |
 
-_Tabela 6: cronograma da quinta entrega_
+_Tabela 6: cronograma da quinta entrega. Fonte: autoria própria._
 
 ### 2.6 Sexta Entrega
 
-A _Tabela 6_ aborda as atividades feitas para a sexta entrega.
+A _Tabela 7_ aborda as atividades feitas para a sexta entrega.
 
 | Data  | Atividade                                              | Responsáveis               | Revisores            |
 |-------|--------------------------------------------------------|----------------------------|----------------------|
@@ -134,7 +134,7 @@ A _Tabela 6_ aborda as atividades feitas para a sexta entrega.
 | 24/08 | Backward-from                                          | Nicolas e Arthur           | Leonardo e Cícero    |
 | 24/08 | Gravação da sexta entrega                              | Todos                      | Todos                |
 
-_Tabela 7: cronograma da sexta entrega_
+_Tabela 7: cronograma da sexta entrega. Fonte: autoria própria._
 
 ## 3. Roadmap e Sprints
 
