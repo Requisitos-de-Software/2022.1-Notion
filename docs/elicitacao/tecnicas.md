@@ -260,12 +260,11 @@ Nessa seção serão apresentados os resultados da técnica de brainstorming, mo
 | Código | Requisito                                                                                     |
 |--------|-----------------------------------------------------------------------------------------------|
 | RF1    | O usuário deve poder usar mesa e lápis digital a fim de editar meu caderno                    |
-| RF2    | O usuário deve poder criar seu próprio quadro kanban personalizado                            |
-| RF3    | O usuário deve poder visualizar próximas página por uma seta que guia o usuário à horizontal  |
-| RF4    | O usuário deve poder visualizar os topicos compartilhados pela comunidade através de uma guia |
-| RF5    | O usuário deve poder adicionar capas aos cadernos                                             |
-| RF6    | O usuário deve poder escolher entre templates de capas                                        |
-| RF7    | O usuário deve poder categorizar seus cadernos em tópicos                                     |
+| RF2    | O usuário deve poder visualizar próximas página por uma seta que guia o usuário à horizontal  |
+| RF3    | O usuário deve poder visualizar os topicos compartilhados pela comunidade através de uma guia |
+| RF4    | O usuário deve poder adicionar capas aos cadernos                                             |
+| RF5    | O usuário deve poder escolher entre templates de capas                                        |
+| RF6    | O usuário deve poder categorizar seus cadernos em tópicos                                     |
 
 _Tabela 7: Requisitos funcionais_
 
