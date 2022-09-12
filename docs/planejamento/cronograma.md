@@ -84,6 +84,8 @@ A _Tabela 4_ aborda as atividades feitas para a terceira entrega.
 | 13/07 | Cenários                                               | Nícolas             | Leonardo   |
 | 20/07 | Gravação do vídeo da entrega 3                         | Todos               | Todos      |
 
+_Tabela 4: cronograma da terceira entrega. Fonte: autoria própria._
+
 ### 2.4 Quarta Entrega
 
 A _Tabela 5_ aborda as atividades feitas para a quarta entrega.
