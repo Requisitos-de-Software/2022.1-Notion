@@ -42,6 +42,8 @@ Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de
 | RF31   | O usuário deve ser informado da situação do clima em sua região.                                           | Brainstorming  |
 | RF32   | O usuário deve conseguir criar uma conta                                                                   | Brainstorming  |
 | RF33   | O usuário deve conseguir realizar logout                                                                   | Brainstorming  |
+| RF34   | O usuário deve poder usar mesa e lápis digital a fim de editar meu caderno                                 | Brainstorming  |
+| RF35   | O usuário deve poder visualizar próximas página por uma seta que guia o usuário à horizontal               | Brainstorming  |
 
 _Tabela 1: Requisitos funcionais resultado_
 
