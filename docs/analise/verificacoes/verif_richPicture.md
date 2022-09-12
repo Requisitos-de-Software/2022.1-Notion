@@ -1,67 +1,76 @@
-# Verificação da Rich Picture
 
-## 1. Contexto 
 
-- Técnica utilizada: Inspeção com checklist.
+## 1. Introdução
+
+Neste artefato será feita a checklist de avaliação do artefato sobre
+<a href="https://requisitos-de-software.github.io/2022.1-Notion/#/pre-rastreabilidade/rich_picture">Rich Picture</a>,
+utilizando a metodologia e as estratégias descritas no documento de [Verificação](/analise/verif_principal.md).
+
 - Autor do documento: Nícolas Georgeos.
 - Inspetor: Leonardo Vitoriano.
 
 O documento verificado está <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/pre-rastreabilidade/rich_picture">aqui</a>
 
-## 2. Checklist
 
-Visando avaliar o Rich Picture sobre o Notion, tendo como base a definição de Revadi (2018) sobre as principais características e elementos no qual um Rich Picture deve conter, a seguinte checklist foi criada:
+## 2. Verificação
 
-1. O desenho é de fácil compreensão?
-2. O desenho possui atores?
-3. O desenho possui operações? 
-4. O desenho possui armazenamento de dados? 
-5. O desenho possui setas?
-6. O desenho possui fronteira?
-7. O(s) usuário(s) estão fora da fronteira?
-8. As relações fazem sentido?
-9. Os textos estão claros?
-10. Os símbolos estão coerentes?
+### 2.1 Preparação
+
+O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
+
+| Item                                     | Identificador |
+|------------------------------------------|---------------|
+| O desenho é de fácil compreensão?        | 1             |
+| O desenho possui atores?                 | 2             |
+| O desenho possui operações?              | 3             |
+| O desenho possui armazenamento de dados? | 4             |
+| O desenho possui setas?                  | 5             |
+| O desenho possui fronteira?              | 6             |
+| O(s) usuário(s) estão fora da fronteira? | 7             |
+| As relações fazem sentido?               | 8             |   
+| Os textos estão claros?                  | 9             |   
+| Os símbolos estão coerentes?             | 10            |   
  
 
-### 2.1 Resultado 
+_Tabela 1: Itens e identificadores da verificação do Planejamento da Análise de Tarefas_
 
-O resultado da checklist do item 2 pode ser encontrado na *tabela 1* abaixo: 
+### 2.2 Inspeção
 
-| Item da Checklist | RichPicture |
-| ----------------- | ----------- |
-| 1                 |    Sim      |
-| 2                 |    Sim      |
-| 3                 |    Sim      |
-| 4                 |    Sim      |
-| 5                 |    Sim      |
-| 6                 |    Sim      |
-| 7                 |    Sim      |
-| 8                 |    Sim      |
-| 9                 |    Sim      |
-| 10                |    Sim      |
+A inspeção foi realizada pelo integrante Leonardo Vitoriano no dia 15/08/2022.
+O resultado do inspeção dos itens levantados consta na _tabela 2_ abaixo.
 
-*Tabela 1: Resultado da Checklist*
+| Item da Checklist | UC-Conta |
+|-------------------|----------|
+| 1                 | ✅        |
+| 2                 | ✅        |
+| 3                 | ✅        |
+| 4                 | ✅        |
+| 5                 | ✅        |
+| 6                 | ✅        |
+| 7                 | ✅        |
+| 8                 | ✅        |
+| 9                 | ✅        |
+| 10                | ✅        |
 
-### 2.2 Dados Percentuais de Acerto
 
-Tendo como base a *tabela 1* do item 2.1, é possível descrever a porcentagem de sucesso do Rich Picture com relação aos 10 itens definidos na Checklist. A porcentagem de sucesso é descrita da *tabela 2*.
+_Tabela 2: resultado do checklist_
 
-| Rich Picture| Porcentagem de Sucesso | 
-| - | --- | 
-| 1 | 100% |  
+A Figura 1 representa um grafico de pizza que foi construído utilizando da Ferramenta:
+Google Sheets para melhor rastreamento dos itens nas próximas fases.
 
-*Tabela 2: Porcentagem de sucesso do Rich Picture*
+| ![imagemGráfico](../../_media/grafico_principiosgerais.png)                           |
+|---------------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.         |
 
-## 3. Conclusão
-
-De acordo com a verificação utilizando a checklist desenvolvida, é possível notar que todos os itens foram cumpridos, portanto o artefato Rich Picture está de acordo com o esperado e não necessita de correções.
+De acordo com a verificação utilizando a checklist desenvolvida, é possível notar que os
+itens 4, 9, 10 e 11 da Checklist em Casos de Uso não foram cumpridos, portanto o artefato Casos de Uso necessita de correções.
 
 ## Referência Bibliográfica
 
 REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. 2018.
 
 ## Histórico de Versões
-| Versão  | Data       | Descrição                                  | Autor              | Revisor   |
-|---------|------------|--------------------------------------------|--------------------|-----------|
-| 1.0     | 15/08/2022 | Criação do Contexto, Checklist e Conclusão | Leonardo Vitoriano | Guilherme |
+| Versão | Data       | Descrição                                  | Autor              | Revisor            |
+|--------|------------|--------------------------------------------|--------------------|--------------------|
+| 1.0    | 15/08/2022 | Criação do Contexto, Checklist e Conclusão | Leonardo Vitoriano | Guilherme          |
+| 1.1    | 12/09/2022 | Adaptação para o novo padrão               | Bernardo Pissutti  | Leonardo Vitoriano |

@@ -29,18 +29,18 @@ Visando avaliar os Cenários sobre o Notion, tendo como base a definição de Le
 
 O resultado da checklist do item 2 pode ser encontrado na *tabela 1* abaixo: 
 
-| Item da Checklist | Cenário 01 | Cenário 02 | Cenário 03 |  Cenário 04 | Cenário 05 | Cenário 06| Cenário 07| Cenário 08 | Cenário 09 | Cenário 10 | Cenário 11 | 
-| - | --- | --- | --- | --- | --- |  --- |  --- |  --- |  --- |  --- | --- |   
-| 1 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 2 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 3 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 4 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 5 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 6 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 7 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 8 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 9 | Sim | Sim | Sim | Sim | Sim |  Sim |  Sim |  Sim |  Sim |  Sim | Sim |  
-| 10| Sim | Sim | Não | Sim | Não |  Não |  Não |  Não |  Não |  Não | Sim | 
+| Item da Checklist | Cenário 01 | Cenário 02 | Cenário 03 | Cenário 04 | Cenário 05 | Cenário 06 | Cenário 07 | Cenário 08 | Cenário 09 | Cenário 10 | Cenário 11 | 
+|-------------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|
+| 1                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 2                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 3                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 4                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 5                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 6                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 7                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 8                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 9                 | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        | Sim        |
+| 10                | Sim        | Sim        | Não        | Sim        | Não        | Não        | Não        | Não        | Não        | Não        | Sim        |
 
 *Tabela 1: Resultado da Checklist*
 
@@ -48,19 +48,19 @@ O resultado da checklist do item 2 pode ser encontrado na *tabela 1* abaixo:
 
 Tendo como base a *tabela 1* do item 2.1, é possível descrever a porcentagem de sucesso dos Cenários com relação aos 10 itens definidos na Checklist. A porcentagem de sucesso é descrita da *tabela 2*.
 
-| Cenário | Porcentagem de Sucesso | 
-| - | --- | 
-| 1 | 100% |  
-| 2 | 100% |  
-| 3 | 90%  |  
-| 4 | 100% |  
-| 5 | 90%  |  
-| 6 | 90%  |  
-| 7 | 90%  |  
-| 8 | 90%  |  
-| 9 | 90%  |  
-| 10| 90%  | 
-| 11| 100% |
+| Cenário   | Porcentagem de Sucesso |
+|-----------|------------------------|
+| 1         | 100%                   |
+| 2         | 100%                   |
+| 3         | 90%                    |
+| 4         | 100%                   |
+| 5         | 90%                    |
+| 6         | 90%                    |
+| 7         | 90%                    |
+| 8         | 90%                    |
+| 9         | 90%                    |
+| 10        | 90%                    |
+| 11        | 100%                   |
 
 *Tabela 2: Porcentagem de sucesso dos Cenários*
 
