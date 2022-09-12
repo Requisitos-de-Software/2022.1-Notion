@@ -136,6 +136,29 @@ A _Tabela 7_ aborda as atividades feitas para a sexta entrega.
 
 _Tabela 7: cronograma da sexta entrega. Fonte: autoria própria._
 
+### 2.7 Sétima Entrega
+
+A _Tabela 8_ aborda as atividades feitas para a sexta entrega.
+
+| Data  | Atividade                                              | Responsáveis               | Revisores            |
+|-------|--------------------------------------------------------|----------------------------|----------------------|
+| 12/09 | Construção do cronograma de atividade da entrega final | Cícero                     | Todos                |
+| 12/09 | Adição do aplicativo selecionado ao slide                                          | Guilherme | Todos     |
+| 12/09 | Tabela do método de verificação e validação nos slides                                       | Guilherme              | Todos |
+| 12/09 | Planejamento dos recursos e das entregas nos slides                                         | Bernardo           |Todos   |
+| 12/09 |Execução do projeto nos slides                                    | Bernardo           |Todos   |
+| 12/09 |Tabela de técnicas nos slides                                    | Cícero           |Todos   |
+| 12/09 |Resultados alcançados nos slides                                    | Arthur           |Todos   |
+| 12/09 |Tabela de artefatos nos slides                                    | Nicolas           |Todos   |
+| 12/09 |Tabela de ferramentas nos slides                                    | Leonardo           |Todos   |
+| 12/09 | Adicionando texto dos resquisitos indicados na tabela de especificação           | Cícero           |Bernardo   |
+| 12/09 | Adição do protótipo           | Bernardo           |Nicolas   |
+| 12/09 | Correção na parte de elicitação com base no relatório           | Leonardo           |Nicolas   |
+| 12/09 | Adicionando autor nas tabelas de caso de uso           | Cícero           |Bernardo   |
+| 12/09 | Gravação da entrega final                              | Todos                      | Todos                |
+
+_Tabela 8: cronograma da sétima entrega. Fonte: autoria própria._
+
 ## 3. Roadmap e Sprints
 
 O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.

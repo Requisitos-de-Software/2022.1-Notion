@@ -31,6 +31,17 @@ O resultado da classificação dos requisitos utilizando o método FURPS pode se
  
 _Tabela 1: resultado da modelagem utilizando o método FURPS_
 
+De uma maneira mais abrangente, as letras do FURPS separadas por tópicos se mostraria desta maneira:
+
+## 3.1 Usabilidade
+- A interface do sistema deve ser responsiva
+- As Formulas Matemáticas devem seguir o formato LaTeX.
+
+## 3.2 Suportabilidade
+- Deve ser possível instalar a aplicação em dispositivos android.
+- O aplicativo deve ser cross-plataform.
+- A sintaxe dos códigos devem seguir uma das linguagens mais recentes.	
+
 ## Referências Bibliográficas
 https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/workproducts/rup_supplementary_specification_F5ACAA22.html
 
@@ -40,5 +51,6 @@ https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/checklists/supplemen
 
 | Versão  | Data       | Descrição                      | Autor             | Revisor   |
 |---------|------------|--------------------------------|-------------------|-----------|
-| 1.0     | 17/07/2002 | Criação da página              | Bernardo Pissutti | Guilherme |
-| 1.1     | 20/07/2002 | Correção de Erros Ortográficos | Guilherme Brito   | -         |
+| 1.0     | 17/07/2022 | Criação da página              | Bernardo Pissutti | Guilherme |
+| 1.1     | 20/07/2022 | Correção de Erros Ortográficos | Guilherme Brito   | -         |
+| 1.2     | 12/09/2022 | Listando os requisitos apresentados na tabela | Cícero   | Bernardo      |
