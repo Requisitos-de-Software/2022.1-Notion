@@ -154,6 +154,7 @@ A _Tabela 8_ aborda as atividades feitas para a sexta entrega.
 | 12/09 | Adicionando texto dos resquisitos indicados na tabela de especificação           | Cícero           |Bernardo   |
 | 12/09 | Adição do protótipo           | Bernardo           |Nicolas   |
 | 12/09 | Correção na parte de elicitação com base no relatório           | Leonardo           |Nicolas   |
+| 12/09 | Adicionando autor nas tabelas de caso de uso           | Cícero           |Bernardo   |
 | 12/09 | Gravação da entrega final                              | Todos                      | Todos                |
 
 _Tabela 8: cronograma da sétima entrega. Fonte: autoria própria._
