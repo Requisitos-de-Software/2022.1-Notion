@@ -49,8 +49,8 @@ https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/checklists/supplemen
 
 ## Histórico de Versões
 
-| Versão  | Data       | Descrição                      | Autor             | Revisor   |
-|---------|------------|--------------------------------|-------------------|-----------|
-| 1.0     | 17/07/2022 | Criação da página              | Bernardo Pissutti | Guilherme |
-| 1.1     | 20/07/2022 | Correção de Erros Ortográficos | Guilherme Brito   | -         |
-| 1.2     | 12/09/2022 | Listando os requisitos apresentados na tabela | Cícero   | Bernardo      |
+| Versão  | Data         | Descrição                                     | Autor             | Revisor      |
+|---------|--------------|-----------------------------------------------|-------------------|--------------|
+| 1.0     | 17/07/2022   | Criação da página                             | Bernardo Pissutti | Guilherme    |
+| 1.1     | 20/07/2022   | Correção de Erros Ortográficos                | Guilherme Brito   | -            |
+| 1.2     | 12/09/2022   | Listando os requisitos apresentados na tabela | Cícero            | Bernardo     |
