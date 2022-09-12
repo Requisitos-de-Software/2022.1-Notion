@@ -7,13 +7,15 @@ Elas se propõe à analise, uma vez que está preocupada em encontrar problemas 
 
 ## 2. Técnicas
 
-A técnica de validação utilizada pelo grupo foi a validação por comprovação informal. A
+O grupo optou pela utilização de 2 tecnicas para a validação, a validação por comprovação informal e por prototipagem.A
 validação por comprovação informal é feita através de uma leitura de descrições e linguagem natural e do uso dos clientes
-para identificar problemas na expressão dos requisitos.
+para identificar problemas na expressão dos requisitos. Já na prototipação, a ideia básica é que pela prototipação é possível
+validar os requisitos/especificação com base nas expectativas do usuário.
 
-## 3. Validação
+## 3. Validações
 
-[Validação por comprovação informal](analise/validacoes/comprovacao_informal.md)
+- [Validação por comprovação informal](analise/validacoes/comprovacao_informal.md) <br>
+- [Validação por prototipagem](analise/validacoes/valid_prototipagem.md)
 
 ## Referências Bibliográficas
 

@@ -95,6 +95,8 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RF31 | O usuário deve ser informado da situação do clima em sua região.                                           | W          |
 | RF32 | O usuário deve conseguir criar uma conta.                                                                  | M          |
 | RF33 | O usuário deve conseguir realizar logout                                                                   | M          |
+| RF34 | O usuário deve poder usar mesa e lápis digital a fim de editar meu caderno                                 | S          |
+| RF35 | O usuário deve poder visualizar próximas página por uma seta que guia o usuário à horizontal               | S          |
 | RNF1 | Deve ser possível instalar a aplicação em dispositivos android                                             | S          |
 | RNF2 | A interface do sistema deve ser responsiva                                                                 | S          |
 | RNF3 | O aplicativo deve ser cross-plataform                                                                      | S          |
