@@ -46,7 +46,7 @@ Essa técnica é muito simples. Consiste em atribuir uma das quatro letras M,S,C
 |    C    | Could: Consiste nos requisitos desejáveis, mas não necessários (do ponto de vista estratégico) e podem melhorar a satisfação do cliente com algum esforço de desenvolvimento. Dada a disponibidade de tempo e recursos, esses itens são atendidos.                                        |  
 |    W    | Would/Want/Won't: São os requisitos menos críticos, com menor retorno sobre o investimento ou não adequados para serem realizados.                                                                                                                                                        | 
 
-_Tabela 1: Tabela contendo o significado das letras da técnica MoSCow e em quais requisitos elas devem ser atribuidas._ 
+_Tabela 1: Tabela contendo o significado das letras da técnica MoSCow e em quais requisitos elas devem ser atribuidas. Fonte: autoria própria._ 
 
 Essa técnica foi a escolhida pois apresenta vantagens mais benéficas frente às outras técnicas, sendo elas:
 -   Fácil compreensão;
@@ -103,7 +103,7 @@ Ao analisar todos os requisitos identificados com o uso das técnicas de elicita
 | RNF4 | As Formulas Matemáticas devem seguir o formato LaTeX.                                                      | M          |
 | RNF5 | A sintaxe dos códigos devem seguir uma das linguagens mais recentes.                                       | M          |
 
-_Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades_
+_Tabela 2: Tabela contendo os requisitos e suas respectivas prioridades. Fonte: autoria própria._
 
 ## 4. 100 pontos
 

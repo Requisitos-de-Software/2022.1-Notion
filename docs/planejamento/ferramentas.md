@@ -12,7 +12,7 @@ A lista de ferramentas que serão utilizadas para a elaboração das atividades 
 |       ![drawing](../_media/figma_icon.png)       |                        [Figma](https://www.figma.com)                        | Elaboração das Rich Pictures e dos Diagramas Entidade-Relacionamento |
 |       ![drawing](../_media/miro_icon.png)        |                         [Miro](https://miro.com/pt/)                         |            Ferramento de auxilio ao método de brainstorm             |
 
-_Tabela 1: Tabela de Ferramentas utilizadas_
+_Tabela 1: Tabela de Ferramentas utilizadas. Fonte: autoria própria._
 
 
 ## Histórico de Versões

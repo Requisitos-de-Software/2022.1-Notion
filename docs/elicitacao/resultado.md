@@ -45,7 +45,7 @@ Nas tabelas abaixo, podemos ver todos os requisitos elicitados durante a fase de
 | RF34   | O usuário deve poder usar mesa e lápis digital a fim de editar meu caderno                                 | Brainstorming  |
 | RF35   | O usuário deve poder visualizar próximas página por uma seta que guia o usuário à horizontal               | Brainstorming  |
 
-_Tabela 1: Requisitos funcionais resultado_
+_Tabela 1: Requisitos funcionais resultado. Fonte: autoria própria._
 
 | Código   | Requisitos Não Funcionais                                            | Técnica       |
 |----------|----------------------------------------------------------------------|---------------|
@@ -55,7 +55,7 @@ _Tabela 1: Requisitos funcionais resultado_
 | RNF4     | As Formulas Matemáticas devem seguir o formato LaTeX.                | Brainstorming |
 | RNF5     | A sintaxe dos códigos devem seguir uma das linguagens mais recentes. | Brainstorming |
 
-_Tabela 2: Requisitos não funcionais resultado_
+_Tabela 2: Requisitos não funcionais resultado. Fonte: autoria própria._
 
 ## Histórico de Versões
 

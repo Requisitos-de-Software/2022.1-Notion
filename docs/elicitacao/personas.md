@@ -24,7 +24,7 @@ Ainda existem as antipersonas para tornar claro que não estamos projetando para
 
 |                 ![Figura 1](../_media/persona1.jpg)                  |
 |:--------------------------------------------------------------------:|
-| Imagem 1: Persona Carlos da Silva; Fonte: This person doesn't exist. |
+| Figura 1: Persona Carlos da Silva; Fonte: This person doesn't exist. |
 
 </div>
 
@@ -53,7 +53,7 @@ Objetivos práticos:
 
 |                ![Figura 2](../_media/persona2.jpg)                |
 |:-----------------------------------------------------------------:|
-| Imagem 2: Persona Marina Costa; Fonte: This person doesn't exist. |
+| Figura 2: Persona Marina Costa; Fonte: This person doesn't exist. |
 
 </div>
 
@@ -85,7 +85,7 @@ Objetivos práticos:
 
 |                 ![Figura 3](../_media/persona3.jpg)                 |
 |:-------------------------------------------------------------------:|
-| Imagem 3: Persona Marcelo Araújo; Fonte: This person doesn't exist. |
+| Figura 3: Persona Marcelo Araújo; Fonte: This person doesn't exist. |
 
 </div>
 
@@ -118,7 +118,7 @@ Objetivos práticos:
 
 |                 ![Figura 4](../_media/antipersona.jpg)                 |
 |:----------------------------------------------------------------------:|
-| Imagem 4: Antipersona Julio Almeida; Fonte: This person doesn't exist. |
+| Figura 4: Antipersona Julio Almeida; Fonte: This person doesn't exist. |
 
 Julio Almeida, estudante - "brincar é melhor que estudar"
 

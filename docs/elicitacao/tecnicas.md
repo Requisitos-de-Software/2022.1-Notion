@@ -60,7 +60,7 @@ Nessa seção serão apresentados os requisitos funcionais, mostrados na _Tabela
 | RF25    | O usuário deve poder criar blocos de markdown para editar as páginas.                                      |
 | RF26    | O usuário deve poder escolher entre opções de edição do bloco de markdown.                                 |
 
-_Tabela 1: Requisitos funcionais_
+_Tabela 1: Requisitos funcionais. Fonte: autoria própria._
 
 | Código  | Requisito                                                                     |
 |---------|-------------------------------------------------------------------------------|
@@ -69,7 +69,7 @@ _Tabela 1: Requisitos funcionais_
 | RNF3    | Software deve estar disponível no mínimo 98% do tempo.                        |
 | RNF4    | A incidência de falhas operacionais deve não exceder 3 a cada 1000 operações. |
 
-_Tabela 2: Requisitos não funcionais_
+_Tabela 2: Requisitos não funcionais. Fonte: autoria própria._
 
 ## 2. Questionário
 
@@ -187,13 +187,13 @@ Nessa seção serão apresentados os resultados da técnica de questionário, mo
 | ------ | ------------------------------------------------------------------- |
 | RF1    | O usuário deve poder ter uma agenda para visualizar afazeres do dia |
 
-_Tabela 3: Requisitos funcionais elicitados_
+_Tabela 3: Requisitos funcionais elicitados. Fonte: autoria própria._
 
 | Código | Requisito                             |
 | ------ | ------------------------------------- |
 | RNF1   | O aplicativo deve ser cross-plataform |
 
-_Tabela 4: Requisitos não funcionais elicitados_
+_Tabela 4: Requisitos não funcionais elicitados. Fonte: autoria própria._
 
 ### 2.6 Link para o formulário
 
@@ -230,14 +230,14 @@ Nessa seção serão apresentados os resultados da técnica de brainstorming, mo
 | RF4    | O usuário deve ser informado da situação do clima em sua região               |
 | RF5    | O usuário poderá usar templates compartilhar disponibilizados pela comunidade |
 
-_Tabela 5: Requisitos funcionais_
+_Tabela 5: Requisitos funcionais. Fonte: autoria própria._
 
 | Código | Requisito                                                          |
 | ------ | ------------------------------------------------------------------ |
 | RNF1   | As formulas matemáticas devem seguir o formato LaTex               |
 | RNF2   | A sintaxe dos códigos deve seguir uma das linguagens mais recentes |
 
-_Tabela 6: Requisitos não funcionais_
+_Tabela 6: Requisitos não funcionais. Fonte: autoria própria._
 
 ### 3.3 Sessão 2
 
@@ -266,7 +266,7 @@ Nessa seção serão apresentados os resultados da técnica de brainstorming, mo
 | RF5    | O usuário deve poder escolher entre templates de capas                                        |
 | RF6    | O usuário deve poder categorizar seus cadernos em tópicos                                     |
 
-_Tabela 7: Requisitos funcionais_
+_Tabela 7: Requisitos funcionais. Fonte: autoria própria._
 
 #### 3.3.3 Vídeo
 
