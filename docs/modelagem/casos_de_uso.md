@@ -30,7 +30,7 @@ O kit de símbolos pode ser visto na _Tabela 1_ abaixo.
 | Linha entre Ator e Caso de Uso | Participação do Ator no Sistema: Nos diagramas complexos, é importante saber quais atores estão associados a quais casos de uso.  |<img class="img_table" src="./_media/interacao.png"></img>|
 | Retângulo englobando os Casos de  Uso (Forma Oval Rotulada)  | Limite do Sistema: Define um escopo do sistema para os casos de uso. |<img class="img_table" src="./_media/fronteira.png"></img>|
 
-_Tabela 1: Coleção de Elementos do Kit UML para criação do Diagrama de Casos de Uso_
+_Tabela 1: Coleção de Elementos do Kit UML para criação do Diagrama de Casos de Uso; Fonte: autoria própria_
 
 <br/>
 <br/>
@@ -42,7 +42,7 @@ Para uma melhor percepção do sistema, podemos incluir também relações do di
 | include | Relação de um caso de uso que para ter sua funcionalidade executada precisa chamar outro caso de uso |
 | extend | Relação que identifica uma similaridade entre casos de uso porém com alguns passos novos inseridos no caso de uso extendido |
 
-_Tabela 2: Coletânea de Relações em um Diagrama de Caso de Uso e seus significados_
+_Tabela 2: Coletânea de Relações em um Diagrama de Caso de Uso e seus significados; Fonte: autoria própria_
 
 <br/>
 <br/>
@@ -213,6 +213,7 @@ UML DIAGRAMS - Use Case Diagrams -  https://www.uml-diagrams.org/use-case-diagra
 |--------|------------|--------------------------------------------------------|-------------------|---------|
 | 1.0    | 19/07/2022 | Criação da Página e Incorporação de Texto Introdutório | Guilherme Brito   | Arthur  |
 | 1.1    | 03/09/2022 | Adição das tabelas de casos de uso (1 - 12)            | Bernardo Pissutti | -       |
+| 1.2  | 12/09/2022 | Adição de autores nas tabelas            | Cícero | Bernardo      |
 <style>
     .img_table{
         height: 150px;
