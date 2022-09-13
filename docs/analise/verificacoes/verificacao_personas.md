@@ -1,6 +1,6 @@
 # Verificação de Personas
 
-## 1. Contexto
+## 1. Introdução
 
 - Técnica utilizada: Inspeção com checklist.
 - Autor do documento: Leonardo Vitoriano.
@@ -8,22 +8,29 @@
 
 O documento verificado está <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/elicitacao/personas">aqui</a>
 
-## 2. Checklist
+## 2. Verificação
+
+### 2.1 Preparação
 
 Tendo como base a explicação da Simone acerca das Personas, as seguintes perguntas foram formuladas para avaliar o artefato.
 
-1. As personas possuem identidade (nome, sobrenome, idade, foto)?
-2. As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?
-3. As personas possuem objetivos?
-4. As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?
-5. As personas possuem tarefas básicas ou críticas (frequência, duração, importância)?
-6. As personas pessuem relacionamentos?
-7. As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)
-8. As personas possuem expectativas?
+O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 
-### 2.1 Resultado
+| Item                                                         | Identificador |
+|--------------------------------------------------------------|---------------|
+| As personas possuem identidade (nome, sobrenome, idade, foto)?                                             | 1             |
+|  As personas possuem status (primária, secundária, antipersona ou outro stakeholder)? | 2             |
+| As personas possuem objetivos?            | 3             |
+|  As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?          | 4             |
+| As personas possuem tarefas básicas ou críticas (frequência, duração, importância)?                         | 5             |
+| As personas pessuem relacionamentos?                         | 6             |
+| As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)                                    | 7             |
+| As personas possuem expectativas?                              | 8             |   
 
-O resultado do checklist do item 2 pode ser encontrado na _Tabela 1_ e sua legenda na _Tabela 2_.
+_Tabela 1: Itens e identificadores da verificação do Personas_
+### 2.2 Inspeção
+
+O resultado do checklist do item 2 pode ser encontrado na _Tabela 2_ e sua legenda na _Tabela 3_.
 
 | Crítérios | Resposta |
 | --------- | -------- |
@@ -36,27 +43,25 @@ O resultado do checklist do item 2 pode ser encontrado na _Tabela 1_ e sua legen
 | 7         | ✓        |
 | 8         | ✓        |
 
-_Tabela 1: critério de aceitação para o artefato_
+_Tabela 2: critério de aceitação para o artefato_
 
 | Simbolo | Significado           |
 | ------- | --------------------- |
 | ✓       | Critério atendido     |
 | ✘       | Critério não atendido |
 
-_Tabela 2: legendas_
+_Tabela 3: legendas_
 
-### 2.2 Dados Percentuais de Acerto
 
-Tendo como base a _Tabela 1_ do item 2.1, é possível descrever a porcentagem de sucesso do artefato Personas com
-relação aos 8 itens definidos na Checklist. A porcentagem de sucesso é descrita da _Tabela 3_.
+Tendo como base a _Tabela 2_ do item 2.1, é possível descrever a porcentagem de sucesso do artefato Personas com
+relação aos 8 itens definidos na Checklist. A porcentagem de sucesso é descrita da _Tabela 4_.
 
 | Artefato | Porcentagem de sucesso |
 | -------- | ---------------------- |
 | Personas | 87,5%                  |
 
-_Tabela 3: porcentagem de sucesso das Personas_
+_Tabela 4: porcentagem de sucesso das Personas_
 
-## 3. Conclusão
 
 De acordo com a verificação utilizando a checklist desenvolvida, que o iten 2 da checklist em Personas
 não foi cumpridos, portanto o artefato necessita de correções.
@@ -71,3 +76,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão  | Data       | Descrição           | Autor              | Revisor |
 |---------|------------|---------------------|--------------------|---------|
 | 1.0     | 16/08/2022 | Criação do Artefato | Cícero Fernandes   | Arthur  |
+| 1.1      | 12/09/2022 | Padronização da página |Arthur | -    |
