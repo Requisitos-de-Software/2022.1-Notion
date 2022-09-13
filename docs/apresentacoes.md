@@ -40,6 +40,15 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WCjPvB5t3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 7. Apresentação 7 - Entrega Final
+
+### 7.1 Vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_f6o3Mwr5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 7.2 Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTH7-3SYkvnBz3g8tm678gd7uL_XTMiLxwkl5OE7h4aoV8tPKLx_-svaaCPf9EjQXUQCgDDmZVDvTzd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Histórico de Versões
 | Versão | Data  | Descrição                                   | Autor              | Revisor |
