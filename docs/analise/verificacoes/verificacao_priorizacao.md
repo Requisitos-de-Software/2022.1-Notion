@@ -1,6 +1,6 @@
 # Verificação da Priorização
 
-## 1. Contexto
+## 1. Introdução
 
 - Técnica utilizada: Inspeção com checklist.
 - Autor do documento: Guilherme Brito e Bernardo Chaves.
@@ -8,7 +8,8 @@
 
 O documento verificado está <a href="https://requisitos-de-software.github.io/2022.1-Notion/#/elicitacao/priorizacao">aqui</a>
 
-## 2. Checklist
+## 2. Inspeção
+### 2.1 Preparação
 
 Tendo como base o que foi pontuado na apresentação da priorização, as perguntas da tabela 1 foram levantadas para avaliar a qualidade do artefato.
 
@@ -24,7 +25,7 @@ Tendo como base o que foi pontuado na apresentação da priorização, as pergun
 
 *Tabela 1: Perguntas para verificação do artefato de priorização*
 
-### 2.1 Resultado
+### 2.2 Resultado
 
 O resultado da checklist da *tabela 1* pode ser encontrado na *tabela 2*.
 
@@ -39,7 +40,6 @@ O resultado da checklist da *tabela 1* pode ser encontrado na *tabela 2*.
 
 *Tabela 2: Resultado da verificação*
 
-### 2.2 Dados Percentuais de Acerto
 
 Tendo como base a *tabela 2*, houve cumprimento de 50% dos questionamentos levantados.
 
@@ -49,7 +49,6 @@ Tendo como base a *tabela 2*, houve cumprimento de 50% dos questionamentos levan
 
 *Tabela 2: Porcentagem de sucesso da priorização*
 
-## 3. Conclusão
 Uma quantidade considerável de aspectos relevantes para a qualidade da priorização não foi realizada. Leia-se, não houve participação de personas e usuários (itens 5 e 6)
 nem a utilização de técnicas de priorização além do tradicional MOSCOW (item 2), aspectos que exigem a correção do artefato.
 
@@ -57,3 +56,4 @@ nem a utilização de técnicas de priorização além do tradicional MOSCOW (it
 | Versão   | Data       | Descrição                      | Autor             | Revisor  |
 |----------|------------|--------------------------------|-------------------|----------|
 | 1.0      | 17/08/2022 | Criação e escrita do documento | Nícolas Mantzos   | Leonardo |
+| 1.1      | 12/09/2022 | Padronização da página |Arthur | -    |

@@ -59,7 +59,7 @@ A partir dessa resposta, um gráfico de pizza como o da figura 1, compilando a p
 não atendidos, será montado para facilitar a análise dos resultados e melhorar o rastreamento dos itens
 nas próximas fases.
 
-| ![imagemGráfico](../_media/grafico_guiadeestilo.png)                                      |
+| ![imagemGráfico](../_media/grafico_principiosgerais.png)                                      |
 |-------------------------------------------------------------------------------------------|
 | _Figura 1: Exemplo de gráfico de itens atendidos e não atendidos; Fonte: autoria própria_ |
 
@@ -116,7 +116,7 @@ Fagan, M. (1976) Design and Code Inspections to Reduce Errors in Software Develo
 | Versão   | Data       | Descrição         | Autor              | Revisor  |
 |----------|------------|-------------------|--------------------|----------|
 | 1.0      | 15/08/2022 | Criação da página | Leonardo Vitoriano | Todos    |
-
+| 1.1      | 12/09/2022 | Alteração página |Arthur | -    |
 
 
 
