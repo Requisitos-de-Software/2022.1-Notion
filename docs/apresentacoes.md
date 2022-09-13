@@ -59,3 +59,4 @@
 | 1.3    | 05/08 | Adição do vídeo da entrega 4                | Bernardo Pissutti  | Todos   |
 | 1.4    | 17/08 | Adição do vídeo da entrega 5                | Bernardo Pissutti  | Todos   |
 | 1.5    | 24/08 | Adição do vídeo da entrega 6                | Bernardo Pissutti  | Todos   |
+| 1.6    | 12/09 | Adição do vídeo e slides da entrega final   | Bernardo Pissutti  | Todos   |
